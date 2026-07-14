@@ -20,7 +20,7 @@
   const clickable = text => esc(text).replace(/\b[A-Za-z][A-Za-z'-]{2,}\b/g, raw => {
     const key = base(raw);
     return key && !functionWords.has(key) ? `<button class="lookup" data-word="${key}" type="button">${raw}</button>` : raw;
-  });
+  }).replace(/\n{2,}/g, "<br><br>").replace(/\n/g, " ");
   const accepted = answer => Array.isArray(answer) ? answer.map(String) : [String(answer)];
   const isCorrect = (given, answer) => accepted(answer).some(x => x.toLowerCase() === String(given).trim().toLowerCase());
   const currentExam = () => exams.find(e => `#exam/${e.id}` === location.hash);
