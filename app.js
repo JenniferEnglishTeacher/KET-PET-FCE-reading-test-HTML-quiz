@@ -107,7 +107,9 @@
           <div class="feedback">${saved ? listeningFeedbackHtml(saved, q) : ""}</div>
         </div>`;
       }).join("");
-      const notes = partDone ? `<div class="study-notes revealed"><h3>Caption-aligned study notes</h3><ul>${part.studyNotes.map(note => `<li>${clickable(note)}</li>`).join("")}</ul><p class="rights-note">${esc(test.transcriptNote)}</p></div>` : `<div class="study-notes">Finish every question in this part to reveal the study notes.</div>`;
+      const transcript = part.transcript ? `<details class="listening-transcript"><summary>Complete listening script</summary><div>${part.transcript.map(line => `<p>${clickable(line)}</p>`).join("")}</div></details>` : "";
+      const notes = partDone ? `<div class="study-notes revealed"><h3>Answer study notes</h3><ul>${part.studyNotes.map(note => `<li>${clickable(note)}</li>`).join("")}</ul>${transcript}<p class="rights-note">${esc(test.transcriptNote)}</p></div>` : `<div class="study-notes">Finish every question in this part to reveal the study notes${part.transcript ? " and complete script" : ""}.</div>`;
+      const sourceSheet = part.sourceImage ? `<details class="question-source"><summary>Original question sheet</summary><a href="${part.sourceImage}" target="_blank"><img src="${part.sourceImage}" alt="${esc(part.title)} original question sheet" loading="lazy"></a></details>` : `<div class="question-source text-source"><strong>Question source</strong><p>The teacher supplied this part as complete text.</p></div>`;
       return `<section class="part-card listening-part" id="${part.id}">
         <div class="part-heading"><div><p class="eyebrow">Questions ${part.range[0]}–${part.range[1]}</p><h2>${esc(part.title)}</h2></div><span class="part-status ${partDone?"done":""}">${partDone?"Completed":"In progress"}</span></div>
         <p class="listening-instructions">${clickable(part.instructions)}</p>
@@ -115,7 +117,7 @@
         <div class="practice-grid"><div class="source-column">
           <div class="listening-player"><iframe src="https://www.youtube-nocookie.com/embed/${test.videoId}?start=${part.audioStart}&end=${part.audioEnd}&rel=0" title="${esc(test.shortTitle)} ${esc(part.title)} audio" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe></div>
           <p class="source-caption">Use the player's CC button for the video's auto-generated English captions.</p>
-          <details class="question-source"><summary>Original question sheet</summary><a href="${part.sourceImage}" target="_blank"><img src="${part.sourceImage}" alt="${esc(part.title)} original question sheet" loading="lazy"></a></details>
+          ${sourceSheet}
         </div><div class="answer-column"><div class="answer-panel listening-answers"><h3>Your answers</h3>${sharedOptions}${questions}</div>${notes}</div></div>
       </section>`;
     }).join("");
