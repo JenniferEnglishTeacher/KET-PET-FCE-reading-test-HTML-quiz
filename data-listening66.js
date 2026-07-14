@@ -6,10 +6,10 @@ window.LISTENING_TESTS.unshift({
   title: "B2 First (FCE) Listening Test 66",
   videoId: "IFZRbfPLKj4",
   videoUrl: "https://www.youtube.com/watch?v=IFZRbfPLKj4",
-  preferTextSource: true,
+  preferTranscriptSource: true,
   questionCount: 30,
   sourceNote: "Questions were transcribed from the three supplied images and teacher-provided text. The complete teacher-provided script was matched to every answer and the original recording.",
-  transcriptNote: "Complete script supplied by the teacher. It is revealed after every question in the part has been answered.",
+  transcriptNote: "Complete script supplied by the teacher and displayed beside the questions for vocabulary study.",
   parts: [
     {
       id: "listening66-part-1", title: "Part 1: Multiple choice", range: [1, 8], mode: "choice", labels: ["A", "B", "C"], audioStart: 15, audioEnd: 829,
