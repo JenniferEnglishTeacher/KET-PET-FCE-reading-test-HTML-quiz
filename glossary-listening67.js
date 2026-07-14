@@ -1,0 +1,21 @@
+Object.assign(window.READING_GLOSSARY, {
+  challenge: ["n.", "挑戰"], competition: ["n.", "競賽"], encourage: ["v.", "鼓勵"], technique: ["n.", "技巧"],
+  physically: ["adv.", "在體力上"], tiring: ["adj.", "令人疲累的"], athletics: ["n.", "田徑運動"], instructor: ["n.", "教練；指導員"],
+  carbohydrate: ["n.", "碳水化合物"], suggestion: ["n.", "建議"], competitive: ["adj.", "競爭性的"], equipment: ["n.", "器材；設備"],
+  recommendation: ["n.", "建議"], argument: ["n.", "論點"], research: ["n.", "研究"], nutrition: ["n.", "營養"],
+  psychological: ["adj.", "心理的"], contact: ["n.", "接觸；聯繫"], diet: ["n.", "飲食"], fitness: ["n.", "體能；健康"],
+  warm: ["v.", "暖身"], muscle: ["n.", "肌肉"], injury: ["n.", "受傷；傷害"], preparation: ["n.", "準備"],
+  honorary: ["adj.", "榮譽的"], degree: ["n.", "學位"], administration: ["n.", "管理；行政"], aeronautical: ["adj.", "航空學的"],
+  engineering: ["n.", "工程學"], balloon: ["n.", "氣球"], manufacturer: ["n.", "製造商"], licence: ["n.", "執照"],
+  specifically: ["adv.", "特別地；專門地"], atlantic: ["n.", "大西洋"], undisputed: ["adj.", "無可爭議的"], manufacturing: ["n.", "製造業"],
+  capital: ["n.", "首都；中心"], advanced: ["v.", "推進；提升"], science: ["n.", "科學"], technology: ["n.", "科技"],
+  settle: ["v.", "定居；安頓"], area: ["n.", "地區"], dangerous: ["adj.", "危險的"], neighbourhood: ["n.", "鄰里；社區"],
+  countryside: ["n.", "鄉村"], safety: ["n.", "安全"], mugging: ["n.", "街頭搶劫"], village: ["n.", "村莊"],
+  nearby: ["adv.", "在附近"], regret: ["v.", "後悔"], idyllic: ["adj.", "恬靜美好的"], rural: ["adj.", "鄉村的"],
+  tradition: ["n.", "傳統"], background: ["n.", "背景資料"], acquire: ["v.", "習得；獲得"], communicate: ["v.", "溝通"],
+  gesture: ["n.", "手勢"], anxious: ["adj.", "焦慮的"], advisable: ["adj.", "明智可取的"], sympathetic: ["adj.", "體諒的；有同情心的"],
+  host: ["n.", "主人；東道主"], behaviour: ["n.", "行為"], culture: ["n.", "文化"], establish: ["v.", "建立"],
+  routine: ["n.", "日常作息"], lantern: ["n.", "燈籠"], festival: ["n.", "節慶"], participate: ["v.", "參與"],
+  feedback: ["n.", "回饋"], custom: ["n.", "習俗"], authentic: ["adj.", "真實的；道地的"], parade: ["n.", "遊行"],
+  observe: ["v.", "觀察"], transcript: ["n.", "逐字稿"], caption: ["n.", "字幕"], evidence: ["n.", "證據；依據"]
+});
