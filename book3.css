@@ -1,0 +1,11 @@
+.board-groups {
+  display: grid;
+  gap: 34px;
+}
+
+.card-group > h3 {
+  margin: 0 0 14px;
+  color: var(--teal-dark);
+  font-family: Georgia, serif;
+  font-size: 1.35rem;
+}

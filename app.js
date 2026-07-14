@@ -27,7 +27,7 @@
   function board() {
     resetButton.hidden = true;
     document.title = "Cambridge Reading Practice Board";
-    const cards = level => exams.filter(e => e.level === level).map(e => {
+    const cards = (level, series = null) => exams.filter(e => e.level === level && (series ? e.series === series : !e.series)).map(e => {
       const answers = load(stateKey(e.id));
       const done = Object.keys(answers).length;
       return `<a class="exam-card ${level.toLowerCase()}" href="#exam/${e.id}">
@@ -39,7 +39,10 @@
     }).join("");
     app.innerHTML = `<section class="board-hero"><p class="eyebrow">Cambridge exam practice</p><h1>Reading Practice Board</h1><p>Choose a test, answer directly beside the original page, and collect useful vocabulary as you read.</p></section>
       <section class="board-section"><div><p class="eyebrow">B1 level</p><h2>PET Reading Tests</h2></div><div class="card-grid">${cards("PET")}</div></section>
-      <section class="board-section"><div><p class="eyebrow">B2 level</p><h2>FCE Reading Tests</h2></div><div class="card-grid">${cards("FCE")}</div></section>`;
+      <section class="board-section"><div><p class="eyebrow">B2 level</p><h2>FCE Reading Tests</h2></div><div class="board-groups">
+        <div class="card-group"><h3>FCE Practice Tests 1-4</h3><div class="card-grid">${cards("FCE")}</div></div>
+        <div class="card-group"><h3>Cambridge English First for Schools 3</h3><div class="card-grid">${cards("FCE", "Book 3")}</div></div>
+      </div></section>`;
   }
 
   function examView(exam) {
