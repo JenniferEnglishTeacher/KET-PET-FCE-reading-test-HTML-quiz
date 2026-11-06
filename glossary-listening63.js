@@ -52,5 +52,20 @@ Object.assign(window.READING_GLOSSARY, {
   "emergency": ["n.", "緊急情況"],
   "empathy": ["n.", "同理心"],
   "fatigue": ["n.", "疲勞"],
-  "regretful": ["adj.", "遺憾的；後悔的"]
+  "regretful": ["adj.", "遺憾的；後悔的"],
+  "approach": ["v.", "接洽；交涉"],
+  "stretch": ["v.", "伸展"],
+  "fancy": ["v.", "想像；想要"],
+  "gear": ["n.", "裝備；用具"],
+  "permanent": ["adj.", "永久的；常設的"],
+  "jet": ["v.", "乘噴氣式飛機旅行"],
+  "romance": ["n.", "戀愛關係；浪漫史"],
+  "interfere": ["v.", "干涉；妨礙"],
+  "notification": ["n.", "通知；通告"],
+  "figure": ["n.", "數字；數據"],
+  "magical": ["adj.", "神奇的；迷人的"],
+  "genuinely": ["adv.", "真誠地；真正地"],
+  "disappointed": ["adj.", "失望的"],
+  "buddy": ["n.", "好友；夥伴"],
+  "compose": ["v.", "作曲；創作"]
 });
