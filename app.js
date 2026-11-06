@@ -50,12 +50,12 @@
       </a>`;
     }).join("");
     app.innerHTML = `<section class="board-hero"><p class="eyebrow">Cambridge exam practice</p><h1>Reading & Listening Practice Board</h1><p>Choose a test, answer online, and collect useful vocabulary as you practise.</p></section>
-      <section class="board-section"><div><p class="eyebrow">B1 level</p><h2>PET Reading Tests</h2></div><div class="card-grid">${cards("PET")}</div></section>
-      <section class="board-section"><div><p class="eyebrow">B2 level</p><h2>FCE Reading Tests</h2></div><div class="board-groups">
+      <section class="board-section" id="pet-reading"><div><p class="eyebrow">B1 level</p><h2>PET Reading Tests</h2></div><div class="card-grid">${cards("PET")}</div></section>
+      <section class="board-section" id="fce-reading"><div><p class="eyebrow">B2 level</p><h2>FCE Reading Tests</h2></div><div class="board-groups">
         <div class="card-group"><h3>FCE Practice Tests 1-4</h3><div class="card-grid">${cards("FCE")}</div></div>
         <div class="card-group"><h3>Cambridge English First for Schools 3</h3><div class="card-grid">${cards("FCE", "Book 3")}</div></div>
       </div></section>
-      <section class="board-section listening-section"><div><p class="eyebrow">B2 level</p><h2>FCE Listening Tests</h2></div><div class="card-grid">${listeningCards}</div></section>`;
+      <section class="board-section listening-section" id="fce-listening"><div><p class="eyebrow">B2 level</p><h2>FCE Listening Tests</h2></div><div class="card-grid">${listeningCards}</div></section>`;
   }
 
   function examView(exam) {
@@ -150,6 +150,8 @@
     const exam = currentExam();
     if (listening) listeningView(listening); else if (exam) examView(exam); else board();
     app.focus({preventScroll:true});
+    const section = !listening && !exam && /^#(fce-listening|fce-reading|pet-reading)$/.test(location.hash) ? document.querySelector(location.hash) : null;
+    if (section) section.scrollIntoView({block:"start"});
   }
   addEventListener("hashchange", render);
   document.addEventListener("click", event => {
