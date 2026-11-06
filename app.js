@@ -149,6 +149,8 @@
     const listening = currentListening();
     const exam = currentExam();
     if (listening) listeningView(listening); else if (exam) examView(exam); else board();
+    // Bigger text on every FCE screen (FCE reading tests, FCE listening tests, FCE board sections).
+    document.documentElement.classList.toggle("fce-large", !!listening || (exam && exam.level === "FCE") || /^#fce-/.test(location.hash));
     app.focus({preventScroll:true});
     const section = !listening && !exam && /^#(fce-listening|fce-reading|pet-reading)$/.test(location.hash) ? document.querySelector(location.hash) : null;
     if (section) section.scrollIntoView({block:"start"});
