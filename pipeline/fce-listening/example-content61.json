@@ -1,0 +1,1348 @@
+{
+ "AUDIO_BOUNDS": [
+  [
+   0,
+   733
+  ],
+  [
+   733,
+   1273
+  ],
+  [
+   1273,
+   1758
+  ],
+  [
+   1758,
+   2352
+  ]
+ ],
+ "EXTRA_GLOSS": {
+  "rumour": [
+   "n.",
+   "謠言；傳聞"
+  ],
+  "impression": [
+   "n.",
+   "印象"
+  ],
+  "stampede": [
+   "n.",
+   "蜂擁；搶購人潮"
+  ],
+  "gadgetry": [
+   "n.",
+   "各式電子產品"
+  ],
+  "vacuum": [
+   "n.",
+   "吸塵器（vacuum cleaner）"
+  ],
+  "lottery": [
+   "n.",
+   "樂透；彩券"
+  ],
+  "legalise": [
+   "v.",
+   "使合法化"
+  ],
+  "dealer": [
+   "n.",
+   "販子；經銷商"
+  ],
+  "conscience": [
+   "n.",
+   "良心"
+  ],
+  "moral": [
+   "adj.",
+   "道德的"
+  ],
+  "graduate": [
+   "v.",
+   "畢業"
+  ],
+  "credit": [
+   "n.",
+   "信用借貸；賒帳"
+  ],
+  "psychologist": [
+   "n.",
+   "心理學家"
+  ],
+  "counsellor": [
+   "n.",
+   "輔導員；顧問"
+  ],
+  "panel": [
+   "n.",
+   "座談小組；評審團"
+  ],
+  "virtual": [
+   "adj.",
+   "虛擬的"
+  ],
+  "sympathy": [
+   "n.",
+   "同情；支持"
+  ],
+  "nag": [
+   "v.",
+   "嘮叨；不斷抱怨"
+  ],
+  "temporary": [
+   "adj.",
+   "暫時的；短暫的"
+  ],
+  "intriguing": [
+   "adj.",
+   "耐人尋味的"
+  ],
+  "generalization": [
+   "n.",
+   "概括；以偏概全的說法"
+  ],
+  "genuinely": [
+   "adv.",
+   "真正地"
+  ],
+  "excuse": [
+   "n.",
+   "藉口"
+  ]
+ },
+ "P1": [
+  {
+   "n": 1,
+   "stem": "You will hear a woman talking about an invitation she turned down.",
+   "q": "What excuse did she make?",
+   "opts": {
+    "A": "She said she had arranged to go home.",
+    "B": "She said she had already eaten.",
+    "C": "She said she didn't like the food."
+   },
+   "ans": "A",
+   "t": 25,
+   "ev": "I said I was expected home but it was a complete lie.",
+   "why": "Her excuse was that she was 'expected home' = she had arranged to go home. The terrible food is the real reason, not the excuse."
+  },
+  {
+   "n": 2,
+   "stem": "You hear a man being interviewed about his job.",
+   "q": "What is the job?",
+   "opts": {
+    "A": "an economist",
+    "B": "a TV interviewer",
+    "C": "a politician"
+   },
+   "ans": "C",
+   "t": 101,
+   "ev": "When we want people to vote for us we pretend that we can make everything right… we all have to say we agree with our party leader.",
+   "why": "'Vote for us', 'party system' and 'party leader' all point to a politician. Money in your pocket is a distractor for 'economist'."
+  },
+  {
+   "n": 3,
+   "stem": "You hear a woman talking about meeting a neighbour in town.",
+   "q": "Why didn't the speaker say anything about her sister?",
+   "opts": {
+    "A": "The rumour was not true.",
+    "B": "The neighbour might tell other people.",
+    "C": "She didn't know anything."
+   },
+   "ans": "B",
+   "t": 194,
+   "ev": "She'd have wanted to know all the details and everyone would have known by the weekend.",
+   "why": "The rumour was true and she had known for ages, so A and C are wrong. She feared the neighbour would spread it."
+  },
+  {
+   "n": 4,
+   "stem": "You hear a woman talking about a party she went to.",
+   "q": "Why did she lie to the man?",
+   "opts": {
+    "A": "to see how he reacted",
+    "B": "to make an impression on him",
+    "C": "to keep the conversation going"
+   },
+   "ans": "A",
+   "t": 286,
+   "ev": "It's not true. I just wanted to see his face.",
+   "why": "'See his face' = see his reaction. She was bored and wanted to end the football talk, not impress him."
+  },
+  {
+   "n": 5,
+   "stem": "You hear a man talking about an accident he was involved in.",
+   "q": "What was the cause of the accident?",
+   "opts": {
+    "A": "The speaker had fallen asleep while driving.",
+    "B": "There had been a lot of traffic on the road.",
+    "C": "Something had gone wrong with the car."
+   },
+   "ans": "A",
+   "t": 374,
+   "ev": "Unfortunately I nodded off for a second, went off the road and scraped the car against a tree.",
+   "why": "'Nodded off' = fell asleep. There was 'hardly any traffic', so B is the opposite of what he says."
+  },
+  {
+   "n": 6,
+   "stem": "You hear a woman talking about a phone call she answered.",
+   "q": "Why was her brother angry?",
+   "opts": {
+    "A": "He had wanted to speak to Annie.",
+    "B": "He had wanted to answer the phone himself.",
+    "C": "He had wanted to speak to Barbara."
+   },
+   "ans": "A",
+   "t": 462,
+   "ev": "His exact words were, 'If I'd known it was Annie, I'd have spoken to her.'",
+   "why": "He avoided Barbara, but the caller was actually Annie, the person he did want to talk to."
+  },
+  {
+   "n": 7,
+   "stem": "You hear two people talking about something which one of them has bought.",
+   "q": "What was wrong with this thing?",
+   "opts": {
+    "A": "It was broken.",
+    "B": "It wasn't genuine.",
+    "C": "It wasn't very good."
+   },
+   "ans": "B",
+   "t": 552,
+   "ev": "As soon as I took it out of its case I knew it was a fake.",
+   "why": "'A fake' = not genuine. 'Made in Toyland' confirms it. 'Broken' refers to his old watch, dropped in the bath."
+  },
+  {
+   "n": 8,
+   "stem": "You hear a woman talking about something she did for her sister.",
+   "q": "Why didn't she tell her sister her exam results?",
+   "opts": {
+    "A": "She shouldn't have opened the letter.",
+    "B": "It would have spoiled her sister's holiday.",
+    "C": "She couldn't contact her sister."
+   },
+   "ans": "B",
+   "t": 634,
+   "ev": "If I'd told her the result, it would have ruined her holiday.",
+   "why": "'Ruined' = spoiled. Her sister had asked her to open the letter, and she did speak to her on the phone, so A and C are wrong."
+  }
+ ],
+ "P1_INSTR": "You will hear people talking in eight different situations. For questions 1–8, choose the best answer (A, B or C).",
+ "P2": [
+  {
+   "n": 9,
+   "pre": "The gadget that British people spend the second most amount of time using is",
+   "post": ".",
+   "ans": [
+    "television",
+    "the television",
+    "TV",
+    "the TV"
+   ],
+   "key": "(the) television / TV",
+   "t": 814,
+   "ev": "Most time was spent on the computer, around four hours, followed by the television, 90 minutes."
+  },
+  {
+   "n": 10,
+   "pre": "British people think the ability to speak",
+   "post": "is not at all important.",
+   "ans": [
+    "a foreign language",
+    "foreign language",
+    "foreign languages",
+    "a foreign langauge"
+   ],
+   "key": "a foreign language",
+   "t": 836,
+   "ev": "…with speaking a foreign language coming way behind."
+  },
+  {
+   "n": 11,
+   "pre": "Despite the",
+   "post": "situation people are happy to pay for the latest gadget.",
+   "ans": [
+    "economic",
+    "difficult economic",
+    "economic climate",
+    "difficult economic climate"
+   ],
+   "key": "(difficult) economic",
+   "t": 866,
+   "ev": "Even though we are living in a difficult economic climate, it seems the price tag… hardly matters."
+  },
+  {
+   "n": 12,
+   "pre": "Some previously popular gadgets, such as",
+   "post": ", are rarely used any more.",
+   "ans": [
+    "bread machines",
+    "bread machine",
+    "breadmachines"
+   ],
+   "key": "bread machines",
+   "t": 900,
+   "ev": "I wonder how many bread machines… are now lying unused at the back of kitchen cupboards."
+  },
+  {
+   "n": 13,
+   "pre": "In the fifties people showed as much",
+   "post": "as they do today when a new gadget comes on the market.",
+   "ans": [
+    "excitement"
+   ],
+   "key": "excitement",
+   "t": 917,
+   "ev": "There was still the same excitement when any new gadget appeared."
+  },
+  {
+   "n": 14,
+   "pre": "A historic televised event was sometimes shared with",
+   "post": ".",
+   "ans": [
+    "neighbours",
+    "neighbors",
+    "the neighbours",
+    "the neighbors",
+    "all the neighbours",
+    "all the neighbors"
+   ],
+   "key": "(the) neighbours",
+   "t": 930,
+   "ev": "At the coronation of Queen Elizabeth II in 1953, all the neighbours were invited in to watch the ceremony."
+  },
+  {
+   "n": 15,
+   "pre": "A 1950s housewife spent the majority of her day doing a variety of",
+   "post": ".",
+   "ans": [
+    "household tasks",
+    "household task",
+    "housework"
+   ],
+   "key": "household tasks",
+   "t": 949,
+   "ev": "Most of their day was taken up with cleaning, cooking, washing and other household tasks."
+  },
+  {
+   "n": 16,
+   "pre": "The introduction of household gadgets into many homes in the 1950s meant",
+   "post": "for women than they had previously had.",
+   "ans": [
+    "more leisure time",
+    "more free time",
+    "more leisure"
+   ],
+   "key": "more leisure time",
+   "t": 969,
+   "ev": "A woman's workload was substantially reduced and women had more leisure time than ever before."
+  },
+  {
+   "n": 17,
+   "pre": "If a woman was given a household gadget as a present nowadays she would not be",
+   "post": ".",
+   "ans": [
+    "pleased",
+    "very pleased"
+   ],
+   "key": "pleased",
+   "t": 981,
+   "ev": "Most women nowadays would not be pleased to be given a household gadget."
+  },
+  {
+   "n": 18,
+   "pre": "Many women prefer phones which have fewer",
+   "post": ".",
+   "ans": [
+    "functions",
+    "basic functions",
+    "function"
+   ],
+   "key": "functions",
+   "t": 1011,
+   "ev": "A lot of women want a phone that will perform, say, five basic functions… For men, the more functions there are the better."
+  }
+ ],
+ "P2_HEADING": "GADGETS",
+ "P2_INSTR": "You will hear someone giving a talk about gadgets. For questions 9–18, complete the sentences with a word or short phrase.",
+ "P2_TOPIC": "Gadgets",
+ "P3": [
+  {
+   "n": 19,
+   "sp": 1,
+   "ans": "G",
+   "t": 1329,
+   "ev": "As soon as I had cash I'd gamble it away.",
+   "why": "Gambling meant the money disappeared immediately. She says gambling was a problem but she got help, which is not H."
+  },
+  {
+   "n": 20,
+   "sp": 2,
+   "ans": "B",
+   "t": 1372,
+   "ev": "I've got no intention of doing an ordinary job. There's just not enough money in it.",
+   "why": "An ordinary job pays less, and he refuses to do one. He says 'if I don't do it someone else will', which is an excuse, not an admission (F)."
+  },
+  {
+   "n": 21,
+   "sp": 3,
+   "ans": "A",
+   "t": 1408,
+   "ev": "I realise it's entirely my own fault, but I think credit card companies and banks are also to blame.",
+   "why": "'Entirely my own fault' = accepts responsibility. He wants to pay back his debts but doesn't know how, so D is wrong."
+  },
+  {
+   "n": 22,
+   "sp": 4,
+   "ans": "E",
+   "t": 1449,
+   "ev": "That's when we started arguing… in the end we split up. If we hadn't had money problems we might still be together.",
+   "why": "Money problems led to arguments and the end of her marriage."
+  },
+  {
+   "n": 23,
+   "sp": 5,
+   "ans": "C",
+   "t": 1496,
+   "ev": "I got caught up in the rat race, just trying to earn more and more… now I realise there are far more important things in life than money.",
+   "why": "He used to chase money (the past) and has now changed. The heart attack only might have happened, so H is a trap."
+  }
+ ],
+ "P3_INSTR": "You will hear five short extracts in which people are talking about money. For questions 19–23, choose from the list (A–H) what each speaker says. Use the letters only once. There are three extra letters which you do not need to use.",
+ "P3_OPTS": {
+  "A": "I accept responsibility for my problems.",
+  "B": "I wouldn't want to earn less.",
+  "C": "I was motivated by money in the past.",
+  "D": "I don't intend to pay back what I owe.",
+  "E": "Lack of money ruined my relationship.",
+  "F": "I may have no moral conscience.",
+  "G": "I never had money for long.",
+  "H": "Money affected my health."
+ },
+ "P3_TOPIC": "Talking about Money",
+ "P4": [
+  {
+   "n": 24,
+   "q": "What are James' parents worried about?",
+   "opts": {
+    "A": "that their son does not have many friends",
+    "B": "that their son spends too much time with internet friends",
+    "C": "that their son goes out with his friends too often"
+   },
+   "ans": "B",
+   "t": 1881,
+   "ev": "They're getting more and more obsessed about the amount of time I spend with what they call my virtual friends.",
+   "why": "'Virtual friends' = internet friends; the worry is 'the amount of time'."
+  },
+  {
+   "n": 25,
+   "q": "When does James spend the most time talking to virtual friends?",
+   "opts": {
+    "A": "when he is going to college",
+    "B": "when he first wakes up",
+    "C": "when he isn't at college"
+   },
+   "ans": "C",
+   "t": 1919,
+   "ev": "If I don't have to go to college, I'll spend a couple of hours chatting to friends in the morning and maybe another two in the evening.",
+   "why": "Waking up takes only about five minutes. Four hours happens on days without college."
+  },
+  {
+   "n": 26,
+   "q": "What is James' own opinion of his behaviour?",
+   "opts": {
+    "A": "He doesn't think it is unusual.",
+    "B": "He realizes that it is antisocial.",
+    "C": "He knows his behaviour will have to change."
+   },
+   "ans": "A",
+   "t": 1940,
+   "ev": "I just think it's completely normal for people of my age.",
+   "why": "'Completely normal' = not unusual. 'Rude and antisocial' is his parents' view, not his."
+  },
+  {
+   "n": 27,
+   "q": "What generalization does James make about adults?",
+   "opts": {
+    "A": "They don't understand young people.",
+    "B": "They are too serious-minded.",
+    "C": "They are always busy."
+   },
+   "ans": "B",
+   "t": 1957,
+   "ev": "It's just a bit of fun. I think adults take these things too seriously.",
+   "why": "'Take these things too seriously' = too serious-minded. 'Too busy' is only about his dad, not adults in general."
+  },
+  {
+   "n": 28,
+   "q": "What does Evan, the child psychologist, think about James' problem?",
+   "opts": {
+    "A": "He supports James' parents' views.",
+    "B": "He sympathizes with James.",
+    "C": "He understands both points of view."
+   },
+   "ans": "A",
+   "t": 1985,
+   "ev": "I have great sympathy with your parents and completely understand their point of view.",
+   "why": "His sympathy is with the parents, not James, and he only gives the parents' side."
+  },
+  {
+   "n": 29,
+   "q": "What does Joanne Carter, the head teacher, suggest James should do?",
+   "opts": {
+    "A": "get professional treatment for his addiction",
+    "B": "take up new sports and other activities",
+    "C": "gradually reduce the time he spends on virtual friends"
+   },
+   "ans": "C",
+   "t": 2014,
+   "ev": "I suggest you try to cut back your contact with digital friends by a few minutes every day.",
+   "why": "'A few minutes every day' = gradually. Tennis is an old activity, not a new one, and she never mentions treatment."
+  },
+  {
+   "n": 30,
+   "q": "On what does Liz Winslett base her advice to James?",
+   "opts": {
+    "A": "her professional experience",
+    "B": "what happened in the case of one of her children",
+    "C": "her observations of other teenagers she knows"
+   },
+   "ans": "B",
+   "t": 2053,
+   "ev": "That's if my own son's experience is anything to go by.",
+   "why": "'My own son' = one of her children. She is a counsellor, but she doesn't use that experience here."
+  }
+ ],
+ "P4_INSTR": "You will hear part of a radio phone-in programme on the subject of people's use of digital technology. For questions 24–30, choose the best answer (A, B or C).",
+ "P4_TOPIC": "Young People & Digital Technology",
+ "STUDY_NOTES": {
+  "1": [
+   "Excuse questions ask what the speaker SAID, not the real reason. In Q1 'expected home' is the excuse; the bad food is the truth.",
+   "Listen for paraphrases: 'nodded off' = fell asleep (Q5), 'a fake' = not genuine (Q7), 'ruined' = spoiled (Q8).",
+   "Watch for opposites: 'hardly any traffic' rules out B in Q5; she had known 'for ages' rules out C in Q3."
+  ],
+  "2": [
+   "Q9 asks for the SECOND most used gadget. The computer is first, so the answer is the television.",
+   "Several answers come in a list or a comparison (Q16 'more leisure time than ever before', Q18 'the more functions the better'). Write the whole phrase that fits the gap.",
+   "Check that your answer fits the grammar of the sentence: 'not be ______' needs an adjective (pleased); 'fewer ______' needs a plural noun (functions)."
+  ],
+  "3": [
+   "Match what each speaker MEANS, not single words. Speaker 5 mentions a heart attack, but it only might have happened, so H is a trap.",
+   "Speaker 2 says 'not enough money' in an ordinary job = he wouldn't want to earn less (B).",
+   "D, F and H are the three extra letters. Speaker 3 is worried about paying back his debt, so he never refuses to pay (D)."
+  ],
+  "4": [
+   "Separate whose opinion it is: 'rude and antisocial' is the parents' view; James thinks it is 'completely normal' (Q26).",
+   "Generalizations use words like 'adults' or 'people': 'adults take these things too seriously' (Q27). 'Too busy' is only about his dad.",
+   "Speakers' advice is often supported by a reason: Liz bases hers on 'my own son's experience' (Q30)."
+  ]
+ },
+ "T1": [
+  [
+   "Question 1",
+   "第一題",
+   [
+    [
+     "Woman: I was at my boyfriend's house a couple of weeks ago and his mother asked me if I'd like to stay for lunch. I said I was expected home, but it was a complete lie. I'd actually told my parents I'd be out all day and not to expect me home before the evening. The thing is, I'd eaten at his house before and the food was terrible, but you can't tell the truth in situations like that, can you?",
+     "女：幾週前我在男朋友家，他媽媽問我要不要留下來吃午餐。我說家裡在等我回去，但那完全是謊話。其實我早就跟爸媽說我整天都不在家，要他們晚上之前別等我回去。問題是，我以前在他家吃過飯，菜難吃得要命，可是在那種情況下總不能說實話吧？"
+    ]
+   ]
+  ],
+  [
+   "Question 2",
+   "第二題",
+   [
+    [
+     "Interviewer: So why do you think the general public don't trust people like you?",
+     "訪問者：那麼你認為一般大眾為什麼不信任像你這樣的人？"
+    ],
+    [
+     "Man: I think there are two main reasons. Firstly, we're famous for breaking our promises, aren't we? When we want people to vote for us, we pretend that we can make everything right. We say things like 'This time next year you'll all have more money in your pocket', and sometimes it's impossible to make these things happen. It's then that people accuse us of telling lies. The second reason is to do with the party system. We all have to say we agree with our party leader, whether we really do or not.",
+     "男：我認為主要有兩個原因。第一，我們出了名地愛違背承諾，不是嗎？當我們想要大家投票給我們時，就假裝自己能把一切都搞定。我們會說「明年這個時候，你們口袋裡的錢都會變多」，但有時候這些事根本不可能實現。這時人們就會指責我們說謊。第二個原因跟政黨制度有關。不管我們是否真心同意，都得說自己支持黨主席。"
+    ]
+   ]
+  ],
+  [
+   "Question 3",
+   "第三題",
+   [
+    [
+     "Woman: I'm not really keen on lying, but I was in town the other day and I bumped into one of my neighbours. She said she'd heard that my sister and her husband had split up and she wanted to know if it was true. I kept a straight face and said I'd no idea. It was a lie, of course. I mean, I'd known about it for ages, but I wasn't going to give our family secrets away to someone I hardly knew. The trouble is, she'd have wanted to know all the details, and everyone would have known by the weekend.",
+     "女：我其實不太喜歡說謊，但前幾天我在市區碰巧遇到一位鄰居。她說她聽說我姊姊和姊夫分手了，想知道是不是真的。我面不改色地說我完全不知道。當然那是謊話。我的意思是，我早就知道這件事很久了，但我可不打算把家醜洩漏給一個幾乎不認識的人。問題在於，她一定會想知道所有細節，然後到週末大家就全都知道了。"
+    ]
+   ]
+  ],
+  [
+   "Question 4",
+   "第四題",
+   [
+    [
+     "Woman: I have to admit, life would have been dull if I hadn't told the occasional lie. Not wicked ones, just little lies that don't hurt anyone. I remember once at a party I got stuck with this really boring boy. All he could talk about was football. After about 20 minutes I was really fed up, so I told him my cousin played for England. His eyes nearly popped out of his head! He wanted to know my cousin's name and could I introduce him. When I said it was David Beckham, I thought he was going to faint with excitement. It's not true. I just wanted to see his face.",
+     "女：我得承認，如果我從不偶爾說個小謊，生活一定很無聊。不是那種惡毒的謊話，只是不傷害任何人的小謊。我記得有一次在派對上，我被一個超無聊的男生纏住，他滿口只會聊足球。大約二十分鐘後我真的受夠了，就告訴他我表哥是英格蘭國家隊球員。他眼睛差點都瞪出來了！他想知道我表哥叫什麼名字，還問我能不能介紹他認識。當我說是大衛·貝克漢時，我以為他會興奮到昏倒。那不是真的，我只是想看看他的表情。"
+    ]
+   ]
+  ],
+  [
+   "Question 5",
+   "第五題",
+   [
+    [
+     "Man: On the way back I was really tired. I should have stopped for a quick nap, but I didn't. I kept going because it was late and I wanted to get home. It was easy driving – there was hardly any traffic on the road – but unfortunately I nodded off for a second, went off the road and scraped the car against a tree. There wasn't much damage to the car and I was fine after that. As soon as I got home I told my dad that I'd hit a tree, but what I didn't say was that I'd nodded off.",
+     "男：回程時我非常疲倦。我本該停下來小睡一下，但我沒有。我一直開，因為時間很晚了，我想趕快回家。路很好開，路上幾乎沒什麼車，但不幸的是我打瞌睡了一秒，車子衝出路面，擦撞到一棵樹。車子損傷不大，我之後也沒事。我一到家就告訴爸爸我撞到樹了，但我沒說的是我打了瞌睡。"
+    ]
+   ]
+  ],
+  [
+   "Question 6",
+   "第六題",
+   [
+    [
+     "Woman: The other day the phone rang and my brother asked me to answer it. He thought it was probably his friend Barbara and he didn't want to speak to her. He asked me to say he wasn't in. Actually, it wasn't Barbara, it was another friend of his, Annie. Anyway, I just said he was out. Later, when I told him who it was, he was absolutely furious. His exact words were, 'If I'd known it was Annie, I'd have spoken to her.' That's one of the problems about lying for someone else, isn't it?",
+     "女：前幾天電話響了，我弟弟叫我去接。他以為大概是他朋友芭芭拉打來的，不想跟她講話，就要我說他不在。其實那不是芭芭拉，而是他另一個朋友安妮。總之，我就說他出去了。後來我告訴他是誰打來的，他簡直氣炸了。他的原話是：「如果我知道是安妮，我就會跟她講話了。」這就是替別人說謊的麻煩之一，不是嗎？"
+    ]
+   ]
+  ],
+  [
+   "Question 7",
+   "第七題",
+   [
+    [
+     "Woman: Didn't you think it was a bit strange, someone offering you such a bargain at a motorway service area?",
+     "女：有人在高速公路休息站賣你這麼便宜的東西，你不覺得有點奇怪嗎？"
+    ],
+    [
+     "Man: Not really. It looked exactly like the real thing. And anyway, I've needed a new one for ages. Mine hasn't kept proper time since I dropped it in the bath.",
+     "男：不太覺得。它看起來跟真品一模一樣。再說，我早就需要一支新的了。我那支自從掉進浴缸後就一直走不準。"
+    ],
+    [
+     "Woman: So when did you realise you'd been tricked?",
+     "女：那你什麼時候發現自己被騙了？"
+    ],
+    [
+     "Man: As soon as I took it out of its case, I knew it was a fake. When I turned it over, it said 'Made in Toyland' on the back.",
+     "男：我一把它從盒子裡拿出來，就知道是假貨。翻過來一看，背面寫著「玩具國製造」。"
+    ]
+   ]
+  ],
+  [
+   "Question 8",
+   "第八題",
+   [
+    [
+     "Woman: My sister was on holiday last summer. She was expecting her exam results towards the end of August and she asked me to open her letters and telephone her with the results as soon as they arrived. She'd only been away about a week when the letter came. I was so excited I just ripped it open without thinking. I couldn't believe it – she'd failed! I didn't know what to do. I couldn't tell her. She rang the next day and I said the letter hadn't come. I mean, if I'd told her the result, it would have ruined her holiday.",
+     "女：去年夏天我姊姊去度假。她預計八月底會收到考試成績，所以拜託我幫她拆信，成績一寄到就打電話告訴她。她才離開大約一個禮拜，信就寄來了。我太興奮了，想都沒想就把信撕開。我簡直不敢相信——她沒考過！我不知道該怎麼辦，我說不出口。隔天她打電話來，我就說信還沒寄到。我的意思是，如果我告訴她結果，她的假期就毀了。"
+    ]
+   ]
+  ]
+ ],
+ "T2": [
+  [
+   "Gadget Use and Valued Life Skills",
+   "電子產品的使用與重視的生活技能",
+   [
+    [
+     "Speaker: Our lives today are dominated by gadgets. According to a recent survey, British people spend nine hours a day on average using some form of electronic gadget. Most time was spent on the computer, around four hours, followed by the television, 90 minutes, the phone, around 40 minutes, and the microwave, 10 minutes. The same survey revealed that one-third of British people also considered their ability to use gadgets as their most valuable life skill. Other life skills such as cooking, DIY and gardening were ranked next, with speaking a foreign language coming way behind.",
+     "講者：我們今天的生活被各式電子產品所主宰。根據最近一項調查，英國人平均每天花九小時使用某種電子產品。使用時間最長的是電腦，約四小時，其次是電視，九十分鐘；手機約四十分鐘；微波爐十分鐘。同一項調查也顯示，三分之一的英國人認為使用電子產品的能力是他們最寶貴的生活技能。其次是烹飪、居家修繕和園藝等其他生活技能，而會說外語則遠遠落後。"
+    ],
+    [
+     "We have, it seems, become a nation both obsessed with and passionate about technology. This would seem to be supported by the long queues for the latest Apple iPad, which started three days before the item was even on sale, to the high street stampedes for the latest Nintendo game. And even though we are living in a difficult economic climate, it seems the price tag for the latest piece of gadgetry hardly matters. The important thing is to be the first among your friends to have it.",
+     "看來我們已經成為一個既沉迷又熱衷於科技的國家。從最新款蘋果 iPad 在開賣前三天就大排長龍，到大街上為搶購最新任天堂遊戲而蜂擁而至，似乎都證明了這一點。而且，即使我們身處艱困的經濟環境，最新電子產品的價格似乎也無關緊要。重要的是要成為朋友中第一個擁有它的人。"
+    ]
+   ]
+  ],
+  [
+   "Why We Buy, and the 1950s",
+   "我們為何購買，以及一九五〇年代",
+   [
+    [
+     "So why do we have this obsession with gadgets? A lot of technology purchases are a case of keeping up with the Joneses. Someone you know gets the latest TV or smartphone, for instance, and you feel you are missing out if you don't get one, so you do. I wonder how many bread machines, which everyone seemed to have in the 1990s, are now lying unused at the back of kitchen cupboards.",
+     "那麼，我們為什麼會如此迷戀電子產品呢？許多科技產品的購買都是為了跟別人攀比。比方說，你認識的人買了最新的電視或智慧型手機，如果你不買就會覺得自己落伍了，所以你也買了。我很好奇，一九九〇年代似乎家家戶戶都有的麵包機，現在有多少台被閒置在廚房櫥櫃的深處。"
+    ],
+    [
+     "And is our obsession something new? Well, no, it isn't something new. Admittedly, in the 1950s there wasn't the range or number of gadgets that there are today, but there was still the same excitement when any new gadget appeared. My grandparents told me that they were the first in their street to have a television, and at the coronation of Queen Elizabeth II in 1953, all the neighbours were invited in to watch the ceremony. This apparently was not unusual.",
+     "那麼，我們的迷戀是新鮮事嗎？嗯，不，這並不新鮮。誠然，一九五〇年代的電子產品種類和數量都不如今日，但每當有新產品出現時，人們的興奮程度是一樣的。我的祖父母告訴我，他們是那條街上第一戶擁有電視的人家；一九五三年英國女王伊莉莎白二世加冕時，所有鄰居都被邀請到家裡觀看典禮。這在當時顯然並不罕見。"
+    ]
+   ]
+  ],
+  [
+   "Household Gadgets and Women",
+   "家用電器與女性",
+   [
+    [
+     "The 1950s in the UK was a decade when most women did not go out to work but stayed at home to raise their families. Most of their day was taken up with cleaning, cooking, washing and other household tasks. Items which had been luxuries before the war now became affordable for many families. With the introduction of the modern vacuum cleaner into most middle-class homes in the 1950s, and the precursor to the modern washing machine around the same time, a woman's workload was substantially reduced and women had more leisure time than ever before.",
+     "英國的一九五〇年代，大多數女性不外出工作，而是留在家中照顧家庭。她們一天中大部分時間都花在打掃、煮飯、洗衣和其他家務上。戰前屬於奢侈品的物品，此時已是許多家庭負擔得起的了。隨著一九五〇年代現代吸塵器進入大多數中產階級家庭，以及差不多同時期現代洗衣機的前身出現，女性的工作量大幅減輕，擁有了前所未有的閒暇時間。"
+    ],
+    [
+     "Most women nowadays would not be pleased to be given a household gadget, except for possibly a cappuccino coffee maker, as, say, a birthday gift, but in those days it was received with delight. Until recently it was always assumed that men were more gadget-obsessed than women, but it seems that today's women are just as interested in gadgets as men. The main difference between the sexes seems to be in the design. A lot of women, for example, want a phone that will perform, say, five basic functions: calling, texting, taking photos, storing photos and accessing the internet. For men, the more functions there are, the better.",
+     "現今大多數女性收到家用電器當作生日禮物並不會高興，或許卡布奇諾咖啡機除外；但在那個年代，這樣的禮物會讓人欣喜不已。直到最近，人們一直認為男性比女性更迷戀電子產品，但現在的女性似乎和男性一樣對電子產品感興趣。兩性之間的主要差異似乎在於設計。例如，許多女性想要的手機只要具備大約五項基本功能：打電話、傳簡訊、拍照、儲存照片和上網。對男性而言，功能越多越好。"
+    ]
+   ]
+  ]
+ ],
+ "T3": [
+  [
+   "Speaker 1",
+   "說話者一",
+   [
+    [
+     "Speaker 1: For some people it's a harmless enough activity. They can have the odd bet, buy the occasional lottery ticket, and it doesn't do them any harm. But for me it was like the money didn't have any value – it was just about winning. As soon as I had cash, I'd gamble it away. Fortunately, I was one of the lucky ones. I got help, and my family were very supportive, and I don't have a problem with it any more. I don't think it's considered a problem by society in the same way that drug addiction is, for example, but I think it should be.",
+     "說話者一：對有些人來說，這是一項相當無害的活動。他們偶爾下個注、偶爾買張樂透彩券，對他們不會造成任何傷害。但對我來說，錢好像一點價值都沒有——重點只在於贏。我一拿到現金，就會把它賭光。幸運的是，我是少數幸運兒之一。我得到了幫助，家人也非常支持我，現在我已經沒有這個問題了。我認為社會並不像看待毒癮那樣把它視為一個問題，但我覺得應該要這樣看待。"
+    ]
+   ]
+  ],
+  [
+   "Speaker 2",
+   "說話者二",
+   [
+    [
+     "Speaker 2: Some people say that drugs are largely to blame for most criminal activity these days, and if they legalise hard drugs it will make a huge difference to the crime figures. But I hope they never do, because then I'd be out of a job. I'm not an addict myself – I don't do drugs, that's for idiots – and that's not why I became a dealer. It was simply a case of making a living. OK, I know that in the eyes of the law I'm a criminal, but if I don't do it, someone else will. That's how I see it. It's an easy way to make money, and unless I get caught I've got no intention of doing an ordinary job. There's just not enough money in it.",
+     "說話者二：有人說，現今大部分的犯罪活動主要都要歸咎於毒品，如果將硬性毒品合法化，犯罪數字將會大幅改變。但我希望他們永遠不要這麼做，因為那樣我就會失業了。我自己並沒有毒癮——我不碰毒品，那是白痴才做的事——而這也不是我成為毒販的原因。這純粹是為了謀生。好吧，我知道在法律眼中我是罪犯，但如果我不做，別人也會做。我就是這麼看的。這是很輕鬆的賺錢方式，除非我被抓，否則我完全不打算做一份普通工作。那種工作根本賺不到什麼錢。"
+    ]
+   ]
+  ],
+  [
+   "Speaker 3",
+   "說話者三",
+   [
+    [
+     "Speaker 3: When I was at university, I took out a loan to help me pay my way, and by the time I graduated I owed four thousand pounds. To be honest, I wasn't really bothered at first, as I expected to get a good job straight away and be able to pay it back quite quickly. However, I still haven't got a proper job, and now I owe three thousand pounds on my credit cards on top of the bank loan, and I've got absolutely no idea what I'm going to do. I realise it's entirely my own fault, but I think credit card companies and banks are also to blame. It's just too easy to get credit nowadays.",
+     "說話者三：我在大學時辦了一筆貸款來支付開銷，到畢業時我已經欠了四千英鎊。老實說，起初我並不太擔心，因為我以為自己能馬上找到好工作，很快就能還清。然而，我到現在還沒找到一份正式的工作，除了銀行貸款之外，信用卡還欠了三千英鎊，我完全不知道該怎麼辦。我知道這完全是我自己的錯，但我認為信用卡公司和銀行也有責任。現在要借錢實在太容易了。"
+    ]
+   ]
+  ],
+  [
+   "Speaker 4",
+   "說話者四",
+   [
+    [
+     "Speaker 4: Money was always a problem. When I met John, he had a good job, but he lost it shortly after we got married. However, I had a job and I thought we could make ends meet. Then I got pregnant and had to give up work to look after the baby. John still couldn't find a job, and by this time there was another one on the way. We couldn't afford to buy nice things for the kids or go out or do anything. That's when we started arguing, and from then on things just got worse. In the end we split up. I think if we hadn't had money problems, we might still be together.",
+     "說話者四：錢一直都是個問題。我認識約翰時，他有一份好工作，但我們結婚後不久他就失業了。不過我有工作，我以為我們可以勉強維持生計。後來我懷孕了，不得不辭掉工作照顧寶寶。約翰還是找不到工作，而那時第二個孩子又快出生了。我們買不起好東西給孩子，也不能出去玩或做任何事。從那時起我們開始吵架，之後情況就越來越糟。最後我們分開了。我想如果我們沒有經濟問題，我們現在可能還在一起。"
+    ]
+   ]
+  ],
+  [
+   "Speaker 5",
+   "說話者五",
+   [
+    [
+     "Speaker 5: If you owe money, you worry about how on earth you are going to pay it back. If you can't afford to buy your kids presents for Christmas, you get stressed and upset. Even when you've got enough money, you think you need more. I got caught up in the rat race, just trying to earn more and more. I was working too hard, and if I hadn't done something about it, I'd have found myself having a heart attack when I was still in my forties. Now I realise there are far more important things in life than money.",
+     "說話者五：如果你欠了錢，你就會擔心到底要怎麼還。如果你買不起聖誕禮物給孩子，你就會壓力很大、心情低落。即使你有足夠的錢，你還是會覺得需要更多。我曾陷入激烈的職場競爭，一心只想賺越來越多的錢。我工作得太拚命了，如果當時我沒有採取行動，可能四十幾歲就會心臟病發作。現在我明白了，人生中有比金錢重要得多的東西。"
+    ]
+   ]
+  ]
+ ],
+ "T4": [
+  [
+   "Introduction and the Caller",
+   "節目開場與來電者",
+   [
+    [
+     "Presenter: In this evening's programme we're starting with a subject which has got many of you worried. We'll be discussing young people and digital technology. It's something that worries not only parents but young people themselves. On our studio panel we have Evan Matthews, a child psychologist, Joanne Carter, a secondary school head teacher, and Liz Winslett, who has three teenage children and is a student counsellor. Our first caller this evening is James Benson. What is your question, James?",
+     "主持人：今晚的節目，我們從一個讓許多人憂心的主題開始。我們將討論年輕人與數位科技。這不僅讓家長擔心，年輕人自己也很擔心。今天在攝影棚的座談來賓有兒童心理學家伊凡·馬修斯、中學校長喬安·卡特，以及育有三名青少年子女、同時也是學生輔導員的莉茲·溫斯萊特。今晚第一位來電者是詹姆斯·班森。詹姆斯，你的問題是什麼？"
+    ],
+    [
+     "James: Thank you. I'd like to ask you what you think about my parents' recent behaviour. They're getting more and more obsessed about the amount of time I spend with what they call my 'virtual friends'.",
+     "詹姆斯：謝謝。我想請教你們對我父母最近的行為有什麼看法。他們越來越在意我花在他們所謂的「虛擬朋友」身上的時間。"
+    ]
+   ]
+  ],
+  [
+   "James Describes His Day",
+   "詹姆斯描述他的一天",
+   [
+    [
+     "Presenter: Hi James. Can you tell me who these friends are?",
+     "主持人：嗨，詹姆斯。可以告訴我這些朋友是誰嗎？"
+    ],
+    [
+     "James: They're mainly people I've met on social networking sites.",
+     "詹姆斯：他們大多是我在社群網站上認識的人。"
+    ],
+    [
+     "Presenter: And how much contact do you have with them?",
+     "主持人：那你和他們聯絡得有多頻繁？"
+    ],
+    [
+     "James: Well, on a normal day I'll update my status as soon as I wake up, then I'll check to see if anyone's sent me any messages on my mobile.",
+     "詹姆斯：嗯，平常我一醒來就會更新狀態，然後看看手機上有沒有人傳訊息給我。"
+    ],
+    [
+     "Presenter: And how long does that usually take?",
+     "主持人：那通常要花多久時間？"
+    ],
+    [
+     "James: Um, about five minutes, if I have to reply to any messages.",
+     "詹姆斯：嗯，如果要回覆訊息的話，大約五分鐘。"
+    ],
+    [
+     "Presenter: What about later in the day?",
+     "主持人：那一天中稍晚的時候呢？"
+    ],
+    [
+     "James: Well, if I don't have to go to college, I'll spend a couple of hours chatting to friends in the morning and maybe another two in the evening.",
+     "詹姆斯：嗯，如果我不用去學校，早上會花兩個小時跟朋友聊天，晚上可能再聊兩個小時。"
+    ],
+    [
+     "Presenter: That does seem rather excessive.",
+     "主持人：這似乎確實有點過度了。"
+    ],
+    [
+     "James: I suppose so, but it's what I'm used to. But actually, what Mum and Dad really object to is seeing me texting my friends, especially at mealtimes. They say it's rude and antisocial.",
+     "詹姆斯：我想是吧，但我已經習慣了。不過事實上，爸媽真正反對的是看到我傳簡訊給朋友，尤其是在吃飯的時候。他們說那樣很沒禮貌又不合群。"
+    ],
+    [
+     "Presenter: And what do you think?",
+     "主持人：那你怎麼想呢？"
+    ],
+    [
+     "James: I just think it's completely normal for people of my age.",
+     "詹姆斯：我只覺得這對我這個年紀的人來說再正常不過了。"
+    ],
+    [
+     "Presenter: How many texts do you send a day?",
+     "主持人：你一天傳多少則簡訊？"
+    ],
+    [
+     "James: About 50 or 60.",
+     "詹姆斯：大約五、六十則。"
+    ],
+    [
+     "Presenter: OK. And do you understand why your parents are getting so annoyed?",
+     "主持人：好的。那你理解你父母為什麼這麼生氣嗎？"
+    ],
+    [
+     "James: Not really. It's just a bit of fun. I think adults take these things too seriously.",
+     "詹姆斯：不太懂。這只是好玩而已。我覺得大人把這些事看得太嚴重了。"
+    ],
+    [
+     "Presenter: Can I ask you, James, do you have any other interests outside your virtual world?",
+     "主持人：詹姆斯，我可以問一下，在虛擬世界之外，你還有其他興趣嗎？"
+    ],
+    [
+     "James: No, not now. I used to play tennis with my dad most weekends, but he always seems too busy these days.",
+     "詹姆斯：沒有，現在沒有了。我以前大部分週末都會跟爸爸打網球，但他最近好像總是太忙。"
+    ]
+   ]
+  ],
+  [
+   "The Panel's Advice",
+   "座談來賓的建議",
+   [
+    [
+     "Presenter: OK, James, I think we get the idea of what your life is like. I'd now like to ask our panel to comment on what they've heard. Can I start with you, Evan?",
+     "主持人：好的，詹姆斯，我想我們大概了解你的生活是什麼樣子了。現在我想請座談來賓針對剛剛聽到的內容發表看法。伊凡，可以從你開始嗎？"
+    ],
+    [
+     "Evan: OK. James, I have to say I have great sympathy with your parents and completely understand their point of view. They feel they're losing you to your virtual friends. My advice to you would be to spend less time on your phone and try to spend at least a couple of hours a day, when you're not at college, doing things with real people.",
+     "伊凡：好的。詹姆斯，我必須說我非常同情你的父母，也完全理解他們的觀點。他們覺得自己正在把你輸給你的虛擬朋友。我給你的建議是減少使用手機的時間，在不用上學的時候，每天至少花幾個小時和真實的人一起做些事情。"
+    ],
+    [
+     "Presenter: Thank you. Joanne?",
+     "主持人：謝謝。喬安？"
+    ],
+    [
+     "Joanne: Here's what I suggest, James. First, I think you should accept that you have an addiction. Then I suggest you try to cut back your contact with digital friends by a few minutes every day, so that by this time next year your life is in more balance. Try to get back to playing tennis with your dad like you used to, and try to spend more time with real people. You'll soon get used to it. You won't lose any genuine friends, and you won't have your parents nagging you all the time.",
+     "喬安：詹姆斯，我的建議是這樣的。首先，我認為你應該承認自己上癮了。接著我建議你每天減少幾分鐘與網路朋友的聯繫，這樣到明年這個時候，你的生活就會更加平衡。試著像以前一樣重新和爸爸打網球，並多花些時間和真實的人相處。你很快就會習慣的。你不會失去任何真正的朋友，父母也不會一天到晚對你嘮叨。"
+    ],
+    [
+     "Presenter: Thanks. And lastly, Liz Winslett.",
+     "主持人：謝謝。最後是莉茲·溫斯萊特。"
+    ],
+    [
+     "Liz: Right. James, I imagine your addiction is probably a very temporary one. I would guess that in a month or two you'll get bored with your virtual life and just slip back into your old life – that's if my own son's experience is anything to go by. In other words, I think you're going through a phase.",
+     "莉茲：好的。詹姆斯，我想你的上癮大概只是非常短暫的。我猜一兩個月後你就會對虛擬生活感到厭倦，然後自然而然地回到原本的生活——如果以我自己兒子的經驗來判斷的話。換句話說，我認為你只是正在經歷一個階段。"
+    ],
+    [
+     "Presenter: Thank you all very much, and thank you, James, for your intriguing question.",
+     "主持人：非常感謝各位，也謝謝詹姆斯提出這個耐人尋味的問題。"
+    ],
+    [
+     "James: Thanks.",
+     "詹姆斯：謝謝。"
+    ]
+   ]
+  ]
+ ],
+ "TEST_NO": 61,
+ "VIDEO_ID": "XwW6SQM4bbU",
+ "VOCAB": [
+  [
+   "turn down",
+   "phr. v.",
+   "to refuse an offer or invitation",
+   "拒絕",
+   "She had to _____ the invitation because she was busy.",
+   "她因為很忙，只好拒絕了邀請。"
+  ],
+  [
+   "excuse",
+   "n.",
+   "a reason given to explain or avoid something",
+   "藉口",
+   "He always has an _____ for being late.",
+   "他總是有遲到的藉口。"
+  ],
+  [
+   "complete lie",
+   "n. phr.",
+   "something totally untrue",
+   "徹頭徹尾的謊言",
+   "His story about the lost homework was a _____.",
+   "他說作業弄丟的事完全是謊話。"
+  ],
+  [
+   "general public",
+   "n. phr.",
+   "ordinary people in society",
+   "一般大眾",
+   "The museum is now open to the _____.",
+   "這間博物館現在對一般大眾開放。"
+  ],
+  [
+   "break a promise",
+   "v. phr.",
+   "to fail to do what you said you would do",
+   "違背承諾",
+   "Never _____ you made to a child.",
+   "永遠不要違背你對孩子許下的承諾。"
+  ],
+  [
+   "accuse (sb) of",
+   "v. phr.",
+   "to say someone has done something wrong",
+   "指控；指責",
+   "They _____ him of stealing the money.",
+   "他們指控他偷了那筆錢。"
+  ],
+  [
+   "party leader",
+   "n. phr.",
+   "the head of a political party",
+   "黨主席；黨魁",
+   "The _____ gave a speech before the election.",
+   "黨主席在選舉前發表了演說。"
+  ],
+  [
+   "keen on",
+   "adj. phr.",
+   "interested in or liking something",
+   "熱衷於；喜愛",
+   "I'm not very _____ horror films.",
+   "我不太喜歡恐怖片。"
+  ],
+  [
+   "bump into",
+   "phr. v.",
+   "to meet someone by chance",
+   "偶然遇見",
+   "I _____ my old teacher at the supermarket.",
+   "我在超市偶然遇見我以前的老師。"
+  ],
+  [
+   "split up",
+   "phr. v.",
+   "to end a relationship",
+   "分手；分開",
+   "My aunt and uncle _____ last year.",
+   "我的阿姨和姨丈去年分開了。"
+  ],
+  [
+   "keep a straight face",
+   "idiom",
+   "to stop yourself from laughing or showing feelings",
+   "面不改色；忍住不笑",
+   "It was hard to _____ while he told the joke.",
+   "他講笑話時，要忍住不笑真的很難。"
+  ],
+  [
+   "give away",
+   "phr. v.",
+   "to reveal something secret",
+   "洩漏（祕密）",
+   "Don't _____ the ending of the film!",
+   "別洩漏電影的結局！"
+  ],
+  [
+   "occasional",
+   "adj.",
+   "happening sometimes but not often",
+   "偶爾的",
+   "I enjoy an _____ cup of coffee.",
+   "我喜歡偶爾喝杯咖啡。"
+  ],
+  [
+   "wicked",
+   "adj.",
+   "morally bad; evil",
+   "邪惡的；惡毒的",
+   "The _____ queen tried to poison Snow White.",
+   "邪惡的皇后試圖毒死白雪公主。"
+  ],
+  [
+   "get stuck with",
+   "phr. v.",
+   "to be forced to be with or deal with someone/something unpleasant",
+   "被迫應付；被…纏住",
+   "I _____ the washing-up again.",
+   "我又被迫負責洗碗了。"
+  ],
+  [
+   "fed up",
+   "adj.",
+   "bored or annoyed with something",
+   "厭煩的；受夠的",
+   "I'm _____ with this rainy weather.",
+   "我受夠了這種下雨天。"
+  ],
+  [
+   "faint",
+   "v.",
+   "to suddenly become unconscious",
+   "昏倒",
+   "She nearly _____ed when she heard the news.",
+   "她聽到消息時差點昏倒。"
+  ],
+  [
+   "nap",
+   "n.",
+   "a short sleep during the day",
+   "小睡；打盹",
+   "Grandpa takes a _____ after lunch.",
+   "爺爺午餐後會小睡一下。"
+  ],
+  [
+   "nod off",
+   "phr. v.",
+   "to fall asleep without intending to",
+   "打瞌睡",
+   "I _____ in front of the TV last night.",
+   "我昨晚在電視機前打瞌睡了。"
+  ],
+  [
+   "scrape",
+   "v.",
+   "to damage a surface by rubbing it against something",
+   "擦傷；刮傷",
+   "He _____d his knee when he fell.",
+   "他跌倒時擦傷了膝蓋。"
+  ],
+  [
+   "furious",
+   "adj.",
+   "extremely angry",
+   "暴怒的",
+   "Dad was _____ when he saw the broken window.",
+   "爸爸看到破掉的窗戶時氣炸了。"
+  ],
+  [
+   "bargain",
+   "n.",
+   "something bought for less than its usual price",
+   "便宜貨；划算的東西",
+   "This jacket was a real _____ at half price.",
+   "這件夾克半價，真的很划算。"
+  ],
+  [
+   "genuine",
+   "adj.",
+   "real; not fake",
+   "真正的；非偽造的",
+   "Is this a _____ leather bag?",
+   "這是真皮包包嗎？"
+  ],
+  [
+   "fake",
+   "n.",
+   "a copy made to look like the real thing",
+   "仿冒品；假貨",
+   "The painting turned out to be a _____.",
+   "那幅畫原來是贗品。"
+  ],
+  [
+   "trick",
+   "v.",
+   "to deceive someone",
+   "欺騙；誆騙",
+   "The man _____ed her into giving him money.",
+   "那個男人騙她把錢交給他。"
+  ],
+  [
+   "rip open",
+   "phr. v.",
+   "to open something quickly and roughly",
+   "撕開",
+   "The children _____ their presents.",
+   "孩子們撕開了他們的禮物。"
+  ],
+  [
+   "ruin",
+   "v.",
+   "to spoil or destroy something completely",
+   "毀掉；破壞",
+   "The rain _____ed our picnic.",
+   "大雨毀了我們的野餐。"
+  ],
+  [
+   "gadget",
+   "n.",
+   "a small useful machine or tool",
+   "小器具；電子產品",
+   "My phone is my favourite _____.",
+   "我的手機是我最喜愛的電子產品。"
+  ],
+  [
+   "dominate",
+   "v.",
+   "to have the most control or influence over",
+   "主宰；支配",
+   "Football _____s the sports news.",
+   "足球主宰了體育新聞。"
+  ],
+  [
+   "survey",
+   "n.",
+   "a set of questions asked to many people",
+   "調查",
+   "The _____ showed that most students like music.",
+   "調查顯示大多數學生喜歡音樂。"
+  ],
+  [
+   "valuable",
+   "adj.",
+   "very useful or important",
+   "寶貴的；有價值的",
+   "Patience is a _____ skill for teachers.",
+   "耐心是教師寶貴的技能。"
+  ],
+  [
+   "rank",
+   "v.",
+   "to put in order of importance or quality",
+   "排名；評等",
+   "The school is _____ed first in the city.",
+   "這所學校在全市排名第一。"
+  ],
+  [
+   "obsessed with",
+   "adj. phr.",
+   "thinking about something all the time",
+   "沉迷於；著迷於",
+   "He is _____ computer games.",
+   "他沉迷於電腦遊戲。"
+  ],
+  [
+   "passionate about",
+   "adj. phr.",
+   "having very strong feelings for something",
+   "熱衷於；熱愛",
+   "She is _____ protecting animals.",
+   "她熱衷於保護動物。"
+  ],
+  [
+   "queue",
+   "n.",
+   "a line of people waiting",
+   "隊伍；排隊人龍",
+   "There was a long _____ outside the cinema.",
+   "電影院外大排長龍。"
+  ],
+  [
+   "economic climate",
+   "n. phr.",
+   "the general state of the economy",
+   "經濟環境",
+   "In the current _____, many shops are closing.",
+   "在目前的經濟環境下，許多商店正在關門。"
+  ],
+  [
+   "price tag",
+   "n.",
+   "the cost of something",
+   "價格；價碼",
+   "The new car has a high _____.",
+   "這輛新車價格很高。"
+  ],
+  [
+   "keep up with the Joneses",
+   "idiom",
+   "to try to own the same things as your neighbours",
+   "與人攀比",
+   "They bought a big TV just to _____.",
+   "他們買大電視只是為了跟人攀比。"
+  ],
+  [
+   "miss out",
+   "phr. v.",
+   "to lose a chance to enjoy something",
+   "錯過（好機會）",
+   "Come to the party – don't _____!",
+   "來參加派對吧——別錯過了！"
+  ],
+  [
+   "admittedly",
+   "adv.",
+   "used to accept that something is true",
+   "誠然；不可否認地",
+   "_____, the test was hard, but I passed.",
+   "不可否認，考試很難，但我通過了。"
+  ],
+  [
+   "coronation",
+   "n.",
+   "the ceremony of crowning a king or queen",
+   "加冕典禮",
+   "Millions watched the king's _____ on TV.",
+   "數百萬人在電視上觀看國王的加冕典禮。"
+  ],
+  [
+   "ceremony",
+   "n.",
+   "a formal public event",
+   "典禮；儀式",
+   "The wedding _____ was held in a garden.",
+   "婚禮在花園裡舉行。"
+  ],
+  [
+   "household task",
+   "n. phr.",
+   "a job done at home, such as cleaning",
+   "家務",
+   "Washing dishes is my least favourite _____.",
+   "洗碗是我最不喜歡的家務。"
+  ],
+  [
+   "luxury",
+   "n.",
+   "something expensive that is not necessary",
+   "奢侈品",
+   "A holiday abroad is a _____ for many families.",
+   "出國度假對許多家庭來說是奢侈的事。"
+  ],
+  [
+   "affordable",
+   "adj.",
+   "cheap enough for people to buy",
+   "負擔得起的",
+   "The city needs more _____ housing.",
+   "這座城市需要更多負擔得起的住房。"
+  ],
+  [
+   "precursor",
+   "n.",
+   "something that came before and led to a later thing",
+   "前身；先驅",
+   "The typewriter was a _____ of the computer keyboard.",
+   "打字機是電腦鍵盤的前身。"
+  ],
+  [
+   "substantially",
+   "adv.",
+   "by a large amount",
+   "大幅地；相當多地",
+   "Prices have risen _____ this year.",
+   "今年物價大幅上漲。"
+  ],
+  [
+   "workload",
+   "n.",
+   "the amount of work a person has to do",
+   "工作量",
+   "Teachers have a heavy _____ before exams.",
+   "考試前老師的工作量很重。"
+  ],
+  [
+   "leisure time",
+   "n. phr.",
+   "free time when you are not working",
+   "閒暇時間",
+   "I spend my _____ reading novels.",
+   "我把閒暇時間花在讀小說上。"
+  ],
+  [
+   "function",
+   "n.",
+   "a job that a machine can do",
+   "功能",
+   "This watch has a stopwatch _____.",
+   "這支手錶有碼錶功能。"
+  ],
+  [
+   "gamble",
+   "v.",
+   "to risk money on the result of a game or race",
+   "賭博",
+   "He _____d all his savings at the casino.",
+   "他在賭場把所有積蓄都賭掉了。"
+  ],
+  [
+   "supportive",
+   "adj.",
+   "giving help and encouragement",
+   "支持的；給予鼓勵的",
+   "My parents were very _____ when I changed schools.",
+   "我轉學時，父母非常支持我。"
+  ],
+  [
+   "addiction",
+   "n.",
+   "a strong need to do or use something harmful",
+   "成癮；上癮",
+   "Phone _____ is common among teenagers.",
+   "手機成癮在青少年中很常見。"
+  ],
+  [
+   "make a living",
+   "v. phr.",
+   "to earn the money you need to live",
+   "謀生",
+   "He _____s by selling vegetables.",
+   "他靠賣菜謀生。"
+  ],
+  [
+   "loan",
+   "n.",
+   "money borrowed that must be paid back",
+   "貸款",
+   "She took out a _____ to buy a car.",
+   "她辦了貸款買車。"
+  ],
+  [
+   "make ends meet",
+   "idiom",
+   "to have just enough money to pay for what you need",
+   "勉強維持生計；收支平衡",
+   "With two jobs, they can just _____.",
+   "靠著兩份工作，他們才勉強維持生計。"
+  ],
+  [
+   "rat race",
+   "n.",
+   "the tiring competition to earn money and succeed at work",
+   "激烈的職場競爭",
+   "He left the _____ and moved to the countryside.",
+   "他離開了激烈的職場競爭，搬到了鄉下。"
+  ],
+  [
+   "excessive",
+   "adj.",
+   "more than is reasonable",
+   "過度的；過多的",
+   "_____ screen time can hurt your eyes.",
+   "過長的螢幕使用時間會傷害眼睛。"
+  ],
+  [
+   "antisocial",
+   "adj.",
+   "rude or not caring about other people",
+   "不合群的；不友善的",
+   "Using your phone at dinner is _____.",
+   "吃飯時滑手機很不禮貌。"
+  ],
+  [
+   "go through a phase",
+   "idiom",
+   "to behave in a certain way for a short time only",
+   "經歷（短暫的）階段",
+   "Don't worry – he's just _____ing.",
+   "別擔心——他只是在經歷一個階段而已。"
+  ]
+ ]
+}
