@@ -157,6 +157,17 @@
   }
   addEventListener("hashchange", render);
   document.addEventListener("click", event => {
+    const partLink = event.target.closest(".part-nav a");
+    if (partLink) {
+      event.preventDefault();
+      const target = document.getElementById(decodeURIComponent(partLink.getAttribute("href").slice(1)));
+      if (target) {
+        const nav = partLink.closest(".part-nav");
+        const offset = 68 + (nav ? nav.offsetHeight : 0) + 12;
+        scrollTo({top: target.getBoundingClientRect().top + scrollY - offset, behavior: "smooth"});
+      }
+      return;
+    }
     const exam = currentExam();
     const listening = currentListening();
     const listeningChoice = event.target.closest(".listening-choice");
