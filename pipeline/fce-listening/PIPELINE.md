@@ -32,7 +32,12 @@ Same keys as `example-content61.json`:
   (drop the repeat), restore punctuation/capitals/names, label speakers ("Man:", "Woman:", "Speaker 1:", "Presenter:", names)
 - `VOCAB`: exactly 60 rows `[word, pos, english_def, chinese_def, sentence_with_____, chinese_translation]` (CEFR B1/B2)
 - `STUDY_NOTES`: {"1":[3 notes], "2":[…], "3":[…], "4":[…]}; `EXTRA_GLOSS`: {word: [pos, 中文]} for extra single words
-Work out each answer from the transcript yourself and quote the decisive line as `ev`; `t` = first-playing second.
+Work out each answer from the transcript yourself and quote the decisive line as `ev`.
+`t` drives the site's "Play from this question" link, so it is where the QUESTION STARTS in the first playing
+(never the evidence line): Part 1 = the "Question N, you hear…" announcement (−2 s); Part 3 = the "Speaker N"
+announcement (−2 s); Part 2 = ~10 s before the answer word, but after the previous answer; Part 4 = the
+interviewer's question that leads to the item (Q24 = start of the recording). `t` must increase from 1 to 30.
+`AUDIO_BOUNDS` come from the transcript's "now turn to part N" lines, not from estimates.
 
 ## 5. Build
 ```bash

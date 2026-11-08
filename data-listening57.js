@@ -128,7 +128,7 @@ window.LISTENING_TESTS.unshift({
             "C": "He enjoys taking on challenging work."
           },
           "answer": "B",
-          "timestamp": 42,
+          "timestamp": 23,
           "evidence": "\"What he actually does is always really good – it's top quality, in fact.\" 'Top quality' = a high standard. He avoids demanding tasks, so not C, and he doesn't ask for help, so not A."
         },
         {
@@ -140,7 +140,7 @@ window.LISTENING_TESTS.unshift({
             "C": "keen to increase the time she spends training"
           },
           "answer": "A",
-          "timestamp": 132,
+          "timestamp": 106,
           "evidence": "\"I don't know if I'll be in Saturday's competition, but I think I did pretty well today.\" 'Did pretty well' = pleased with her performance. She doesn't know if she's selected (not B), and she says she couldn't manage any more training (not C)."
         },
         {
@@ -152,7 +152,7 @@ window.LISTENING_TESTS.unshift({
             "C": "explaining a misunderstanding"
           },
           "answer": "C",
-          "timestamp": 207,
+          "timestamp": 189,
           "evidence": "\"The general public imagine that the benefits of the research will become available far sooner than they actually will.\" He explains why people wrongly expected the drug sooner. He blames the media, not other scientists, and the discovery happened months ago."
         },
         {
@@ -164,7 +164,7 @@ window.LISTENING_TESTS.unshift({
             "C": "often become bored with their lifestyle."
           },
           "answer": "B",
-          "timestamp": 302,
+          "timestamp": 273,
           "evidence": "\"They do get tired of never being able to leave home without people pointing at them and staring. – I can't disagree with you there.\" 'Can't disagree' shows agreement about hating being stared at. They disagree about boredom (C) and about mixing with celebrities (A)."
         },
         {
@@ -176,7 +176,7 @@ window.LISTENING_TESTS.unshift({
             "C": "had expert knowledge."
           },
           "answer": "C",
-          "timestamp": 389,
+          "timestamp": 353,
           "evidence": "\"Compared to the average customer he knew a fair amount more – like someone in the business themselves.\" 'Someone in the business' = an expert. He didn't say hello or goodbye (not A) and was mostly silent (not B)."
         },
         {
@@ -188,7 +188,7 @@ window.LISTENING_TESTS.unshift({
             "C": "It should have been a different colour."
           },
           "answer": "A",
-          "timestamp": 465,
+          "timestamp": 435,
           "evidence": "\"There are so many better ones that weigh next to nothing and still keep the wind out.\" She wanted a lighter material. She'd pay more (not B) and likes the colour – 'apart from the colour' (not C)."
         },
         {
@@ -200,7 +200,7 @@ window.LISTENING_TESTS.unshift({
             "C": "the school is well-equipped."
           },
           "answer": "B",
-          "timestamp": 548,
+          "timestamp": 517,
           "evidence": "\"I couldn't have more supportive workmates.\" 'Supportive workmates' = pleasant colleagues. Pupils can't wait for the lesson to end (not A); the school is 'hardly the best equipped' (not C)."
         },
         {
@@ -212,7 +212,7 @@ window.LISTENING_TESTS.unshift({
             "C": "Tourists consider it old-fashioned."
           },
           "answer": "B",
-          "timestamp": 619,
+          "timestamp": 598,
           "evidence": "\"How can we persuade tourists to stay there all day if there are only two small cafés? People have to eat.\" 'Only two small cafés' = few places to buy food. He says posters are everywhere (not A); 'out of date' refers to TV ads, not the park (not C)."
         }
       ],
@@ -242,7 +242,7 @@ window.LISTENING_TESTS.unshift({
           "answer": [
             "conservation"
           ],
-          "timestamp": 784,
+          "timestamp": 781,
           "evidence": "\"…a lot of the old buildings are protected and can't be modernised, called a conservation area.\""
         },
         {
@@ -252,7 +252,7 @@ window.LISTENING_TESTS.unshift({
             "deer",
             "the deer"
           ],
-          "timestamp": 808,
+          "timestamp": 803,
           "evidence": "\"He told us about the deer that they provide a good habitat for.\""
         },
         {
@@ -262,7 +262,7 @@ window.LISTENING_TESTS.unshift({
             "gate",
             "field gate"
           ],
-          "timestamp": 845,
+          "timestamp": 831,
           "evidence": "\"I saw an iron one later and Bill said it was a hundred years old.\""
         },
         {
@@ -272,7 +272,7 @@ window.LISTENING_TESTS.unshift({
             "projects",
             "project"
           ],
-          "timestamp": 863,
+          "timestamp": 855,
           "evidence": "\"We could choose what projects to work on while we were there.\""
         },
         {
@@ -282,7 +282,7 @@ window.LISTENING_TESTS.unshift({
             "map",
             "the map"
           ],
-          "timestamp": 881,
+          "timestamp": 874,
           "evidence": "\"The wind got my map… it ended up in some muddy water and was completely ruined.\""
         },
         {
@@ -292,7 +292,7 @@ window.LISTENING_TESTS.unshift({
             "river",
             "the river"
           ],
-          "timestamp": 905,
+          "timestamp": 900,
           "evidence": "\"…and where I got mine from, the river.\""
         },
         {
@@ -302,7 +302,7 @@ window.LISTENING_TESTS.unshift({
             "chemistry",
             "the chemistry"
           ],
-          "timestamp": 921,
+          "timestamp": 917,
           "evidence": "\"It turned out to be handy to know some chemistry.\""
         },
         {
@@ -313,7 +313,7 @@ window.LISTENING_TESTS.unshift({
             "their height",
             "height (tallest first)"
           ],
-          "timestamp": 943,
+          "timestamp": 938,
           "evidence": "\"Somebody suggested that we should do it according to height – tallest first.\""
         },
         {
@@ -322,7 +322,7 @@ window.LISTENING_TESTS.unshift({
           "answer": [
             "dairy"
           ],
-          "timestamp": 964,
+          "timestamp": 959,
           "evidence": "\"The best one to my mind was the one on the difficulties involved in dairy farming.\""
         },
         {
@@ -332,7 +332,7 @@ window.LISTENING_TESTS.unshift({
             "honey",
             "local honey"
           ],
-          "timestamp": 983,
+          "timestamp": 980,
           "evidence": "\"Then I saw they had some local honey, so that was our goodbye present.\""
         }
       ],
@@ -389,7 +389,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "E",
-          "timestamp": 1337,
+          "timestamp": 1311,
           "evidence": "\"As soon as I've finished one novel there's another one there for me to start – it's something I always make sure of.\" She always has the next book ready. She mentions 'lovely pictures' in paper books (not F) and reads a lot while travelling, but not only then (not B)."
         },
         {
@@ -406,7 +406,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "H",
-          "timestamp": 1366,
+          "timestamp": 1353,
           "evidence": "\"I love following the links to relevant internet sites… also the way I can make notes.\" Links and notes are extra features. She has 'never had any trouble getting hold of' books (not C)."
         },
         {
@@ -423,7 +423,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "A",
-          "timestamp": 1395,
+          "timestamp": 1388,
           "evidence": "\"The only reason is that I can enlarge the print easily.\" Bigger print = he can see the words clearly. He doesn't use links (not H)."
         },
         {
@@ -440,7 +440,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "G",
-          "timestamp": 1435,
+          "timestamp": 1428,
           "evidence": "\"I know everyone goes on about how incredibly practical digital books are, but I don't really see it like that.\" He doesn't find them practical (convenient). He might replace his paper books with a different lifestyle (not D)."
         },
         {
@@ -457,7 +457,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "C",
-          "timestamp": 1489,
+          "timestamp": 1470,
           "evidence": "\"I read a lot of old books that just aren't available as digital books.\" She can't find the books she wants digitally. She would happily clear her bookcases (not D) and doesn't travel much (not B)."
         }
       ],
@@ -494,7 +494,7 @@ window.LISTENING_TESTS.unshift({
             "C": "how architects combine practical and creative skills"
           },
           "answer": "B",
-          "timestamp": 1822,
+          "timestamp": 1810,
           "evidence": "\"We've done technical drawing and construction skills, to know what's going on at the sites, and I've loved that.\" Knowing what happens on building sites = how buildings are put up. Presenting to others was 'quite stressful' (not A); C is why she chose the course, not what she learned."
         },
         {
@@ -506,7 +506,7 @@ window.LISTENING_TESTS.unshift({
             "C": "have fewer projects to do."
           },
           "answer": "A",
-          "timestamp": 1867,
+          "timestamp": 1847,
           "evidence": "\"You have to be self-motivated. There are no tutors telling you what to do and how to do it.\" Being self-motivated with no tutors directing them = working independently. Tutors only check every week or so (not B); tasks come 'several at once' (not C)."
         },
         {
@@ -518,7 +518,7 @@ window.LISTENING_TESTS.unshift({
             "C": "It has confirmed what she imagined about the job."
           },
           "answer": "A",
-          "timestamp": 1896,
+          "timestamp": 1883,
           "evidence": "\"You're much more likely to know whether or not you want to carry on with your course. That was the case for me, anyway.\" The placement helped her decide whether to continue. She was surprised by how little design there is (not C)."
         },
         {
@@ -530,7 +530,7 @@ window.LISTENING_TESTS.unshift({
             "C": "She is glad the materials she chose have reduced costs."
           },
           "answer": "B",
-          "timestamp": 1929,
+          "timestamp": 1909,
           "evidence": "\"It would be great if it could be built, because I think it's looking good.\" 'Looking good' = pleased with her work. It's 'just a student project', so it won't be built (not A); some materials are expensive (not C)."
         },
         {
@@ -542,7 +542,7 @@ window.LISTENING_TESTS.unshift({
             "C": "consider who will live in them."
           },
           "answer": "C",
-          "timestamp": 1951,
+          "timestamp": 1934,
           "evidence": "\"The design should suit the people, not the other way around.\" Architects must remember that ordinary people will live in the homes. Families don't want anything unusual (not B)."
         },
         {
@@ -554,7 +554,7 @@ window.LISTENING_TESTS.unshift({
             "C": "Recommendations by tutors can help."
           },
           "answer": "C",
-          "timestamp": 1980,
+          "timestamp": 1962,
           "evidence": "\"The tutors are contacted by practices too and asked about good students… at least they have a chance of getting an interview that way.\" Tutors suggest students for jobs. Phoning took ages and got no interviews (not B)."
         },
         {
@@ -566,7 +566,7 @@ window.LISTENING_TESTS.unshift({
             "C": "It is a very long course and the work is difficult."
           },
           "answer": "B",
-          "timestamp": 2018,
+          "timestamp": 1996,
           "evidence": "\"Be prepared to work hard and play hard. You get to know your course mates extremely well.\" 'Play hard' and knowing course mates well = socialising a lot. Money advice is about low income, not materials (not A); she mentions long hours, not difficulty (not C)."
         }
       ],

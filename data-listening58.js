@@ -122,7 +122,7 @@ window.LISTENING_TESTS.unshift({
             "C": "suggesting she should have her bike repaired"
           },
           "answer": "A",
-          "timestamp": 47,
+          "timestamp": 28,
           "evidence": "\"People often go there and have a coffee and a piece of cake while they're having their bike fixed. I know you'd like that.\" He lists the good points of the shop (café, equipment, helpful staff, maps) to persuade her to use it. He only says it 'isn't far from here' – no directions (B) – and it is she who decides her bike needs checking (C)."
         },
         {
@@ -134,7 +134,7 @@ window.LISTENING_TESTS.unshift({
             "C": "Their popularity is short-lived."
           },
           "answer": "C",
-          "timestamp": 129,
+          "timestamp": 105,
           "evidence": "\"They're incredibly popular at the time … viewers will be watching those reruns in 50 years' time, unlike the reality shows.\" Reality shows are popular only 'at the time'; they do not 'stand the test of time'. 'Well made' (A) is a passing remark, not her main point."
         },
         {
@@ -146,7 +146,7 @@ window.LISTENING_TESTS.unshift({
             "C": "Good writers have a natural ability to write dialogue."
           },
           "answer": "C",
-          "timestamp": 227,
+          "timestamp": 198,
           "evidence": "\"Writing dialogue is like being able to draw – some people can, some people can't. … So few writers can produce great dialogue instinctively.\" Both say it is a natural talent: 'like being able to draw' and 'instinctively'. The second writer says she does NOT consciously listen to conversations (A)."
         },
         {
@@ -158,7 +158,7 @@ window.LISTENING_TESTS.unshift({
             "C": "She had a comfortable seat."
           },
           "answer": "B",
-          "timestamp": 318,
+          "timestamp": 279,
           "evidence": "\"What I liked about my seat was the fact that I could relax … and really have time to appreciate all the stunning views.\" 'Stunning views' = beautiful scenery. There wasn't much leg room (not C), and the woman next to her mainly wanted to sleep (not A)."
         },
         {
@@ -170,7 +170,7 @@ window.LISTENING_TESTS.unshift({
             "C": "got hold of a good guidebook."
           },
           "answer": "A",
-          "timestamp": 410,
+          "timestamp": 367,
           "evidence": "\"Unusually for me there aren't that many. I missed an opportunity there.\" 'Missed an opportunity' shows regret about the small number of photos. He was happy with the travel agent's hotel (B) and didn't feel the need to see everything (C)."
         },
         {
@@ -182,7 +182,7 @@ window.LISTENING_TESTS.unshift({
             "C": "a film she has seen many times"
           },
           "answer": "A",
-          "timestamp": 468,
+          "timestamp": 449,
           "evidence": "\"It's always been one of my favourite books and I've read it so many times that I've got a really clear picture of what the characters are like.\" Her whole story is about her favourite book and how it was adapted. She decided NOT to watch the TV version (B); she has READ the book many times, not seen the film many times (C)."
         },
         {
@@ -194,7 +194,7 @@ window.LISTENING_TESTS.unshift({
             "C": "the quality of the sports facilities"
           },
           "answer": "C",
-          "timestamp": 566,
+          "timestamp": 526,
           "evidence": "\"The football and hockey fields are well looked after. … And also the gym's very well equipped.\" Lucas praises the fields and the woman praises the gym = sports facilities. Only the woman likes the teachers; Lucas found staff hard to contact (A). Both criticise the rooms (B)."
         },
         {
@@ -206,7 +206,7 @@ window.LISTENING_TESTS.unshift({
             "C": "ensure the amount of noise is kept constant."
           },
           "answer": "B",
-          "timestamp": 663,
+          "timestamp": 618,
           "evidence": "\"We need to be much more aware of the impact that this noise might have on children and make a point of reducing it.\" 'Be much more aware of the impact' = appreciate the problems noise causes. He wants noise reduced, not kept constant (C), and says nothing about speaking clearly (A)."
         }
       ],
@@ -237,7 +237,7 @@ window.LISTENING_TESTS.unshift({
             "exhibition",
             "an exhibition"
           ],
-          "timestamp": 818,
+          "timestamp": 810,
           "evidence": "\"It wasn't until I was taken to an exhibition that was absolutely fascinating … that I realised I'd actually like to witness one.\""
         },
         {
@@ -250,7 +250,7 @@ window.LISTENING_TESTS.unshift({
             "camping van",
             "camper"
           ],
-          "timestamp": 852,
+          "timestamp": 842,
           "evidence": "\"I rented a camper van to reach the spot where some other eclipse chasers … were gathering.\""
         },
         {
@@ -259,7 +259,7 @@ window.LISTENING_TESTS.unshift({
           "answer": [
             "morning"
           ],
-          "timestamp": 863,
+          "timestamp": 855,
           "evidence": "\"This one took place first thing in the morning.\""
         },
         {
@@ -269,7 +269,7 @@ window.LISTENING_TESTS.unshift({
             "parachute jump",
             "parachute-jump"
           ],
-          "timestamp": 891,
+          "timestamp": 884,
           "evidence": "\"The closest this came to for me in terms of sheer excitement was when I once did a parachute jump.\""
         },
         {
@@ -279,7 +279,7 @@ window.LISTENING_TESTS.unshift({
             "diamond ring",
             "diamond-ring"
           ],
-          "timestamp": 903,
+          "timestamp": 902,
           "evidence": "\"There's a tiny flash of brilliant light which astronomers call the diamond ring effect.\""
         },
         {
@@ -289,7 +289,7 @@ window.LISTENING_TESTS.unshift({
             "small island",
             "small-island"
           ],
-          "timestamp": 934,
+          "timestamp": 926,
           "evidence": "\"The ideal location would be surrounded by open ocean – a small island.\""
         },
         {
@@ -300,7 +300,7 @@ window.LISTENING_TESTS.unshift({
             "gas",
             "petrol"
           ],
-          "timestamp": 952,
+          "timestamp": 945,
           "evidence": "\"The boat we'd hired had no fuel, and until the captain managed to find some we thought we might not be able to reach our destination.\""
         },
         {
@@ -310,7 +310,7 @@ window.LISTENING_TESTS.unshift({
             "mosquito net",
             "mosquito-net"
           ],
-          "timestamp": 969,
+          "timestamp": 960,
           "evidence": "\"I was very grateful for the mosquito net I'd packed too, which I attached to a tree branch above my head.\""
         },
         {
@@ -320,7 +320,7 @@ window.LISTENING_TESTS.unshift({
             "poem",
             "poetry"
           ],
-          "timestamp": 992,
+          "timestamp": 983,
           "evidence": "\"You might even come across a poem I wrote – my attempt to describe how it feels to witness these events.\""
         },
         {
@@ -329,7 +329,7 @@ window.LISTENING_TESTS.unshift({
           "answer": [
             "tent"
           ],
-          "timestamp": 1001,
+          "timestamp": 995,
           "evidence": "\"I must buy a tent to take with me – the one I have is far too heavy.\""
         }
       ],
@@ -386,7 +386,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "G",
-          "timestamp": 1357,
+          "timestamp": 1336,
           "evidence": "\"I began to sense a sort of empathy and togetherness with the many workers who were doing the same thing every morning.\" 'Togetherness with the many workers doing the same thing' = sharing an experience with others. Feeling calmer is a result, but it is not one of the options."
         },
         {
@@ -403,7 +403,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "C",
-          "timestamp": 1400,
+          "timestamp": 1372,
           "evidence": "\"If I'm a bit stressed, I'll make sure I pass through a park or somewhere with some wildlife.\" He changes his way to work depending on his mood (stressed → park) = adapts his route to how he feels. He mentions streets and cafés, but not history (F)."
         },
         {
@@ -420,7 +420,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "B",
-          "timestamp": 1436,
+          "timestamp": 1413,
           "evidence": "\"I found myself thinking about everything I've got and how fortunate I am.\" 'How fortunate I am' = appreciating the good things in life. The big breakfast is something she has always eaten, so it is not a new, better diet (E)."
         },
         {
@@ -437,7 +437,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "H",
-          "timestamp": 1460,
+          "timestamp": 1451,
           "evidence": "\"I got fed up going to the gym in an effort to lose weight … so I switched to walking to work.\" Walking replaced the gym = a good alternative to other exercise. The bus 'would have been quicker', so D is wrong."
         },
         {
@@ -454,7 +454,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "A",
-          "timestamp": 1505,
+          "timestamp": 1482,
           "evidence": "\"By the time I get to the office I can really focus on a task and get things done. I used to be like my colleagues, drinking coffee and feeling sleepy.\" His brain works faster and he no longer feels sleepy = more energy for work. D, E and F are the extra letters."
         }
       ],
@@ -491,7 +491,7 @@ window.LISTENING_TESTS.unshift({
             "C": "change the attitude of certain big companies."
           },
           "answer": "A",
-          "timestamp": 1844,
+          "timestamp": 1816,
           "evidence": "\"My website is about the small independent coffee shops … they often struggle against the financial might of these big internationals, so I suppose I wanted to promote them.\" She wants to promote small independent shops = a particular type of coffee shop. Tourists are mentioned only as history (B), and she doesn't try to change the big companies (C)."
         },
         {
@@ -503,7 +503,7 @@ window.LISTENING_TESTS.unshift({
             "C": "The basic design layout has been reorganised."
           },
           "answer": "C",
-          "timestamp": 1863,
+          "timestamp": 1858,
           "evidence": "\"In its current form users are directed to a menu of different towns – that's a new development.\" The new menu of towns is a change in how the site is organised. Customer reviews are only 'starting to grow' (A), and shops can't advertise or pay to appear (B)."
         },
         {
@@ -515,7 +515,7 @@ window.LISTENING_TESTS.unshift({
             "C": "the taste of the product."
           },
           "answer": "B",
-          "timestamp": 1915,
+          "timestamp": 1896,
           "evidence": "\"More often it would be the attitude of the staff that didn't please us.\" 'More often' signals the most common reason: the staff's attitude = customer service. Bad coffee is 'rare' (C); the unwelcoming décor was just last week's example (A)."
         },
         {
@@ -527,7 +527,7 @@ window.LISTENING_TESTS.unshift({
             "C": "the entertainment they provide"
           },
           "answer": "A",
-          "timestamp": 1940,
+          "timestamp": 1920,
           "evidence": "\"Now it's the humorous messages they put up on their chalkboards.\" Funny chalkboard messages = the style of their notices. The plants and paintings were in the past and were copied (B); board games are at OTHER places (C)."
         },
         {
@@ -539,7 +539,7 @@ window.LISTENING_TESTS.unshift({
             "C": "It's good value for money."
           },
           "answer": "B",
-          "timestamp": 1971,
+          "timestamp": 1957,
           "evidence": "\"They seem to be able to cater for every request – gluten-free cakes, wheat-free bread, lactose-free milk.\" Gluten-free, wheat-free and lactose-free food = special dietary needs. The pies are 'a bit pricey' (not C), and she says their takeaway trade is busy, not that it is the best (A)."
         },
         {
@@ -551,7 +551,7 @@ window.LISTENING_TESTS.unshift({
             "C": "not to repeat previous mistakes."
           },
           "answer": "B",
-          "timestamp": 2017,
+          "timestamp": 1988,
           "evidence": "\"Doing that seemed an easy way of losing all my money if I got it wrong, but the website … seemed a better path to follow.\" She chose the website because a coffee shop could lose all her redundancy money = avoiding financial risk. She had worked in cafés before, so the field wasn't completely new (A)."
         },
         {
@@ -563,7 +563,7 @@ window.LISTENING_TESTS.unshift({
             "C": "to develop a new app."
           },
           "answer": "B",
-          "timestamp": 2033,
+          "timestamp": 2027,
           "evidence": "\"The obvious thing is to start covering coffee shops abroad and to see whether that's popular.\" Covering shops abroad 'to see whether that's popular' = experimenting with an international section. The app is 'longer term' (C), and she is only 'considering' stars (A)."
         }
       ],

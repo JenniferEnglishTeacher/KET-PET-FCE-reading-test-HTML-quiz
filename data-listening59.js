@@ -125,7 +125,7 @@ window.LISTENING_TESTS.unshift({
             "C": "to recruit band members"
           },
           "answer": "A",
-          "timestamp": 46,
+          "timestamp": 22,
           "evidence": "\"There's an opportunity to meet them in person at their workshops … where you can learn to play some of their entertaining tunes.\" Workshops where you learn to play their tunes = music lessons. No concert is mentioned, and they 'aren't taking on anyone new', so C is wrong."
         },
         {
@@ -137,7 +137,7 @@ window.LISTENING_TESTS.unshift({
             "C": "keen to avoid one particular activity."
           },
           "answer": "B",
-          "timestamp": 148,
+          "timestamp": 109,
           "evidence": "\"Apparently it makes you smarter, so I'm no longer concerned about my health, and I'm going to buy a new game.\" The article says gaming makes you smarter, so she will keep gaming (buy a new game). None of the new hobbies 'particularly appealed' (not A)."
         },
         {
@@ -149,7 +149,7 @@ window.LISTENING_TESTS.unshift({
             "C": "try out a range of activities."
           },
           "answer": "B",
-          "timestamp": 238,
+          "timestamp": 204,
           "evidence": "\"Now I need time to chill out. – Me too. You don't need to be busy all the time.\" Both say they need time to chill out and 'empty your mind' = do nothing sometimes. The second friend used to try every hobby but doesn't any more (not C); the walk is only something that 'helps sometimes'."
         },
         {
@@ -161,7 +161,7 @@ window.LISTENING_TESTS.unshift({
             "C": "Watching professionals dive is thrilling."
           },
           "answer": "B",
-          "timestamp": 332,
+          "timestamp": 296,
           "evidence": "\"There's nothing like knowing you've got it just right. It's incredible – you want to do it like that every time.\" Getting a dive right makes him want to do it again = motivating. He 'never suffered from nerves' (not A); he watches experts to analyse their moves, not for excitement (not C)."
         },
         {
@@ -173,7 +173,7 @@ window.LISTENING_TESTS.unshift({
             "C": "to overcome a fear"
           },
           "answer": "C",
-          "timestamp": 439,
+          "timestamp": 400,
           "evidence": "\"I find looking down from heights petrifying. I'm hoping this will cure me of that. If I'm honest, that's my main motivation.\" 'Main motivation' = primary reason; 'petrifying … cure me' = overcome a fear. The area and the exercise are mentioned, but only as extras."
         },
         {
@@ -185,7 +185,7 @@ window.LISTENING_TESTS.unshift({
             "C": "He appreciates the opportunity to be creative."
           },
           "answer": "C",
-          "timestamp": 541,
+          "timestamp": 497,
           "evidence": "\"It helps to balance the dullness of my job, where there isn't much room to express myself.\" Woodwork lets him express himself = be creative. Restoring old furniture is 'not for me' (not B), and he doesn't need more cupboard space (not A)."
         },
         {
@@ -197,7 +197,7 @@ window.LISTENING_TESTS.unshift({
             "C": "the acting was unconvincing"
           },
           "answer": "C",
-          "timestamp": 614,
+          "timestamp": 593,
           "evidence": "\"Riley's performance fails to live up to expectations this time.\" His performance (acting) was not as good as expected = unconvincing. The closing scenes were 'satisfying' (not A) and we mostly see an apartment, not the scenery (not B)."
         },
         {
@@ -209,7 +209,7 @@ window.LISTENING_TESTS.unshift({
             "C": "analysing his friends' photos"
           },
           "answer": "A",
-          "timestamp": 710,
+          "timestamp": 685,
           "evidence": "\"You can create all kinds of weird and wonderful effects with it. It's brilliant for experimenting with.\" Experimenting with effects = trying different techniques. He avoids looking closely at friends' photos (not C), and only mentions negative feedback (not B)."
         }
       ],
@@ -240,7 +240,7 @@ window.LISTENING_TESTS.unshift({
             "festivals",
             "festival"
           ],
-          "timestamp": 878,
+          "timestamp": 876,
           "evidence": "\"…to my personal favourites, festivals.\""
         },
         {
@@ -252,7 +252,7 @@ window.LISTENING_TESTS.unshift({
             "jewellry",
             "jewelery"
           ],
-          "timestamp": 901,
+          "timestamp": 893,
           "evidence": "\"In this case the fair's in the jewellery quarter.\""
         },
         {
@@ -263,7 +263,7 @@ window.LISTENING_TESTS.unshift({
             "very nervous",
             "so nervous"
           ],
-          "timestamp": 924,
+          "timestamp": 917,
           "evidence": "\"I'd be excited too if I wasn't so nervous.\""
         },
         {
@@ -275,7 +275,7 @@ window.LISTENING_TESTS.unshift({
             "todo list",
             "to-do-list"
           ],
-          "timestamp": 941,
+          "timestamp": 934,
           "evidence": "\"This means creating what's known as a to-do list.\""
         },
         {
@@ -286,7 +286,7 @@ window.LISTENING_TESTS.unshift({
             "the suppliers",
             "supplier"
           ],
-          "timestamp": 964,
+          "timestamp": 957,
           "evidence": "\"Then I can start to approach suppliers – the people who will provide everything we need.\""
         },
         {
@@ -295,7 +295,7 @@ window.LISTENING_TESTS.unshift({
           "answer": [
             "satisfying"
           ],
-          "timestamp": 976,
+          "timestamp": 970,
           "evidence": "\"When everything comes together and an event is successful, it's really satisfying.\""
         },
         {
@@ -304,7 +304,7 @@ window.LISTENING_TESTS.unshift({
           "answer": [
             "tourism"
           ],
-          "timestamp": 1004,
+          "timestamp": 995,
           "evidence": "\"Tourism is what I actually studied.\""
         },
         {
@@ -314,7 +314,7 @@ window.LISTENING_TESTS.unshift({
             "determined",
             "very determined"
           ],
-          "timestamp": 1034,
+          "timestamp": 1024,
           "evidence": "\"Above all else, I'd say you've got to be determined.\""
         },
         {
@@ -326,7 +326,7 @@ window.LISTENING_TESTS.unshift({
             "back up plan",
             "backup plans"
           ],
-          "timestamp": 1050,
+          "timestamp": 1043,
           "evidence": "\"This is where what's known as a backup plan is crucial, so I was glad I'd created one in advance.\""
         },
         {
@@ -337,7 +337,7 @@ window.LISTENING_TESTS.unshift({
             "customer-service",
             "customer services"
           ],
-          "timestamp": 1084,
+          "timestamp": 1077,
           "evidence": "\"Work in all types of customer service roles is helpful.\""
         }
       ],
@@ -394,7 +394,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "C",
-          "timestamp": 1428,
+          "timestamp": 1409,
           "evidence": "\"When we had our first glimpse of it sitting there on the hill, we thought it was breathtaking … the way it was situated certainly made an impact.\" The position of the villa on the hill impressed them = an impressive setting. The land was 'not beautiful' (not E) and it 'wasn't quiet' (not B)."
         },
         {
@@ -411,7 +411,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "A",
-          "timestamp": 1481,
+          "timestamp": 1450,
           "evidence": "\"When we arrived we were like, 'Wow, this place is huge!'\" Her first reaction was to the hotel's size. Meeting people of her age came later, and the missing TV is a complaint about the room."
         },
         {
@@ -428,7 +428,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "F",
-          "timestamp": 1505,
+          "timestamp": 1492,
           "evidence": "\"Nothing could have prepared us for how luxurious it felt … I slept incredibly well in my cosy bed.\" Luxurious, cosy = comfortable furnishings. It lacked a hairdryer and kitchen things, so it was NOT well-equipped (G)."
         },
         {
@@ -445,7 +445,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "D",
-          "timestamp": 1551,
+          "timestamp": 1534,
           "evidence": "\"This is exactly what we wanted – a really cool spot right on the lakeside where you could go swimming. Perfect for us.\" The spot was 'perfect for us' = a suitable location. There weren't many cooking utensils (not G) and it was noisy at night (not B)."
         },
         {
@@ -462,7 +462,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "B",
-          "timestamp": 1590,
+          "timestamp": 1573,
           "evidence": "\"What was immediately remarkable was the silence. I slept like a baby.\" 'Immediately' = first impression; silence = peaceful surroundings. Nobody met them (not H), and the website photos made it look better than it was (not E)."
         }
       ],
@@ -499,7 +499,7 @@ window.LISTENING_TESTS.unshift({
             "C": "when the local council asked for volunteers"
           },
           "answer": "B",
-          "timestamp": 1952,
+          "timestamp": 1922,
           "evidence": "\"Having gone into various environmental issues in science classes, I realised we've got a shared responsibility.\" Science classes = studying the environment at school. The council is mentioned as the body people wrongly rely on (not C)."
         },
         {
@@ -511,7 +511,7 @@ window.LISTENING_TESTS.unshift({
             "C": "pleased to be offered free materials"
           },
           "answer": "B",
-          "timestamp": 1983,
+          "timestamp": 1964,
           "evidence": "\"The problem was I couldn't speak to everyone face to face. In the end we got loads of posters printed.\" His worry was how to reach everyone, so they used posters. Volunteers brought their own cleaning things – nobody offered free materials (not C)."
         },
         {
@@ -523,7 +523,7 @@ window.LISTENING_TESTS.unshift({
             "C": "delighted at the number of reporters there."
           },
           "answer": "A",
-          "timestamp": 2003,
+          "timestamp": 1994,
           "evidence": "\"I was just filled with pride. It was fantastic to see how much people cared about their community.\" He was proud of the local people who cared = admiration. Reporters were there, but he only says he hadn't thought of inviting them (not C)."
         },
         {
@@ -535,7 +535,7 @@ window.LISTENING_TESTS.unshift({
             "C": "worried about how to make sure it stayed clean"
           },
           "answer": "B",
-          "timestamp": 2045,
+          "timestamp": 2025,
           "evidence": "\"I suddenly got annoyed about how the pond had got in such a bad state. There are litter bins everywhere and it's not hard to use them.\" Annoyed = angry, and he blames people who didn't use the bins. Keeping it clean is a lesson he learned, not a worry (not C)."
         },
         {
@@ -547,7 +547,7 @@ window.LISTENING_TESTS.unshift({
             "C": "forgetting to arrange food for volunteers"
           },
           "answer": "C",
-          "timestamp": 2073,
+          "timestamp": 2056,
           "evidence": "\"One thing we regret is failing to provide refreshments for them. We should have thought of that.\" Refreshments = food and drink. They did chat to everyone (not B) and nobody complained (not A)."
         },
         {
@@ -559,7 +559,7 @@ window.LISTENING_TESTS.unshift({
             "C": "confident he can improve things on a wider scale"
           },
           "answer": "B",
-          "timestamp": 2104,
+          "timestamp": 2087,
           "evidence": "\"I won't stop here. I've come up with loads of ideas I want to get on with.\" He wants to do more projects. He calls the clean-up 'a tiny drop in the ocean' (not A) and says one person can't change the world (not C)."
         },
         {
@@ -571,7 +571,7 @@ window.LISTENING_TESTS.unshift({
             "C": "Look out for local environmental events."
           },
           "answer": "A",
-          "timestamp": 2135,
+          "timestamp": 2117,
           "evidence": "\"There's nothing to stop you turning off the tap while you clean your teeth … These things don't really take any time or effort.\" Turning off the tap and recycling are small changes. He says everyone has already read articles (not B), and you can't expect people to join clean-ups all the time (not C)."
         }
       ],

@@ -119,7 +119,7 @@ window.LISTENING_TESTS.unshift({
             "C": "She said she didn't like the food."
           },
           "answer": "A",
-          "timestamp": 25,
+          "timestamp": 23,
           "evidence": "\"I said I was expected home but it was a complete lie.\" Her excuse was that she was 'expected home' = she had arranged to go home. The terrible food is the real reason, not the excuse."
         },
         {
@@ -131,7 +131,7 @@ window.LISTENING_TESTS.unshift({
             "C": "a politician"
           },
           "answer": "C",
-          "timestamp": 101,
+          "timestamp": 100,
           "evidence": "\"When we want people to vote for us we pretend that we can make everything right… we all have to say we agree with our party leader.\" 'Vote for us', 'party system' and 'party leader' all point to a politician. Money in your pocket is a distractor for 'economist'."
         },
         {
@@ -143,7 +143,7 @@ window.LISTENING_TESTS.unshift({
             "C": "She didn't know anything."
           },
           "answer": "B",
-          "timestamp": 194,
+          "timestamp": 193,
           "evidence": "\"She'd have wanted to know all the details and everyone would have known by the weekend.\" The rumour was true and she had known for ages, so A and C are wrong. She feared the neighbour would spread it."
         },
         {
@@ -155,7 +155,7 @@ window.LISTENING_TESTS.unshift({
             "C": "to keep the conversation going"
           },
           "answer": "A",
-          "timestamp": 286,
+          "timestamp": 285,
           "evidence": "\"It's not true. I just wanted to see his face.\" 'See his face' = see his reaction. She was bored and wanted to end the football talk, not impress him."
         },
         {
@@ -167,7 +167,7 @@ window.LISTENING_TESTS.unshift({
             "C": "Something had gone wrong with the car."
           },
           "answer": "A",
-          "timestamp": 374,
+          "timestamp": 373,
           "evidence": "\"Unfortunately I nodded off for a second, went off the road and scraped the car against a tree.\" 'Nodded off' = fell asleep. There was 'hardly any traffic', so B is the opposite of what he says."
         },
         {
@@ -179,7 +179,7 @@ window.LISTENING_TESTS.unshift({
             "C": "He had wanted to speak to Barbara."
           },
           "answer": "A",
-          "timestamp": 462,
+          "timestamp": 460,
           "evidence": "\"His exact words were, 'If I'd known it was Annie, I'd have spoken to her.'\" He avoided Barbara, but the caller was actually Annie, the person he did want to talk to."
         },
         {
@@ -191,7 +191,7 @@ window.LISTENING_TESTS.unshift({
             "C": "It wasn't very good."
           },
           "answer": "B",
-          "timestamp": 552,
+          "timestamp": 551,
           "evidence": "\"As soon as I took it out of its case I knew it was a fake.\" 'A fake' = not genuine. 'Made in Toyland' confirms it. 'Broken' refers to his old watch, dropped in the bath."
         },
         {
@@ -203,7 +203,7 @@ window.LISTENING_TESTS.unshift({
             "C": "She couldn't contact her sister."
           },
           "answer": "B",
-          "timestamp": 634,
+          "timestamp": 633,
           "evidence": "\"If I'd told her the result, it would have ruined her holiday.\" 'Ruined' = spoiled. Her sister had asked her to open the letter, and she did speak to her on the phone, so A and C are wrong."
         }
       ],
@@ -236,7 +236,7 @@ window.LISTENING_TESTS.unshift({
             "TV",
             "the TV"
           ],
-          "timestamp": 814,
+          "timestamp": 809,
           "evidence": "\"Most time was spent on the computer, around four hours, followed by the television, 90 minutes.\""
         },
         {
@@ -248,7 +248,7 @@ window.LISTENING_TESTS.unshift({
             "foreign languages",
             "a foreign langauge"
           ],
-          "timestamp": 836,
+          "timestamp": 833,
           "evidence": "\"…with speaking a foreign language coming way behind.\""
         },
         {
@@ -260,7 +260,7 @@ window.LISTENING_TESTS.unshift({
             "economic climate",
             "difficult economic climate"
           ],
-          "timestamp": 866,
+          "timestamp": 858,
           "evidence": "\"Even though we are living in a difficult economic climate, it seems the price tag… hardly matters.\""
         },
         {
@@ -271,7 +271,7 @@ window.LISTENING_TESTS.unshift({
             "bread machine",
             "breadmachines"
           ],
-          "timestamp": 900,
+          "timestamp": 889,
           "evidence": "\"I wonder how many bread machines… are now lying unused at the back of kitchen cupboards.\""
         },
         {
@@ -280,7 +280,7 @@ window.LISTENING_TESTS.unshift({
           "answer": [
             "excitement"
           ],
-          "timestamp": 917,
+          "timestamp": 913,
           "evidence": "\"There was still the same excitement when any new gadget appeared.\""
         },
         {
@@ -294,7 +294,7 @@ window.LISTENING_TESTS.unshift({
             "all the neighbours",
             "all the neighbors"
           ],
-          "timestamp": 930,
+          "timestamp": 925,
           "evidence": "\"At the coronation of Queen Elizabeth II in 1953, all the neighbours were invited in to watch the ceremony.\""
         },
         {
@@ -305,7 +305,7 @@ window.LISTENING_TESTS.unshift({
             "household task",
             "housework"
           ],
-          "timestamp": 949,
+          "timestamp": 946,
           "evidence": "\"Most of their day was taken up with cleaning, cooking, washing and other household tasks.\""
         },
         {
@@ -337,7 +337,7 @@ window.LISTENING_TESTS.unshift({
             "basic functions",
             "function"
           ],
-          "timestamp": 1011,
+          "timestamp": 1008,
           "evidence": "\"A lot of women want a phone that will perform, say, five basic functions… For men, the more functions there are the better.\""
         }
       ],
@@ -394,7 +394,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "G",
-          "timestamp": 1329,
+          "timestamp": 1328,
           "evidence": "\"As soon as I had cash I'd gamble it away.\" Gambling meant the money disappeared immediately. She says gambling was a problem but she got help, which is not H."
         },
         {
@@ -411,7 +411,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "B",
-          "timestamp": 1372,
+          "timestamp": 1370,
           "evidence": "\"I've got no intention of doing an ordinary job. There's just not enough money in it.\" An ordinary job pays less, and he refuses to do one. He says 'if I don't do it someone else will', which is an excuse, not an admission (F)."
         },
         {
@@ -428,7 +428,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "A",
-          "timestamp": 1408,
+          "timestamp": 1412,
           "evidence": "\"I realise it's entirely my own fault, but I think credit card companies and banks are also to blame.\" 'Entirely my own fault' = accepts responsibility. He wants to pay back his debts but doesn't know how, so D is wrong."
         },
         {
@@ -445,7 +445,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "E",
-          "timestamp": 1449,
+          "timestamp": 1452,
           "evidence": "\"That's when we started arguing… in the end we split up. If we hadn't had money problems we might still be together.\" Money problems led to arguments and the end of her marriage."
         },
         {
@@ -462,7 +462,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "C",
-          "timestamp": 1496,
+          "timestamp": 1494,
           "evidence": "\"I got caught up in the rat race, just trying to earn more and more… now I realise there are far more important things in life than money.\" He used to chase money (the past) and has now changed. The heart attack only might have happened, so H is a trap."
         }
       ],
@@ -499,7 +499,7 @@ window.LISTENING_TESTS.unshift({
             "C": "that their son goes out with his friends too often"
           },
           "answer": "B",
-          "timestamp": 1881,
+          "timestamp": 1842,
           "evidence": "\"They're getting more and more obsessed about the amount of time I spend with what they call my virtual friends.\" 'Virtual friends' = internet friends; the worry is 'the amount of time'."
         },
         {
@@ -511,7 +511,7 @@ window.LISTENING_TESTS.unshift({
             "C": "when he isn't at college"
           },
           "answer": "C",
-          "timestamp": 1919,
+          "timestamp": 1897,
           "evidence": "\"If I don't have to go to college, I'll spend a couple of hours chatting to friends in the morning and maybe another two in the evening.\" Waking up takes only about five minutes. Four hours happens on days without college."
         },
         {
@@ -523,7 +523,7 @@ window.LISTENING_TESTS.unshift({
             "C": "He knows his behaviour will have to change."
           },
           "answer": "A",
-          "timestamp": 1940,
+          "timestamp": 1933,
           "evidence": "\"I just think it's completely normal for people of my age.\" 'Completely normal' = not unusual. 'Rude and antisocial' is his parents' view, not his."
         },
         {
@@ -535,7 +535,7 @@ window.LISTENING_TESTS.unshift({
             "C": "They are always busy."
           },
           "answer": "B",
-          "timestamp": 1957,
+          "timestamp": 1953,
           "evidence": "\"It's just a bit of fun. I think adults take these things too seriously.\" 'Take these things too seriously' = too serious-minded. 'Too busy' is only about his dad, not adults in general."
         },
         {
@@ -547,7 +547,7 @@ window.LISTENING_TESTS.unshift({
             "C": "He understands both points of view."
           },
           "answer": "A",
-          "timestamp": 1985,
+          "timestamp": 1977,
           "evidence": "\"I have great sympathy with your parents and completely understand their point of view.\" His sympathy is with the parents, not James, and he only gives the parents' side."
         },
         {
@@ -559,7 +559,7 @@ window.LISTENING_TESTS.unshift({
             "C": "gradually reduce the time he spends on virtual friends"
           },
           "answer": "C",
-          "timestamp": 2014,
+          "timestamp": 2011,
           "evidence": "\"I suggest you try to cut back your contact with digital friends by a few minutes every day.\" 'A few minutes every day' = gradually. Tennis is an old activity, not a new one, and she never mentions treatment."
         },
         {
@@ -571,7 +571,7 @@ window.LISTENING_TESTS.unshift({
             "C": "her observations of other teenagers she knows"
           },
           "answer": "B",
-          "timestamp": 2053,
+          "timestamp": 2051,
           "evidence": "\"That's if my own son's experience is anything to go by.\" 'My own son' = one of her children. She is a counsellor, but she doesn't use that experience here."
         }
       ],

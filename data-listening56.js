@@ -124,7 +124,7 @@ window.LISTENING_TESTS.unshift({
             "C": "complaining about a certain kind of passenger"
           },
           "answer": "B",
-          "timestamp": 42,
+          "timestamp": 23,
           "evidence": "\"Checking the seating plan of the plane you're taking will help you identify areas where there's space to stretch out… I won't advise against this as it keeps blood moving around the body.\" He gives reasons for two actions: check the seating plan (to find space) and move around (it keeps blood moving). He says he won't advise against moving, so A is wrong; the passengers he mentions complain about leg room, he does not complain about them (C)."
         },
         {
@@ -136,7 +136,7 @@ window.LISTENING_TESTS.unshift({
             "C": "be aware of the expense of taking vitamins."
           },
           "answer": "B",
-          "timestamp": 116,
+          "timestamp": 97,
           "evidence": "\"It depends how much effort you put into preparing healthy meals, which is what I'd encourage.\" 'Preparing healthy meals, which is what I'd encourage' = focus on cooking healthy food. A doctor is mentioned only as someone who 'might prescribe' a vitamin (A), and pills are now 'more affordable' (C)."
         },
         {
@@ -148,7 +148,7 @@ window.LISTENING_TESTS.unshift({
             "C": "how likely they are to practise the exercises"
           },
           "answer": "A",
-          "timestamp": 226,
+          "timestamp": 187,
           "evidence": "\"I haven't come across the techniques the teacher used before. – And I guess it was like a trip to a foreign land for you, as a complete newcomer. – True.\" Both say the techniques were new to them ('haven't come across', 'like a trip to a foreign land') and she answers 'True'. They feel energised, not tired (B), and she is not sure she will go again (C)."
         },
         {
@@ -160,7 +160,7 @@ window.LISTENING_TESTS.unshift({
             "C": "to arrange a meeting with her tutor"
           },
           "answer": "C",
-          "timestamp": 313,
+          "timestamp": 273,
           "evidence": "\"Is there any chance of coming in for a chat with him over the holiday? Can you ask him to ring me to set it up?\" She wants to 'come in for a chat' with the tutor and asks him to call her to 'set it up' = arrange a meeting. Her tutor already excused her (A), and the feedback she wants is on her essay, not her presentation (B)."
         },
         {
@@ -172,7 +172,7 @@ window.LISTENING_TESTS.unshift({
             "C": "pleased she has made some good friends"
           },
           "answer": "B",
-          "timestamp": 380,
+          "timestamp": 362,
           "evidence": "\"By polishing my management skills – they're much improved.\" She is happy that her own management skills have improved and that this experience got her a new job = she has made a success of her role. She learned NOT to try to be everyone's friend (C)."
         },
         {
@@ -184,7 +184,7 @@ window.LISTENING_TESTS.unshift({
             "C": "hasn't done enough background reading."
           },
           "answer": "B",
-          "timestamp": 489,
+          "timestamp": 447,
           "evidence": "\"Given that you need to compare both informal and formal settings… – Ah. I haven't, have I?\" Recording his friends only gives informal speech; he has forgotten that he must also compare formal settings. The topic is 'achievable' (A), and reading literature alone 'isn't sufficient' – the tutor wants original research, not more reading (C)."
         },
         {
@@ -196,7 +196,7 @@ window.LISTENING_TESTS.unshift({
             "C": "He'd prefer to do something else."
           },
           "answer": "A",
-          "timestamp": 570,
+          "timestamp": 538,
           "evidence": "\"People often overlook what a skilled job painting and decorating is.\" People wrongly think painters are failed artists and overlook the skill = the job is misunderstood. He never wanted to be an artist (C), and he does use imagination when advising on colour schemes (B)."
         },
         {
@@ -208,7 +208,7 @@ window.LISTENING_TESTS.unshift({
             "C": "horses can react well to training."
           },
           "answer": "C",
-          "timestamp": 640,
+          "timestamp": 622,
           "evidence": "\"Yes, you do need to put some real work into training, but you'll find they respond positively on the whole.\" 'Respond positively' = react well. You don't have to be a qualified trainer (A), and training needs 'real work' (B)."
         }
       ],
@@ -239,7 +239,7 @@ window.LISTENING_TESTS.unshift({
             "spices",
             "spice"
           ],
-          "timestamp": 808,
+          "timestamp": 802,
           "evidence": "\"I was amazed to find out that wax could be made from not only nuts and olive oil but spices too.\""
         },
         {
@@ -251,7 +251,7 @@ window.LISTENING_TESTS.unshift({
             "scent",
             "smell"
           ],
-          "timestamp": 838,
+          "timestamp": 828,
           "evidence": "\"While it was burning it gave out a new perfume each hour.\""
         },
         {
@@ -261,7 +261,7 @@ window.LISTENING_TESTS.unshift({
             "nail",
             "metal nail"
           ],
-          "timestamp": 859,
+          "timestamp": 850,
           "evidence": "\"I bet you didn't know that by inserting a nail or other small heavy object into a candle you would hear the noise of it dropping…\""
         },
         {
@@ -273,7 +273,7 @@ window.LISTENING_TESTS.unshift({
             "bad smell",
             "awful smell"
           ],
-          "timestamp": 886,
+          "timestamp": 885,
           "evidence": "\"Candle production was prohibited in many factories at this time because the process released a terrible smell.\""
         },
         {
@@ -284,7 +284,7 @@ window.LISTENING_TESTS.unshift({
             "amount of smoke",
             "the smoke"
           ],
-          "timestamp": 903,
+          "timestamp": 899,
           "evidence": "\"…and something that was particularly useful, reducing the amount of smoke they generated.\""
         },
         {
@@ -296,7 +296,7 @@ window.LISTENING_TESTS.unshift({
             "candle-making machine",
             "candle making machine"
           ],
-          "timestamp": 929,
+          "timestamp": 921,
           "evidence": "\"If you go to the Museum of Industry, you can see a machine from the period built for this purpose… I've watched it in action.\""
         },
         {
@@ -306,7 +306,7 @@ window.LISTENING_TESTS.unshift({
             "petrol",
             "petroleum"
           ],
-          "timestamp": 960,
+          "timestamp": 954,
           "evidence": "\"I even had a piece published in a magazine about how these new waxes were created. I focused on petrol.\""
         },
         {
@@ -316,7 +316,7 @@ window.LISTENING_TESTS.unshift({
             "cotton",
             "woven cotton"
           ],
-          "timestamp": 985,
+          "timestamp": 979,
           "evidence": "\"Cotton became the most effective material. It was tightly woven so it would curl over when it burned.\""
         },
         {
@@ -327,7 +327,7 @@ window.LISTENING_TESTS.unshift({
             "relaxing",
             "relaxation purposes"
           ],
-          "timestamp": 1011,
+          "timestamp": 1008,
           "evidence": "\"After getting home from work, I love nothing better than the relaxation provided by lighting a candle.\""
         },
         {
@@ -341,7 +341,7 @@ window.LISTENING_TESTS.unshift({
             "different colours",
             "different colors"
           ],
-          "timestamp": 1037,
+          "timestamp": 1032,
           "evidence": "\"This afternoon, however, we're going to concentrate on my current area of development, which is different colour combinations.\""
         }
       ],
@@ -398,7 +398,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "H",
-          "timestamp": 1411,
+          "timestamp": 1396,
           "evidence": "\"It took me ages to work out that I could save packing time by keeping a separate bag of toothpaste and other necessities I could pick up at a moment's notice.\" A separate bag of 'necessities' ready to 'pick up at a moment's notice' = a bag ready-prepared with essentials. The free newspaper is just a way to pass the time."
         },
         {
@@ -415,7 +415,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "E",
-          "timestamp": 1462,
+          "timestamp": 1434,
           "evidence": "\"Researching how things are done in the workplace in the country you're visiting is vital.\" 'How things are done in the workplace' = local business customs. He only 'could' make copies of his passport (B), and he finds speaking the local language unhelpful (F)."
         },
         {
@@ -432,7 +432,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "D",
-          "timestamp": 1500,
+          "timestamp": 1475,
           "evidence": "\"One tip I picked up along the way was to repeatedly book a seat with a company you trust.\" Booking again and again with the same trusted company = always fly with the same airline; the flight staff get to know you. Language skills are 'not essential' (F)."
         },
         {
@@ -449,7 +449,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "F",
-          "timestamp": 1527,
+          "timestamp": 1513,
           "evidence": "\"Knowing some polite expressions and the address of your hotel in the local language is worth doing.\" 'Polite expressions in the local language' = useful phrases. She would never drive in a strange city, so not car hire (A); she writes down the exchange rate but doesn't order currency (G)."
         },
         {
@@ -466,7 +466,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "C",
-          "timestamp": 1579,
+          "timestamp": 1556,
           "evidence": "\"I just take a small bag which fits easily into the lockers on board. I don't take many clothes… it's the easiest way to travel.\" A small bag and few clothes = packing as lightly as possible. Leftover currency is something he happens to have, not something he orders (G)."
         }
       ],
@@ -503,7 +503,7 @@ window.LISTENING_TESTS.unshift({
             "C": "learning about human emotion"
           },
           "answer": "A",
-          "timestamp": 1911,
+          "timestamp": 1899,
           "evidence": "\"We're all fascinated by what other people do, especially when it isn't what we do ourselves. I guess that's the heart of the matter for me these days.\" What other people do that is different from us = the differences between people, and 'these days' = now. Reading how people feel is what FIRST interested her (C), in the past."
         },
         {
@@ -515,7 +515,7 @@ window.LISTENING_TESTS.unshift({
             "C": "the amusement she felt at her mother's reaction."
           },
           "answer": "A",
-          "timestamp": 1957,
+          "timestamp": 1930,
           "evidence": "\"What sticks in my mind is the thrill of realising that once he knew who was calling, he'd either carry on with the posh voice or relax into his normal way of speaking.\" 'What sticks in my mind' = what she remembers; 'the thrill of realising' = excitement about a discovery. She and her mother shared smiles, but that is not what she remembers most (C)."
         },
         {
@@ -527,7 +527,7 @@ window.LISTENING_TESTS.unshift({
             "C": "are unable to change the way we behave."
           },
           "answer": "B",
-          "timestamp": 2005,
+          "timestamp": 1968,
           "evidence": "\"We do what's expected of us. People rarely challenge fixed ideas, even if they like to think of themselves as different.\" Social norms = cultural habits; 'rarely challenge fixed ideas' = don't like to question them. She says 'it isn't that we couldn't do something differently', so C is wrong."
         },
         {
@@ -539,7 +539,7 @@ window.LISTENING_TESTS.unshift({
             "C": "concerned about doing the wrong thing."
           },
           "answer": "A",
-          "timestamp": 2025,
+          "timestamp": 2003,
           "evidence": "\"I assumed that if I started a conversation in a lift people would join in, but they just nodded politely and went back to staring at their phones. I couldn't believe it.\" 'I couldn't believe it' = surprised; people didn't join in = lack of interest in conversation. It is the OTHER people who worry about appearing strange (C)."
         },
         {
@@ -551,7 +551,7 @@ window.LISTENING_TESTS.unshift({
             "C": "It isn't as easy to do as she had assumed."
           },
           "answer": "B",
-          "timestamp": 2054,
+          "timestamp": 2031,
           "evidence": "\"I thought I could put an original slant on the work, but I've realised this research isn't going to change the world of psychology.\" She expected it to be original and important but now sees it won't change psychology = less useful than she thought. She says it is still interesting (A), and 'it's not difficult to understand why' is about people's behaviour, not the work (C)."
         },
         {
@@ -563,7 +563,7 @@ window.LISTENING_TESTS.unshift({
             "C": "changed her opinion about the value of research."
           },
           "answer": "A",
-          "timestamp": 2072,
+          "timestamp": 2063,
           "evidence": "\"Except when they learn the cost of the item – then they start judging it. That was news to me. I'd imagined people wouldn't be bothered.\" 'That was news to me… I'd imagined…' = the result was unexpected. It was her first published article, but she doesn't say it helped her career (B)."
         },
         {
@@ -575,7 +575,7 @@ window.LISTENING_TESTS.unshift({
             "C": "difficult to achieve."
           },
           "answer": "C",
-          "timestamp": 2105,
+          "timestamp": 2091,
           "evidence": "\"Studies like this require careful setting up. It isn't that it can't be done – you have to observe people for long enough until they forget they're being observed.\" It needs careful setting up and long observation = difficult to achieve (but possible). Participants 'don't always like what they see of themselves', so B is wrong."
         }
       ],

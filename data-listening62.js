@@ -116,7 +116,7 @@ window.LISTENING_TESTS.unshift({
             "C": "a board game"
           },
           "answer": "C",
-          "timestamp": 62,
+          "timestamp": 24,
           "evidence": "\"Throw the dice and race around the board, collecting points as you go.\" Dice and a board = a board game. It is only 'based on the hit TV programme', so A is a trap; 'computers' is just one of the quiz topics (B)."
         },
         {
@@ -128,7 +128,7 @@ window.LISTENING_TESTS.unshift({
             "C": "trying to get some goods delivered"
           },
           "answer": "B",
-          "timestamp": 146,
+          "timestamp": 125,
           "evidence": "\"I can't give you a cash refund unless the product is faulty in some way, I'm afraid.\" The assistant is refusing a cash refund, so the man has asked for his money back. The jacket is not faulty (A), and ordering one in is only the assistant's offer (C)."
         },
         {
@@ -140,7 +140,7 @@ window.LISTENING_TESTS.unshift({
             "C": "making a suggestion about something"
           },
           "answer": "B",
-          "timestamp": 255,
+          "timestamp": 206,
           "evidence": "\"I just wondered if you had any ideas on what I could do.\" She asks the programme for ideas = asking for advice. She only wonders whether the garage can be trusted; she doesn't blame anyone (A)."
         },
         {
@@ -152,7 +152,7 @@ window.LISTENING_TESTS.unshift({
             "C": "in a library"
           },
           "answer": "A",
-          "timestamp": 317,
+          "timestamp": 299,
           "evidence": "\"Get someone to mark the bus routes on it for us… I'm going to go up to that uniformed man over there and ask him to lend me one.\" They want a map of bus routes and ask a uniformed official there. The shop (B) is Tom's suggestion and the library (C) is 'next door'."
         },
         {
@@ -164,7 +164,7 @@ window.LISTENING_TESTS.unshift({
             "C": "the fact that her holiday arrangements were changed"
           },
           "answer": "B",
-          "timestamp": 413,
+          "timestamp": 386,
           "evidence": "\"When I spoke to your employee on the phone, she said there was only one flight a day.\" She was told wrongly that there was only one flight; there was also a midday flight. The information was inaccurate."
         },
         {
@@ -176,7 +176,7 @@ window.LISTENING_TESTS.unshift({
             "C": "his secretary"
           },
           "answer": "C",
-          "timestamp": 535,
+          "timestamp": 490,
           "evidence": "\"It's probably on my desk somewhere. Can you have a look, or perhaps you could check with the organisers…\" The person can look on his desk and can check with the organisers, so it must be someone in his office – his secretary."
         },
         {
@@ -188,7 +188,7 @@ window.LISTENING_TESTS.unshift({
             "C": "entertainment"
           },
           "answer": "A",
-          "timestamp": 644,
+          "timestamp": 593,
           "evidence": "\"The idea has caught on fastest when there's something to be picked up, especially holiday documents.\" 'Caught on fastest' = most successful; holiday documents belong to travel. Chemists, dentists (B) and theatre tickets (C) are only examples."
         },
         {
@@ -200,7 +200,7 @@ window.LISTENING_TESTS.unshift({
             "C": "research into the success of e-commerce"
           },
           "answer": "B",
-          "timestamp": 767,
+          "timestamp": 714,
           "evidence": "\"But fortunately it looks like a solution is at hand. Tanya Wilde went to investigate.\" The delivery problem is only the introduction; the programme will investigate a new solution to it."
         }
       ],
@@ -231,7 +231,7 @@ window.LISTENING_TESTS.unshift({
             "birds",
             "tropical birds"
           ],
-          "timestamp": 900,
+          "timestamp": 895,
           "evidence": "\"It was meant to be a quick visit to research and write a piece about tropical birds.\""
         },
         {
@@ -242,7 +242,7 @@ window.LISTENING_TESTS.unshift({
             "light",
             "day light"
           ],
-          "timestamp": 929,
+          "timestamp": 925,
           "evidence": "\"What I hadn't quite realised was how little daylight actually gets through the trees.\""
         },
         {
@@ -255,7 +255,7 @@ window.LISTENING_TESTS.unshift({
             "motorcycles",
             "flying motorbikes"
           ],
-          "timestamp": 947,
+          "timestamp": 944,
           "evidence": "\"They're massive, noisy creatures, a bit like flying motorbikes.\""
         },
         {
@@ -264,7 +264,7 @@ window.LISTENING_TESTS.unshift({
           "answer": [
             "emotional"
           ],
-          "timestamp": 973,
+          "timestamp": 971,
           "evidence": "\"Not because I was terrified, but I just felt emotional.\""
         },
         {
@@ -279,7 +279,7 @@ window.LISTENING_TESTS.unshift({
             "a hundred and seventy kilometres",
             "one hundred and seventy kilometres"
           ],
-          "timestamp": 1010,
+          "timestamp": 1006,
           "evidence": "\"The territory of a typical male jaguar is something like 170 kilometres.\""
         },
         {
@@ -288,7 +288,7 @@ window.LISTENING_TESTS.unshift({
           "answer": [
             "spider"
           ],
-          "timestamp": 1047,
+          "timestamp": 1038,
           "evidence": "\"It's the spider I was given as an honoured guest that stands out in my mind… It was the size of a small rat.\""
         },
         {
@@ -297,7 +297,7 @@ window.LISTENING_TESTS.unshift({
           "answer": [
             "respect"
           ],
-          "timestamp": 1082,
+          "timestamp": 1075,
           "evidence": "\"Forest people tend to respect rather than fear these powerful animals.\""
         },
         {
@@ -308,7 +308,7 @@ window.LISTENING_TESTS.unshift({
             "land owners",
             "the landowners"
           ],
-          "timestamp": 1104,
+          "timestamp": 1099,
           "evidence": "\"Landowners have no hesitation in killing them if they see one near their farms.\""
         },
         {
@@ -330,7 +330,7 @@ window.LISTENING_TESTS.unshift({
             "lecture tour",
             "lectures"
           ],
-          "timestamp": 1140,
+          "timestamp": 1136,
           "evidence": "\"I have replaced journalism with lecture tours, as I think they are a more effective way of educating people.\""
         }
       ],
@@ -387,7 +387,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "C",
-          "timestamp": 1551,
+          "timestamp": 1530,
           "evidence": "\"The whole point was to get people to give donations to a medical research organisation.\" Donations to a medical research organisation = raising money for charity. Her family's amazement came afterwards, so D is not her reason."
         },
         {
@@ -404,7 +404,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "D",
-          "timestamp": 1601,
+          "timestamp": 1575,
           "evidence": "\"Just so that I could see the expressions of amazement on my kids' faces.\" She wanted to amaze her children = give her family a surprise. She still prefers to watch them swim, so H is a trap."
         },
         {
@@ -421,7 +421,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "A",
-          "timestamp": 1646,
+          "timestamp": 1622,
           "evidence": "\"I had to be talked into doing it by my friends… they kept on at me until I agreed to give it a go.\" 'Talked into' = persuaded by other people. The fitness and the kids are about the present and future, not why she started."
         },
         {
@@ -438,7 +438,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "F",
-          "timestamp": 1678,
+          "timestamp": 1665,
           "evidence": "\"My main motive… is because my boyfriend Tony said I wouldn't be able to do it… I was determined to show Tony that he was wrong.\" She wanted to prove to Tony that she could do it. 'Main motive' signals the answer; the exotic fish are only a minor reason."
         },
         {
@@ -455,7 +455,7 @@ window.LISTENING_TESTS.unshift({
             "H": "H"
           },
           "answer": "E",
-          "timestamp": 1738,
+          "timestamp": 1711,
           "evidence": "\"I wanted something to help me unwind after a stressful day at work.\" 'Unwind' = relax. B, G and H are the three extra letters."
         }
       ],
@@ -492,7 +492,7 @@ window.LISTENING_TESTS.unshift({
             "C": "what kind of skills they have"
           },
           "answer": "B",
-          "timestamp": 2115,
+          "timestamp": 2084,
           "evidence": "\"If you tell me he's a stamp collector… you've pretty much drawn a map of his personality for me.\" A hobby shows someone's personality. Knowing someone's job only tells you what he can do and is good at (A, C)."
         },
         {
@@ -504,7 +504,7 @@ window.LISTENING_TESTS.unshift({
             "C": "They involve being part of a group."
           },
           "answer": "A",
-          "timestamp": 2175,
+          "timestamp": 2160,
           "evidence": "\"Yes, be on their own, usually in the fresh air actually.\" 'In the fresh air' = outdoors: bird watching, looking at the night sky, flying kites. The famous people are musicians, but their hobbies are not about music (B), and they are alone, not in a group (C)."
         },
         {
@@ -516,7 +516,7 @@ window.LISTENING_TESTS.unshift({
             "C": "doing creative activities by themselves."
           },
           "answer": "A",
-          "timestamp": 2226,
+          "timestamp": 2205,
           "evidence": "\"What seems to be the most popular at the moment, though, is to bring along board games… they're all determined to win.\" 'Most popular' + 'determined to win' = competitive board games. Crosswords and knitting are done 'quietly by themselves' and are not the most popular."
         },
         {
@@ -528,7 +528,7 @@ window.LISTENING_TESTS.unshift({
             "C": "He is always mending things."
           },
           "answer": "C",
-          "timestamp": 2254,
+          "timestamp": 2241,
           "evidence": "\"The Dalai Lama will spend ages repairing an old film projector… or with his head under a car bonnet, or taking clocks to bits.\" Repairing a projector, cars and clocks = mending things. The projector and car are things he repairs, not things he watches or collects (A, B)."
         },
         {
@@ -540,7 +540,7 @@ window.LISTENING_TESTS.unshift({
             "C": "looking for items of historic interest"
           },
           "answer": "C",
-          "timestamp": 2291,
+          "timestamp": 2275,
           "evidence": "\"It's not the actual treasure itself that motivates him… he's just fascinated by the process of archaeology.\" He enjoys the search with his metal detector. He may not even keep the necklaces (A), and the book is only a friend's idea (B)."
         },
         {
@@ -552,7 +552,7 @@ window.LISTENING_TESTS.unshift({
             "C": "embarrassing."
           },
           "answer": "B",
-          "timestamp": 2350,
+          "timestamp": 2311,
           "evidence": "\"These interests completely take over their lives… they have very addictive personalities.\" 'Fanatical', 'take over their lives' and 'addictive' = obsessive. Koizumi's karaoke caused his advisers discomfort, but that is one example, not Simon's general point (C)."
         },
         {
@@ -564,7 +564,7 @@ window.LISTENING_TESTS.unshift({
             "C": "It can be hard for others to put up with them."
           },
           "answer": "C",
-          "timestamp": 2361,
+          "timestamp": 2353,
           "evidence": "\"Although we are difficult to live with… I follow a rather indifferent football club around the country and it drives my wife mad.\" 'Difficult to live with' = hard for others to put up with. He calls them 'otherwise normal people' (not A) and says there are surprisingly many (not B)."
         }
       ],
