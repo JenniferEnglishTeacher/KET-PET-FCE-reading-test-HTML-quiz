@@ -1,0 +1,1296 @@
+{
+ "LEVEL": "PET",
+ "TEST_NO": 17,
+ "VIDEO_ID": "Hw-6TNZ3ZVE",
+ "SOURCE_NOTE": "B1 Preliminary for Schools Listening Test 17 (video: vPET). Questions were read from the video's question screens; the audio script was transcribed from the video's English captions and edited. Part and question timings link to the first playing.",
+ "PARTS": [
+  {
+   "title": "Part 1: Multiple choice (pictures)",
+   "mode": "choice",
+   "bounds": [
+    5,
+    645
+   ],
+   "instr": "For each question, choose the correct answer.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Where did the boy leave his phone?",
+     "opts": {
+      "A": "in his bedroom",
+      "B": "in the car",
+      "C": "on the breakfast table"
+     },
+     "ans": "A",
+     "t": 20,
+     "ev": "I think it's in my bedroom… – I'm just looking in your room. OK, here it is. You were right.",
+     "why": "Mum checks his room and finds it there. She has cleared the breakfast table and it wasn't there (C); he isn't sure about the car (B).",
+     "img": "assets/listening/pet17-q1.jpg"
+    },
+    {
+     "n": 2,
+     "q": "Which photo are they looking at?",
+     "opts": {
+      "A": "ships on the sea",
+      "B": "lots of sea birds",
+      "C": "windsurfers on the sea"
+     },
+     "ans": "B",
+     "t": 104,
+     "ev": "I took this picture because of all the sea birds.",
+     "why": "There are no ships 'in this shot', and it was too windy for water sports that day.",
+     "img": "assets/listening/pet17-q2.jpg"
+    },
+    {
+     "n": 3,
+     "q": "How much did the boy pay for his football socks?",
+     "opts": {
+      "A": "£6.75",
+      "B": "£7.50",
+      "C": "£15.00"
+     },
+     "ans": "B",
+     "t": 186,
+     "ev": "I found the same thing for £7.50 at a discount shop in town… so I got them there.",
+     "why": "£6.75 was online, but he didn't order them; £15 is the club shop price.",
+     "img": "assets/listening/pet17-q3.jpg"
+    },
+    {
+     "n": 4,
+     "q": "What does the girl's pencil case look like?",
+     "opts": {
+      "A": "black and white stripes",
+      "B": "black and white squares",
+      "C": "white with black spots"
+     },
+     "ans": "A",
+     "t": 278,
+     "ev": "It's more like stripes going from top to bottom, you know – black, then white.",
+     "why": "She says no to spots (C) and to squares like a chessboard (B).",
+     "img": "assets/listening/pet17-q4.jpg"
+    },
+    {
+     "n": 5,
+     "q": "What do they decide to watch on TV?",
+     "opts": {
+      "A": "a tennis match",
+      "B": "a police drama",
+      "C": "a wildlife programme"
+     },
+     "ans": "C",
+     "t": 373,
+     "ev": "They're showing it tomorrow instead. – Oh right. I'm happy with your choice then.",
+     "why": "The police drama moved to tomorrow because the tennis final went on too long, so they watch the wildlife programme.",
+     "img": "assets/listening/pet17-q5.jpg"
+    },
+    {
+     "n": 6,
+     "q": "What event did the girl see at the weekend?",
+     "opts": {
+      "A": "a concert",
+      "B": "fireworks",
+      "C": "a basketball match"
+     },
+     "ans": "C",
+     "t": 469,
+     "ev": "My brother was playing in a basketball match in another city. He wanted us all to go and watch, so that's what we did.",
+     "why": "She had promised to go to her friend's concert and the fireworks, but she didn't go.",
+     "img": "assets/listening/pet17-q6.jpg"
+    },
+    {
+     "n": 7,
+     "q": "What should the students write about for homework?",
+     "opts": {
+      "A": "space travel",
+      "B": "underwater environments",
+      "C": "polar exploration"
+     },
+     "ans": "B",
+     "t": 552,
+     "ev": "I want you to finish the essays on underwater environments you started last week.",
+     "why": "For the space podcast 'there's no need to write anything', and polar exploration is only reading.",
+     "img": "assets/listening/pet17-q7.jpg"
+    }
+   ],
+   "notes": [
+    "You usually hear all three pictures mentioned. Listen for the reason each wrong one is rejected (Q3: £6.75 online – 'I didn't order them').",
+    "Q5 and Q6: plans change! The police drama moved to tomorrow; the girl didn't go to the concert or the fireworks.",
+    "Q7 asks what to WRITE: the podcast needs 'no need to write anything', the polar chapter is reading – only the essay is writing."
+   ],
+   "script": [
+    [
+     "Question 1",
+     "第一題",
+     [
+      [
+       "Boy: Hi Mum, it's me. I'm using a friend's phone because I can't find mine. Have you seen it anywhere?",
+       "男孩：嗨，媽，是我。我在用朋友的手機，因為我找不到我的。妳有看到嗎？"
+      ],
+      [
+       "Mum: No, I haven't. Weren't you using it in the car on the way to school? You usually do.",
+       "媽媽：沒有耶。你上學途中在車上不是有用嗎？你通常都會用。"
+      ],
+      [
+       "Boy: I can't remember. I definitely had it this morning, because I got a message about football training. I think it's in my bedroom, but maybe I used it during breakfast.",
+       "男孩：我不記得了。我今天早上確定還有，因為我收到一則足球訓練的訊息。我想它在我房間，但也許我吃早餐時用過。"
+      ],
+      [
+       "Mum: Well, I've cleared the table now – it wasn't there. I'm just looking in your room… OK, here it is. You were right.",
+       "媽媽：嗯，我已經收拾好餐桌了——不在那裡。我正在看你的房間……好，找到了。你說對了。"
+      ]
+     ]
+    ],
+    [
+     "Question 2",
+     "第二題",
+     [
+      [
+       "Girl: Look, this is the view from the campsite where we stayed.",
+       "女孩：你看，這是我們住的露營地看出去的景色。"
+      ],
+      [
+       "Boy: Wow, you could see a long way from there.",
+       "男孩：哇，從那裡可以看得好遠。"
+      ],
+      [
+       "Girl: Yeah. There's none in this shot, but sometimes you could see ships passing by in the distance. I took this picture because of all the sea birds – it was great for wildlife there too. Then, just out of the picture on the left, there are steps going down to the beach. It was too windy for water sports the day I took this, so we were going for a walk instead.",
+       "女孩：對。這張照片裡沒有，但有時可以看到遠方有船經過。我拍這張照片是因為那一大群海鳥——那裡也很適合觀察野生動物。然後，就在照片左邊外面，有通往海灘的階梯。我拍這張照片那天風太大，不能玩水上運動，所以我們改去散步。"
+      ]
+     ]
+    ],
+    [
+     "Question 3",
+     "第三題",
+     [
+      [
+       "Girl: Did you get the football socks you wanted?",
+       "女孩：你買到你想要的足球襪了嗎？"
+      ],
+      [
+       "Boy: Yeah. I saw some for £6.75 online.",
+       "男孩：買到了。我在網路上看到一雙 6.75 英鎊。"
+      ],
+      [
+       "Girl: At the club shop you paid, like, £15 a pair. I mean, that's a big difference.",
+       "女孩：在球會商店要付大概一雙 15 英鎊。我是說，差很多耶。"
+      ],
+      [
+       "Boy: It is.",
+       "男孩：是啊。"
+      ],
+      [
+       "Girl: But if they're cheap material or badly made, they won't last very long. I like to see things before I buy them.",
+       "女孩：可是如果材質便宜或做工很差，就穿不久。我喜歡買東西前先看到實品。"
+      ],
+      [
+       "Boy: Don't worry, I didn't order them. I found the same thing for £7.50 at a discount shop in town. They looked OK to me, so I got them there.",
+       "男孩：別擔心，我沒有訂。我在鎮上一家折扣店找到一模一樣的，7.50 英鎊。我看起來還不錯，所以就在那裡買了。"
+      ],
+      [
+       "Girl: Right.",
+       "女孩：好。"
+      ]
+     ]
+    ],
+    [
+     "Question 4",
+     "第四題",
+     [
+      [
+       "Girl: Excuse me, I've lost my pencil case. Has anybody handed one in?",
+       "女孩：不好意思，我的鉛筆盒不見了。有人交過一個來嗎？"
+      ],
+      [
+       "Man: Well, I've got two or three in the office, all with different designs. Is it white with black spots?",
+       "男：嗯，辦公室裡有兩三個，圖案都不一樣。是白底黑點的嗎？"
+      ],
+      [
+       "Girl: No, but it is black and white. It's more like stripes going from top to bottom, you know – black, then white.",
+       "女孩：不是，但它是黑白的。比較像是從上到下的條紋，你知道的——黑的，然後白的。"
+      ],
+      [
+       "Man: Um, well, the only other black and white one's got squares on, like a chessboard.",
+       "男：嗯，另一個黑白的上面是方格，像西洋棋盤那樣。"
+      ],
+      [
+       "Girl: No, no, that's not it.",
+       "女孩：不，不，不是那個。"
+      ],
+      [
+       "Man: I'll let you know if yours turns up. Is there anything valuable inside?",
+       "男：如果妳的出現了我會通知妳。裡面有貴重的東西嗎？"
+      ],
+      [
+       "Girl: No, just the usual stuff.",
+       "女孩：沒有，就是一般的東西。"
+      ]
+     ]
+    ],
+    [
+     "Question 5",
+     "第五題",
+     [
+      [
+       "Woman: What's on this channel after the news?",
+       "女：這個頻道新聞之後播什麼？"
+      ],
+      [
+       "Man: It's that wildlife programme – you know, where the guy drives around Africa looking for places where he can photograph the animals.",
+       "男：是那個野生動物節目——你知道的，那個人開車環遊非洲，尋找可以拍攝動物的地方。"
+      ],
+      [
+       "Woman: I'd like to watch that.",
+       "女：我想看那個。"
+      ],
+      [
+       "Man: That's strange. I was reading about a new police drama. I thought that was on tonight. Maybe it's later.",
+       "男：奇怪。我看到一齣新警匪劇的介紹。我以為今晚會播。也許是晚一點。"
+      ],
+      [
+       "Woman: No, it was meant to be on tonight, but they changed the schedule because the tennis final went on for much longer than they expected. They're showing it tomorrow instead.",
+       "女：不，它本來是今晚播，但因為網球決賽比預期的久很多，他們更改了節目表。改成明天播。"
+      ],
+      [
+       "Man: Oh, right. I'm happy with your choice then.",
+       "男：噢，好吧。那我就照妳的選擇。"
+      ]
+     ]
+    ],
+    [
+     "Question 6",
+     "第六題",
+     [
+      [
+       "Boy: So, did you go out with your family at the weekend? I heard the fireworks in the park were amazing.",
+       "男孩：那妳週末有和家人出去嗎？我聽說公園的煙火很精彩。"
+      ],
+      [
+       "Girl: Really? We didn't go in the end. My brother was playing in a basketball match in another city. He wanted us all to go and watch, so that's what we did. Actually, I felt really bad about it. One of my best friends was playing violin in a concert at the town hall. I promised her I'd go, and then to the fireworks afterwards. I don't like letting people down.",
+       "女孩：真的嗎？我們最後沒去。我哥哥在另一個城市打籃球比賽。他希望我們全家都去看，所以我們就去了。其實我覺得很過意不去。我最好的朋友之一在市政廳的音樂會上拉小提琴。我答應過她會去，之後再去看煙火。我不喜歡讓別人失望。"
+      ]
+     ]
+    ],
+    [
+     "Question 7",
+     "第七題",
+     [
+      [
+       "Student: So, what's our homework?",
+       "學生：那我們的作業是什麼？"
+      ],
+      [
+       "Teacher: Firstly, I'd like you to go online and watch that podcast about space travel I told you about. There's a worksheet with some questions, but there's no need to write anything – we'll discuss them in class next week. Also, I want you to finish the essays on underwater environments you started last week. I'll collect them in Monday's lesson. We're moving on to the next chapter in the book next week, which is about polar exploration, so start reading that if you have time.",
+       "老師：首先，我要你們上網看我跟你們說過的那個關於太空旅行的播客節目。有一張附問題的學習單，但不需要寫任何東西——我們下週在課堂上討論。另外，我要你們完成上週開始寫的水下環境的短文。我會在星期一的課收。下週我們要進入課本的下一章，是關於極地探險的，所以有時間的話就開始讀吧。"
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "title": "Part 2: Multiple choice",
+   "mode": "choice",
+   "bounds": [
+    645,
+    1255
+   ],
+   "instr": "For each question, choose the correct answer.",
+   "questions": [
+    {
+     "n": 8,
+     "q": "What did he enjoy most about it?",
+     "opts": {
+      "A": "the sort of people he met",
+      "B": "the up-to-date accommodation",
+      "C": "the range of organised activities"
+     },
+     "ans": "A",
+     "t": 660,
+     "ev": "There were guys my age to hang out with. I mean, without that it'd be boring.",
+     "why": "The hotel was 'a bit old-fashioned' (not B), and he didn't bother with the windsurfing lessons (not C).",
+     "stem": "You will hear a boy telling a friend about his holiday."
+    },
+    {
+     "n": 9,
+     "q": "How does she feel about it?",
+     "opts": {
+      "A": "satisfied with her own performance",
+      "B": "grateful for the support of her team mates",
+      "C": "impressed by the skills of players on both sides"
+     },
+     "ans": "B",
+     "t": 753,
+     "ev": "Fortunately the rest of the guys were really good about it, so it didn't matter.",
+     "why": "She made lots of mistakes (not A). Only some players on the OTHER team were top players (not C).",
+     "stem": "You will hear a girl telling a friend about a volleyball match she played in."
+    },
+    {
+     "n": 10,
+     "q": "What do they agree about it?",
+     "opts": {
+      "A": "how simple it is to use",
+      "B": "how much you can learn from it",
+      "C": "how clearly things are explained on it"
+     },
+     "ans": "B",
+     "t": 845,
+     "ev": "I'm finding out new stuff from it all the time. – I know what you mean. I like that too.",
+     "why": "They disagree about how easy it is to find things (A), and one finds the information hard to follow (C).",
+     "stem": "You will hear two friends talking about a website they use for homework."
+    },
+    {
+     "n": 11,
+     "q": "What did she think of it?",
+     "opts": {
+      "A": "The story wasn't realistic enough.",
+      "B": "The music wasn't very well played.",
+      "C": "The jokes weren't particularly funny."
+     },
+     "ans": "A",
+     "t": 946,
+     "ev": "What happens to the characters just isn't true to life.",
+     "why": "'Not true to life' = not realistic. The orchestra 'wasn't bad', and there were 'plenty of laughs'.",
+     "stem": "You will hear a girl telling a friend about a musical show she went to."
+    },
+    {
+     "n": 12,
+     "q": "What is the girl doing?",
+     "opts": {
+      "A": "explaining how she approached it",
+      "B": "suggesting that they do it together",
+      "C": "admitting that she didn't understand it"
+     },
+     "ans": "A",
+     "t": 1045,
+     "ev": "I did it straight after the lesson… I just went through the worksheet and did what it said.",
+     "why": "She describes when and how she did the homework. She offers to show her work, not to do it together.",
+     "stem": "You will hear two friends talking about some homework."
+    },
+    {
+     "n": 13,
+     "q": "What did he like best about it?",
+     "opts": {
+      "A": "the age of the characters",
+      "B": "how exciting the story was",
+      "C": "what it made him think about"
+     },
+     "ans": "C",
+     "t": 1137,
+     "ev": "It really got me wondering about survival skills and how well I could handle that stuff.",
+     "why": "He says it's 'much more than' an exciting adventure story (not B); the teenagers are mentioned but not praised (A).",
+     "stem": "You will hear a boy telling a friend about a book he read."
+    }
+   ],
+   "notes": [
+    "Read the question carefully: Q8 asks what he enjoyed MOST; Q13 what he liked BEST. Many things are mentioned, but only one is the speaker's main point.",
+    "'Agree' questions (Q10): both speakers must say yes. 'I know what you mean. I like that too' shows agreement.",
+    "Paraphrases: 'not true to life' = not realistic (Q11); 'got me wondering about' = made him think about (Q13)."
+   ],
+   "script": [
+    [
+     "Question 8",
+     "第八題",
+     [
+      [
+       "Girl: So, how was your holiday?",
+       "女孩：你的假期怎麼樣？"
+      ],
+      [
+       "Boy: Yeah, it was great, thanks. The hotel we stayed in was a bit old-fashioned, but actually I liked that because it was kind of relaxed. And there were guys my age to hang out with – I mean, without that it'd be boring.",
+       "男孩：很棒，謝謝。我們住的飯店有點老式，但其實我喜歡，因為感覺很輕鬆。而且有和我同年紀的男生可以一起玩——我是說，沒有他們的話會很無聊。"
+      ],
+      [
+       "Girl: And was, like, sport and stuff included?",
+       "女孩：那有包含運動之類的嗎？"
+      ],
+      [
+       "Boy: Some. You could do windsurfing lessons if you wanted, but it meant going to another part of town, so I didn't bother. I mean, the place was right on the beach, so I was happy just swimming and kicking a ball around most of the time.",
+       "男孩：有一些。想上風帆衝浪課的話可以上，但要到鎮上另一個地方，所以我就沒去了。我是說，那裡就在海灘上，所以我大部分時間只是游泳、踢踢球就很開心了。"
+      ]
+     ]
+    ],
+    [
+     "Question 9",
+     "第九題",
+     [
+      [
+       "Boy: How did your volleyball match go?",
+       "男孩：妳的排球比賽打得怎麼樣？"
+      ],
+      [
+       "Girl: We got a good result. Against a team that's meant to be the best in the region, we managed to win easily.",
+       "女孩：結果很好。對手據說是這一區最強的隊伍，我們卻輕鬆贏了。"
+      ],
+      [
+       "Boy: Well done.",
+       "男孩：做得好。"
+      ],
+      [
+       "Girl: Well, it wasn't anything to do with me, actually. I've never made so many mistakes in a game. Fortunately, the rest of the guys were really good about it, so it didn't matter. I mean, playing well together is the secret in volleyball. Some of the guys in the other team are top players – better than any of us – but it was like they'd had an argument or something.",
+       "女孩：嗯，其實跟我沒什麼關係。我從來沒有在一場比賽中犯過這麼多錯。幸好其他隊友都很體諒，所以沒關係。我是說，團隊合作好是排球的秘訣。對方隊伍有些人是頂尖選手——比我們任何人都好——但他們好像吵過架之類的。"
+      ]
+     ]
+    ],
+    [
+     "Question 10",
+     "第十題",
+     [
+      [
+       "Girl: Do you use that science website our teacher recommended?",
+       "女孩：你會用老師推薦的那個科學網站嗎？"
+      ],
+      [
+       "Boy: Sometimes. It's got some good stuff on it, but it's not that easy to find what you're looking for.",
+       "男孩：有時候。上面有些不錯的東西，但不太容易找到你要的資料。"
+      ],
+      [
+       "Girl: I've never noticed that. I just put a word in the search box and see where it takes me. It's great, never knowing what you're going to come across. I'm finding out new stuff from it all the time.",
+       "女孩：我從來沒注意到。我只是在搜尋框輸入一個字，看它帶我到哪裡。永遠不知道會發現什麼，這很棒。我一直從上面學到新東西。"
+      ],
+      [
+       "Boy: I know what you mean. I like that too. But I sometimes find the information a bit hard to follow – like you're expected to know quite a lot already.",
+       "男孩：我懂妳的意思。我也喜歡這點。但我有時覺得那些資訊有點難懂——好像預期你已經知道很多了。"
+      ],
+      [
+       "Girl: Really?",
+       "女孩：真的嗎？"
+      ]
+     ]
+    ],
+    [
+     "Question 11",
+     "第十一題",
+     [
+      [
+       "Boy: Did you enjoy that musical you went to?",
+       "男孩：妳去看的那齣音樂劇好看嗎？"
+      ],
+      [
+       "Girl: It was all right. I mean, I'm not keen on that type of singing and dancing really, even though I could see the actors knew what they were doing, and the orchestra wasn't bad. The trouble with musicals is that you can never believe in them. What happens to the characters just isn't true to life.",
+       "女孩：還可以。我是說，我其實不太喜歡那種唱唱跳跳，雖然我看得出演員都很專業，管弦樂團也不差。音樂劇的問題是你永遠無法信以為真。角色遇到的事就是不真實。"
+      ],
+      [
+       "Boy: But isn't the whole point of musicals that you escape from everyday stuff and have a laugh?",
+       "男孩：可是音樂劇的重點不就是讓你逃離日常生活、開懷大笑嗎？"
+      ],
+      [
+       "Girl: Oh, there were plenty of laughs, but I always knew exactly what was coming next.",
+       "女孩：噢，笑點是很多，但我總是很清楚接下來會發生什麼。"
+      ]
+     ]
+    ],
+    [
+     "Question 12",
+     "第十二題",
+     [
+      [
+       "Boy: Have you done the science homework yet?",
+       "男孩：妳做完科學作業了嗎？"
+      ],
+      [
+       "Girl: I did it straight after the lesson, while the ideas were still fresh in my mind.",
+       "女孩：我一下課就做了，趁那些概念還記得很清楚的時候。"
+      ],
+      [
+       "Boy: Good idea. I'm sorry I didn't do that. What exactly are we supposed to do?",
+       "男孩：好主意。真後悔我沒那樣做。我們到底要做什麼？"
+      ],
+      [
+       "Girl: Well, I just went through the worksheet and did what it said. There were some calculations to do, the meaning of some words to look up online, then you had to write a summary. You can see what I did if you like – but don't tell me that I've done it wrong, please!",
+       "女孩：嗯，我就是照著學習單一步一步做。有一些計算題，有一些字要上網查意思，然後要寫一篇摘要。你想的話可以看看我寫的——但拜託別跟我說我做錯了！"
+      ],
+      [
+       "Boy: No, don't worry, I won't do that.",
+       "男孩：不會，別擔心，我不會那樣說的。"
+      ]
+     ]
+    ],
+    [
+     "Question 13",
+     "第十三題",
+     [
+      [
+       "Boy: I read a really interesting novel last weekend.",
+       "男孩：我上週末讀了一本非常有趣的小說。"
+      ],
+      [
+       "Girl: Really? I don't like reading novels. They're always about such sad subjects.",
+       "女孩：真的嗎？我不喜歡讀小說。它們總是講很悲傷的主題。"
+      ],
+      [
+       "Boy: I know what you mean, but this one's not like that. It's about these teenagers who get left alone in the rainforest. They have to learn survival skills and find out about how to live on their own – using their brains to work stuff out, teaching themselves things. I know it sounds like just another thrilling adventure story, but it's much more than that. It really got me wondering about survival skills and how well I could handle that stuff.",
+       "男孩：我懂妳的意思，但這本不一樣。它講的是一群被單獨留在雨林裡的青少年。他們必須學習求生技能，學會如何靠自己生活——動腦解決問題，自己教自己。我知道這聽起來就像又一個驚險的冒險故事，但它遠不只是那樣。它真的讓我思考求生技能，以及我自己能應付得多好。"
+      ],
+      [
+       "Girl: Right.",
+       "女孩：這樣啊。"
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "title": "Part 3: Gap fill",
+   "mode": "text",
+   "bounds": [
+    1255,
+    1611
+   ],
+   "heading": "Quad biking",
+   "instr": "For each question, write the correct answer in the gap. Write one or two words or a number or a date or a time. You will hear a boy called Josh giving a presentation about quad biking.",
+   "questions": [
+    {
+     "n": 14,
+     "pre": "Josh says that the size of the quad bike's",
+     "post": "is the best thing about it.",
+     "ans": [
+      "tyres",
+      "tires",
+      "tyre",
+      "tire",
+      "wheels"
+     ],
+     "key": "tyres",
+     "t": 1321,
+     "ev": "The fantastic thing about the quad bike is that it has really wide tyres."
+    },
+    {
+     "n": 15,
+     "pre": "Josh spent",
+     "post": "learning how to drive the quad bike safely.",
+     "ans": [
+      "30 minutes",
+      "thirty minutes",
+      "30 mins",
+      "half an hour",
+      "30 min"
+     ],
+     "key": "30 minutes",
+     "t": 1346,
+     "ev": "It started off with a safety talk where the guy shows you how to work the controls… That takes 30 minutes."
+    },
+    {
+     "n": 16,
+     "pre": "For Josh, driving through a",
+     "post": "was the most challenging part of the session.",
+     "ans": [
+      "river",
+      "small river"
+     ],
+     "key": "(small) river",
+     "t": 1371,
+     "ev": "You even get to drive across a small river. That was a bit frightening, actually, but I managed it in the end."
+    },
+    {
+     "n": 17,
+     "pre": "Josh was pleased that the weather was",
+     "post": "on the day he went.",
+     "ans": [
+      "foggy"
+     ],
+     "key": "foggy",
+     "t": 1388,
+     "ev": "Actually, I liked the fact that it was foggy. It all added to the fun."
+    },
+    {
+     "n": 18,
+     "pre": "The quad biking centre is on the road that goes to the",
+     "post": ".",
+     "ans": [
+      "airport",
+      "the airport"
+     ],
+     "key": "airport",
+     "t": 1405,
+     "ev": "It's on the road you take to get to the airport."
+    },
+    {
+     "n": 19,
+     "pre": "To book a session, go online at www.",
+     "post": ".com",
+     "ans": [
+      "whitlocks",
+      "whitlock's"
+     ],
+     "key": "whitlocks",
+     "t": 1419,
+     "ev": "It's www.whitlocks.com. That's W-H-I-T-L-O-C-K-S dot com."
+    }
+   ],
+   "notes": [
+    "Q15: 1 hour 30 minutes is the whole session and 45 minutes is the driving. The safety talk ('how to work the controls') takes 30 minutes.",
+    "Q16: the forest is 'scary' for SOME people, but Josh 'thought it was great'. HE found the river frightening.",
+    "Q17: it 'wasn't sunny' and snow was another man's visit – Josh liked the fog. Q19: names are spelled out, so write the letters carefully."
+   ],
+   "script": [
+    [
+     "Josh's presentation: quad biking",
+     "喬許的報告：四輪越野車",
+     [
+      [
+       "Josh: Hi, my name's Josh, and my presentation's about the day I went quad biking. So first, what is quad biking? Well, basically, a quad bike's got an engine, so it's like a motorbike, only it's got four wheels. But the fantastic thing about the quad bike is that it has really wide tyres. That means you can drive it across almost any type of ground – places where a car couldn't go.",
+       "喬許：大家好，我叫喬許，我的報告是關於我去騎四輪越野車那天的事。首先，什麼是四輪越野車？基本上，四輪越野車有引擎，所以像摩托車，只是它有四個輪子。但四輪越野車最棒的地方是它有非常寬的輪胎。這表示你幾乎可以在任何地形上駕駛——汽車去不了的地方都行。"
+      ],
+      [
+       "Josh: The quad biking session I went on was a fifteenth birthday present from my parents. It lasted about an hour and a half. It started off with a safety talk, where the guy shows you how to work the controls, like the brakes and stuff. That takes 30 minutes. Then you get about 45 minutes to drive round a track across the countryside.",
+       "喬許：我參加的那次越野車體驗是爸媽送我的十五歲生日禮物。大約持續一個半小時。一開始是安全說明，教練會教你怎麼操作控制裝置，像是煞車之類的。那要 30 分鐘。然後你有大約 45 分鐘在穿越鄉間的賽道上騎。"
+      ],
+      [
+       "Josh: The track's brilliant, with lots of hills and plenty of mud. It goes through a forest at one point, which some people find scary, but I thought it was great. You even get to drive across a small river. That was a bit frightening, actually, but I managed it in the end.",
+       "喬許：那條賽道超棒，有很多山坡和很多泥巴。有一段會穿過森林，有些人覺得很可怕，但我覺得很棒。你甚至要開過一條小河。其實那有點嚇人，但我最後還是過去了。"
+      ],
+      [
+       "Josh: The day I went, it wasn't sunny. My dad was disappointed because he wanted to film everything, but actually I liked the fact that it was foggy. It all added to the fun. One guy I met said he'd been when it was snowing once – that must be brilliant.",
+       "喬許：我去的那天沒有出太陽。我爸很失望，因為他想把一切都拍下來，但其實我很喜歡那天有霧。那讓一切更好玩了。我遇到的一個人說他有一次是下雪時去的——那一定很棒。"
+      ],
+      [
+       "Josh: So, if you're interested in quad biking, the track's on a farm that's just outside the city. It's on the road you take to get to the airport, so you've probably passed it without realising. If anyone's interested in booking a session, I'll give you the website address of the farm. It's www.whitlocks.com. That's W-H-I-T-L-O-C-K-S dot com. I'd say go for it – you'll have a great time.",
+       "喬許：所以，如果你對越野車有興趣，賽道在城外的一座農場上。就在去機場的那條路上，所以你可能經過時都沒發現。如果有人想預約體驗，我給你們農場的網址。是 www.whitlocks.com。拼法是 W-H-I-T-L-O-C-K-S 點 com。我會說放手去試吧——你們會玩得很開心。"
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "title": "Part 4: Multiple choice",
+   "mode": "choice",
+   "bounds": [
+    1611,
+    2044
+   ],
+   "instr": "For each question, choose the correct answer. You will hear an interview with a girl called Mandy Thornhill, who is talking about her school's radio station.",
+   "questions": [
+    {
+     "n": 20,
+     "q": "Mandy explains that her school's radio station",
+     "opts": {
+      "A": "can only be heard in the school building.",
+      "B": "is sometimes played during classes.",
+      "C": "was the first one in her home area."
+     },
+     "ans": "C",
+     "t": 1678,
+     "ev": "Like most schools in our city, we've got a radio station… but actually we had one before other schools did.",
+     "why": "Students listen on an app 'when and where they like' (not A), but 'not during lessons' (not B)."
+    },
+    {
+     "n": 21,
+     "q": "How did Mandy get involved with the radio station?",
+     "opts": {
+      "A": "She suggested the idea originally.",
+      "B": "She responded to a request for help.",
+      "C": "She was chosen by a member of staff."
+     },
+     "ans": "B",
+     "t": 1723,
+     "ev": "She asked for student volunteers to help get it going. Actually, only the five of us came forward.",
+     "why": "A teacher had the idea (not A) and asked for volunteers; Mandy volunteered – she wasn't chosen (C)."
+    },
+    {
+     "n": 22,
+     "q": "How did the students learn to operate the equipment?",
+     "opts": {
+      "A": "The company that made it gave them training.",
+      "B": "They studied the instructions very carefully.",
+      "C": "They found somebody able to show them."
+     },
+     "ans": "C",
+     "t": 1749,
+     "ev": "Fortunately, one girl's brother, who's actually a DJ, was able to set it up for us and teach us how to operate it.",
+     "why": "The instructions were 'way beyond our understanding' (not B), and the company only sold it online (not A)."
+    },
+    {
+     "n": 23,
+     "q": "What does Mandy say about preparing for her programme?",
+     "opts": {
+      "A": "Most weeks it doesn't take long.",
+      "B": "She never feels she spends enough time on it.",
+      "C": "She doesn't like it when she has to interview someone."
+     },
+     "ans": "A",
+     "t": 1778,
+     "ev": "It's mostly music and announcements… Once or twice a year I interview a student… That takes longer to get ready.",
+     "why": "Only the interviews (once or twice a year) take longer, so most weeks are quick. She says interviews are 'enjoyable' (not C)."
+    },
+    {
+     "n": 24,
+     "q": "How did Mandy feel about her first live broadcast?",
+     "opts": {
+      "A": "It was embarrassing to make mistakes.",
+      "B": "It was much easier than she expected.",
+      "C": "It was hard to think of things to say."
+     },
+     "ans": "B",
+     "t": 1804,
+     "ev": "I'd practised and written down what I wanted to say, but I didn't need my notes in the end… it all went OK on the day.",
+     "why": "She prepared notes but didn't need them = easier than expected. 'There was lots going on', so C is wrong; she made no mistakes (A)."
+    },
+    {
+     "n": 25,
+     "q": "What does Mandy say about the radio station and studying?",
+     "opts": {
+      "A": "It makes it hard to finish all her homework on time.",
+      "B": "She's able to keep the two things separate.",
+      "C": "It's taught her some relevant life skills."
+     },
+     "ans": "C",
+     "t": 1834,
+     "ev": "Working to tight deadlines, checking that everything's correct – I'm sure all that is going to be useful in the future.",
+     "why": "Skills that will be 'useful in the future' = relevant life skills. 'Some people think' she should do homework instead – that is not her view (A)."
+    }
+   ],
+   "notes": [
+    "The questions follow the interview in order. The interviewer's question tells you which item is coming next.",
+    "Watch for 'but actually…' (Q20, Q21): the important information comes after it.",
+    "Q25: 'Some people think…' gives other people's opinions. Mandy's own view comes after 'but actually I think…'."
+   ],
+   "script": [
+    [
+     "The school radio station",
+     "學校廣播電台",
+     [
+      [
+       "Interviewer: Today I'm talking to Mandy Thornhill, who's a presenter on her school's radio station. Mandy, tell us about the station.",
+       "主持人：今天我要訪問曼蒂．索恩希爾，她是學校廣播電台的主持人。曼蒂，跟我們談談這個電台吧。"
+      ],
+      [
+       "Mandy: Well, like most schools in our city, we've got a radio station that's part of the school website, but actually we had one before other schools did. Basically, students download an app to their phone and they're given a password. Because we record the programmes in advance, they can decide when and where they listen – as long as it's not during lessons.",
+       "曼蒂：嗯，就像我們城市裡大多數學校一樣，我們有一個屬於學校網站一部分的廣播電台，但其實我們比其他學校都更早有。基本上，學生在手機上下載一個應用程式，然後會拿到一組密碼。因為我們事先錄好節目，他們可以決定何時何地收聽——只要不是在上課時間就好。"
+      ],
+      [
+       "Interviewer: So how did you get involved?",
+       "主持人：那妳是怎麼參與的？"
+      ],
+      [
+       "Mandy: There's a group of five of us who take turns as the presenter, but we didn't start it at all. It was one of our teachers. She read an article and thought it would be a great thing to do, and she asked for student volunteers to help get it going. Actually, only the five of us came forward, and none of us had ever done anything like this before.",
+       "曼蒂：我們有五個人輪流當主持人，但根本不是我們開始的。是我們的一位老師。她讀了一篇文章，覺得這會是件很棒的事，於是她徵求學生志工來幫忙推動。其實只有我們五個人自願，而且我們之前都沒做過這種事。"
+      ]
+     ]
+    ],
+    [
+     "Equipment and preparation",
+     "器材與準備",
+     [
+      [
+       "Interviewer: So what about the equipment?",
+       "主持人：那器材呢？"
+      ],
+      [
+       "Mandy: Our teacher ordered it all from a company online. When it first came out of the box, we all looked at each other and said, 'What do I do with this?', because the instructions were way beyond our understanding. Fortunately, one girl's brother, who's actually a DJ, was able to set it up for us and teach us how to operate it.",
+       "曼蒂：我們的老師從一家公司在網路上訂了全部的器材。剛從箱子裡拿出來的時候，我們面面相覷，說：「這要怎麼用？」，因為說明書遠遠超出我們能理解的程度。幸好，有個女生的哥哥剛好是 DJ，他幫我們架設好，還教我們怎麼操作。"
+      ],
+      [
+       "Interviewer: How much preparation is there before each programme?",
+       "主持人：每個節目之前要做多少準備？"
+      ],
+      [
+       "Mandy: It depends. I'm the presenter for an hour-long programme once a week. It's mostly music and announcements, but I make sure everything's ready before I record it. Once or twice a year, I interview a student who's done something interesting. That takes longer to get ready, but it's worth it because it's enjoyable.",
+       "曼蒂：看情況。我每週主持一個一小時的節目。大部分是音樂和公告，但我錄音前會確保一切準備好。一年一兩次，我會訪問一位做過有趣事情的學生。那需要比較久的準備時間，但很值得，因為很好玩。"
+      ]
+     ]
+    ],
+    [
+     "Live radio and school work",
+     "現場直播與課業",
+     [
+      [
+       "Interviewer: Have you ever done a live broadcast?",
+       "主持人：妳做過現場直播嗎？"
+      ],
+      [
+       "Mandy: Only once. There was a special event at school and we reported on it live. I'd practised and written down what I wanted to say, but I didn't need my notes in the end – there was lots going on. The worst thing about live radio is that if you get something wrong or say something silly, you can't go back and do it again. But it all went OK on the day.",
+       "曼蒂：只有一次。學校有一個特別活動，我們做了現場報導。我事先練習過，也把想說的話寫下來，但最後我根本不需要筆記——現場發生了很多事。現場廣播最糟的是，如果你說錯了什麼或說了蠢話，就不能回頭重來。不過那天一切都很順利。"
+      ],
+      [
+       "Interviewer: So how does the radio station fit in with school work?",
+       "主持人：那廣播電台和課業怎麼兼顧呢？"
+      ],
+      [
+       "Mandy: Some people think that I should be doing my homework rather than making radio programmes, but actually I think it has a good influence – you know, working to tight deadlines, checking that everything's correct. I'm sure all that is going to be useful in the future.",
+       "曼蒂：有些人認為我應該做功課，而不是做廣播節目，但其實我認為它有好的影響——你知道的，在緊迫的期限內完成工作、確認一切都正確。我相信這些將來都會很有用。"
+      ]
+     ]
+    ]
+   ]
+  }
+ ],
+ "VOCAB": [
+  [
+   "definitely",
+   "adv.",
+   "certainly; without any doubt",
+   "肯定地；確定地",
+   "I'll _____ come to your party.",
+   "我一定會去你的派對。"
+  ],
+  [
+   "training",
+   "n.",
+   "practice to get better at a sport or job",
+   "訓練",
+   "We have football _____ every Tuesday.",
+   "我們每週二有足球訓練。"
+  ],
+  [
+   "campsite",
+   "n.",
+   "a place where people stay in tents",
+   "露營地",
+   "Our _____ was next to a lake.",
+   "我們的露營地在湖邊。"
+  ],
+  [
+   "in the distance",
+   "phr.",
+   "far away",
+   "在遠處",
+   "We could see the mountains _____.",
+   "我們看得到遠處的山。"
+  ],
+  [
+   "wildlife",
+   "n.",
+   "animals and plants living in nature",
+   "野生動植物",
+   "The island is famous for its _____.",
+   "這座島以野生動物聞名。"
+  ],
+  [
+   "material",
+   "n.",
+   "cloth or another substance used to make things",
+   "材料；布料",
+   "This jacket is made of a light _____.",
+   "這件外套是用輕薄的布料做的。"
+  ],
+  [
+   "last",
+   "v.",
+   "to continue to be in good condition",
+   "持續；耐用",
+   "Good shoes can _____ for years.",
+   "好鞋可以穿好幾年。"
+  ],
+  [
+   "hand in",
+   "phr. v.",
+   "to give something to a person in charge",
+   "交出；上交",
+   "Someone _____ my lost keys at the office.",
+   "有人把我遺失的鑰匙交到辦公室了。"
+  ],
+  [
+   "design",
+   "n.",
+   "a pattern or decoration",
+   "圖案；設計",
+   "I like the flower _____ on your bag.",
+   "我喜歡你包包上的花朵圖案。"
+  ],
+  [
+   "turn up",
+   "phr. v.",
+   "to be found, especially by chance",
+   "（失物）出現；被找到",
+   "Don't worry – your phone will _____ somewhere.",
+   "別擔心——你的手機總會在哪裡出現的。"
+  ],
+  [
+   "valuable",
+   "adj.",
+   "worth a lot of money",
+   "貴重的",
+   "Don't leave _____ things in the car.",
+   "不要把貴重物品留在車上。"
+  ],
+  [
+   "channel",
+   "n.",
+   "a TV station",
+   "頻道",
+   "Which _____ is the film on?",
+   "那部電影在哪一台播？"
+  ],
+  [
+   "drama",
+   "n.",
+   "a play or TV programme with a serious story",
+   "戲劇；劇集",
+   "My mum loves watching police _____s.",
+   "我媽媽很愛看警匪劇。"
+  ],
+  [
+   "schedule",
+   "n.",
+   "a plan of times when things will happen",
+   "時間表；節目表",
+   "The train _____ has changed.",
+   "火車時刻表已經改了。"
+  ],
+  [
+   "let someone down",
+   "phr. v.",
+   "to disappoint someone by not doing what you promised",
+   "讓某人失望",
+   "I promised to help, and I won't _____ you _____.",
+   "我答應過要幫忙，我不會讓你失望的。"
+  ],
+  [
+   "worksheet",
+   "n.",
+   "a paper with questions for students",
+   "學習單",
+   "Please finish the _____ before Friday.",
+   "請在星期五前完成學習單。"
+  ],
+  [
+   "essay",
+   "n.",
+   "a short piece of writing on a subject",
+   "短文；論文",
+   "We have to write an _____ about the environment.",
+   "我們要寫一篇關於環境的短文。"
+  ],
+  [
+   "environment",
+   "n.",
+   "the natural world around us",
+   "環境",
+   "We should protect the _____.",
+   "我們應該保護環境。"
+  ],
+  [
+   "exploration",
+   "n.",
+   "travelling to discover a new place",
+   "探險；探索",
+   "The book is about space _____.",
+   "這本書是關於太空探索的。"
+  ],
+  [
+   "old-fashioned",
+   "adj.",
+   "not modern",
+   "老式的；過時的",
+   "My grandparents' house is quite _____.",
+   "我祖父母的房子相當老式。"
+  ],
+  [
+   "hang out",
+   "phr. v.",
+   "(informal) to spend time with friends",
+   "（和朋友）閒晃；相處",
+   "We usually _____ at the park after school.",
+   "我們放學後通常在公園一起玩。"
+  ],
+  [
+   "bother",
+   "v.",
+   "to make the effort to do something",
+   "費心（做某事）",
+   "It was raining, so I didn't _____ going out.",
+   "下雨了，所以我懶得出門。"
+  ],
+  [
+   "region",
+   "n.",
+   "a large area of a country",
+   "地區",
+   "It's the coldest _____ in the country.",
+   "那是全國最冷的地區。"
+  ],
+  [
+   "argument",
+   "n.",
+   "an angry disagreement",
+   "爭吵",
+   "My brothers had an _____ about the TV.",
+   "我的兄弟們為了電視吵了一架。"
+  ],
+  [
+   "recommend",
+   "v.",
+   "to say that something is good",
+   "推薦",
+   "Can you _____ a good book?",
+   "你能推薦一本好書嗎？"
+  ],
+  [
+   "come across",
+   "phr. v.",
+   "to find something by chance",
+   "偶然發現",
+   "I _____ an old photo in a drawer.",
+   "我在抽屜裡偶然發現一張舊照片。"
+  ],
+  [
+   "keen on",
+   "adj. phr.",
+   "liking something very much",
+   "喜愛；熱衷於",
+   "I'm not very _____ horror films.",
+   "我不太喜歡恐怖片。"
+  ],
+  [
+   "orchestra",
+   "n.",
+   "a large group of musicians",
+   "管弦樂團",
+   "She plays the violin in the school _____.",
+   "她在學校管弦樂團拉小提琴。"
+  ],
+  [
+   "true to life",
+   "phr.",
+   "realistic; like real life",
+   "逼真的；真實的",
+   "The characters in this film are very _____.",
+   "這部電影的角色非常真實。"
+  ],
+  [
+   "escape",
+   "v.",
+   "to get away from something",
+   "逃離；擺脫",
+   "Reading helps me _____ from my worries.",
+   "閱讀幫助我擺脫煩惱。"
+  ],
+  [
+   "fresh",
+   "adj.",
+   "new and clear in your mind",
+   "清晰的；剛發生的",
+   "Write it down while it's _____ in your mind.",
+   "趁還記得清楚時把它寫下來。"
+  ],
+  [
+   "calculation",
+   "n.",
+   "working out an answer with numbers",
+   "計算",
+   "I made a mistake in my _____.",
+   "我的計算出錯了。"
+  ],
+  [
+   "summary",
+   "n.",
+   "a short report of the main points",
+   "摘要",
+   "Write a _____ of the story in 50 words.",
+   "用五十個字寫出這個故事的摘要。"
+  ],
+  [
+   "survival",
+   "n.",
+   "continuing to live, often in a difficult situation",
+   "生存",
+   "They learned _____ skills in the jungle.",
+   "他們在叢林裡學習求生技能。"
+  ],
+  [
+   "thrilling",
+   "adj.",
+   "very exciting",
+   "驚險刺激的",
+   "It was a _____ football match.",
+   "那是一場非常刺激的足球比賽。"
+  ],
+  [
+   "handle",
+   "v.",
+   "to deal with a difficult situation",
+   "處理；應付",
+   "She can _____ problems very calmly.",
+   "她能非常冷靜地處理問題。"
+  ],
+  [
+   "engine",
+   "n.",
+   "the part of a vehicle that makes it move",
+   "引擎",
+   "The car's _____ wouldn't start.",
+   "車子的引擎發不動。"
+  ],
+  [
+   "tyre",
+   "n.",
+   "the rubber ring around a wheel",
+   "輪胎",
+   "My bike has a flat _____.",
+   "我的腳踏車爆胎了。"
+  ],
+  [
+   "controls",
+   "n.",
+   "the parts you use to make a machine work",
+   "控制裝置",
+   "The pilot checked the _____ before take-off.",
+   "機師在起飛前檢查了控制裝置。"
+  ],
+  [
+   "brake",
+   "n.",
+   "the part that makes a vehicle stop",
+   "煞車",
+   "Press the _____ to slow down.",
+   "踩煞車減速。"
+  ],
+  [
+   "mud",
+   "n.",
+   "wet, soft earth",
+   "泥巴",
+   "My boots were covered in _____.",
+   "我的靴子沾滿了泥巴。"
+  ],
+  [
+   "frightening",
+   "adj.",
+   "making you feel afraid",
+   "令人害怕的",
+   "The storm was quite _____.",
+   "那場暴風雨相當嚇人。"
+  ],
+  [
+   "foggy",
+   "adj.",
+   "with thick cloud near the ground",
+   "有霧的",
+   "It was so _____ that we couldn't see the road.",
+   "霧大到我們看不見路。"
+  ],
+  [
+   "presenter",
+   "n.",
+   "a person who introduces a radio or TV programme",
+   "主持人",
+   "The _____ welcomed everyone to the show.",
+   "主持人歡迎大家收看節目。"
+  ],
+  [
+   "in advance",
+   "phr.",
+   "before the time something happens",
+   "事先；提前",
+   "You should book tickets _____.",
+   "你應該提前訂票。"
+  ],
+  [
+   "volunteer",
+   "n.",
+   "a person who offers to help without being paid",
+   "志工；自願者",
+   "We need _____s to clean the beach.",
+   "我們需要志工來清理海灘。"
+  ],
+  [
+   "equipment",
+   "n.",
+   "the things you need for an activity",
+   "器材；設備",
+   "The school bought new sports _____.",
+   "學校買了新的運動器材。"
+  ],
+  [
+   "announcement",
+   "n.",
+   "a public statement giving information",
+   "公告；宣布",
+   "There was an _____ about the school trip.",
+   "有一則關於校外教學的公告。"
+  ],
+  [
+   "broadcast",
+   "n.",
+   "a programme on radio or TV",
+   "廣播；播出",
+   "The match was a live _____.",
+   "那場比賽是現場直播。"
+  ],
+  [
+   "deadline",
+   "n.",
+   "the time by which you must finish something",
+   "截止期限",
+   "The _____ for the project is Friday.",
+   "這份專題的截止日期是星期五。"
+  ]
+ ],
+ "EXTRA_GLOSS": {
+  "podcast": [
+   "n.",
+   "播客節目"
+  ],
+  "polar": [
+   "adj.",
+   "極地的"
+  ],
+  "underwater": [
+   "adj.",
+   "水下的"
+  ],
+  "windsurfing": [
+   "n.",
+   "風帆衝浪"
+  ],
+  "volleyball": [
+   "n.",
+   "排球"
+  ],
+  "musical": [
+   "n.",
+   "音樂劇"
+  ],
+  "novel": [
+   "n.",
+   "小說"
+  ],
+  "rainforest": [
+   "n.",
+   "雨林"
+  ],
+  "teenagers": [
+   "n.",
+   "青少年"
+  ],
+  "fireworks": [
+   "n.",
+   "煙火"
+  ],
+  "violin": [
+   "n.",
+   "小提琴"
+  ],
+  "chessboard": [
+   "n.",
+   "西洋棋盤"
+  ],
+  "socks": [
+   "n.",
+   "襪子"
+  ],
+  "track": [
+   "n.",
+   "賽道"
+  ],
+  "countryside": [
+   "n.",
+   "鄉間"
+  ],
+  "forest": [
+   "n.",
+   "森林"
+  ],
+  "farm": [
+   "n.",
+   "農場"
+  ],
+  "airport": [
+   "n.",
+   "機場"
+  ],
+  "password": [
+   "n.",
+   "密碼"
+  ]
+ }
+}

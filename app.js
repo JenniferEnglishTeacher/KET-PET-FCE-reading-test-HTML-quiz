@@ -25,6 +25,8 @@
   const isCorrect = (given, answer) => accepted(answer).some(x => x.toLowerCase() === String(given).trim().toLowerCase());
   const currentExam = () => exams.find(e => `#exam/${e.id}` === location.hash);
   const currentListening = () => listeningTests.find(e => `#listening/${e.id}` === location.hash);
+  const LISTENING_LEVELS = {KET: "A2 Key", PET: "B1 Preliminary", FCE: "B2 First"};
+  const levelName = test => LISTENING_LEVELS[test.level || "FCE"] || "B2 First";
 
   function board() {
     resetButton.hidden = true;
@@ -39,11 +41,11 @@
         <small>${done} / ${e.questionCount} answered</small><span class="card-arrow">Start →</span>
       </a>`;
     }).join("");
-    const listeningCards = listeningTests.map(test => {
+    const listeningCards = level => listeningTests.filter(test => (test.level || "FCE") === level).map(test => {
       const answers = load(stateKey(test.id));
       const done = Object.keys(answers).length;
-      return `<a class="exam-card listening-card" href="#listening/${test.id}">
-        <div class="level-pill">B2 First Listening</div>
+      return `<a class="exam-card listening-card lv-${(test.level || "FCE").toLowerCase()}" href="#listening/${test.id}">
+        <div class="level-pill">${levelName(test)} Listening</div>
         <h3>${esc(test.shortTitle)}</h3><p>${test.parts.length} parts · ${test.questionCount} questions</p>
         <div class="progress"><span style="width:${Math.round(done/test.questionCount*100)}%"></span></div>
         <small>${done} / ${test.questionCount} answered</small><span class="card-arrow">Start →</span>
@@ -55,7 +57,9 @@
         <div class="card-group"><h3>FCE Practice Tests 1-4</h3><div class="card-grid">${cards("FCE")}</div></div>
         <div class="card-group"><h3>Cambridge English First for Schools 3</h3><div class="card-grid">${cards("FCE", "Book 3")}</div></div>
       </div></section>
-      <section class="board-section listening-section" id="fce-listening"><div><p class="eyebrow">B2 level</p><h2>FCE Listening Tests</h2></div><div class="card-grid">${listeningCards}</div></section>`;
+      <section class="board-section listening-section" id="ket-listening"><div><p class="eyebrow">A2 level</p><h2>KET Listening Tests</h2></div><div class="card-grid">${listeningCards("KET")}</div></section>
+      <section class="board-section listening-section" id="pet-listening"><div><p class="eyebrow">B1 level</p><h2>PET Listening Tests</h2></div><div class="card-grid">${listeningCards("PET")}</div></section>
+      <section class="board-section listening-section" id="fce-listening"><div><p class="eyebrow">B2 level</p><h2>FCE Listening Tests</h2></div><div class="card-grid">${listeningCards("FCE")}</div></section>`;
   }
 
   function examView(exam) {
@@ -101,7 +105,7 @@
           ? `<input class="gap-input listening-gap" data-q="${q.number}" value="${esc(saved)}" aria-label="Answer ${q.number}" autocomplete="off" placeholder="Type, then press Enter">`
           : `<div class="listening-options">${Object.entries(q.options).map(([label, value]) => `<div class="listening-option"><button type="button" class="choice listening-choice ${saved===label?"selected":""}" data-q="${q.number}" data-value="${label}" aria-label="Question ${q.number}, option ${label}">${label}</button><span>${clickable(value)}</span></div>`).join("")}</div>`;
         return `<div class="question listen-question" id="q-${q.number}">
-          <div class="q-line"><span class="q-number">${q.number}</span><div><p class="q-prompt">${clickable(q.prompt)}</p>${part.mode === "text" ? control : ""}</div></div>
+          <div class="q-line"><span class="q-number">${q.number}</span><div><p class="q-prompt">${clickable(q.prompt)}</p>${q.image ? `<a class="q-image" href="${q.image}" target="_blank" title="Open the pictures full size"><img src="${q.image}" alt="Question ${q.number} pictures A, B and C" loading="lazy"></a>` : ""}${part.mode === "text" ? control : ""}</div></div>
           ${part.mode === "choice" ? control : ""}
           <a class="time-link" href="${test.videoUrl}&t=${q.timestamp}s" target="_blank" rel="noopener">Play from this question ↗</a>
           <div class="feedback">${saved ? listeningFeedbackHtml(saved, q) : ""}</div>
@@ -125,7 +129,7 @@
         </div><div class="answer-column"><div class="answer-panel listening-answers"><h3>Your answers</h3>${sharedOptions}${questions}</div>${notes}</div></div>
       </section>`;
     }).join("");
-    app.innerHTML = `<section class="exam-hero listening-hero"><a href="#board" class="back-link">← Practice board</a><p class="eyebrow">B2 First listening practice</p><h1>${esc(test.title)}</h1><p>${esc(test.sourceNote)}</p><div class="exam-progress"><strong>${answered} / ${test.questionCount}</strong><span>answered</span><div class="progress"><span style="width:${Math.round(answered/test.questionCount*100)}%"></span></div></div></section>
+    app.innerHTML = `<section class="exam-hero listening-hero"><a href="#board" class="back-link">← Practice board</a><p class="eyebrow">${levelName(test)} listening practice</p><h1>${esc(test.title)}</h1><p>${esc(test.sourceNote)}</p><div class="exam-progress"><strong>${answered} / ${test.questionCount}</strong><span>answered</span><div class="progress"><span style="width:${Math.round(answered/test.questionCount*100)}%"></span></div></div></section>
       <nav class="part-nav" aria-label="Listening test parts">${test.parts.map(part => `<a href="#${part.id}">${part.title.replace(/^Part \d+: /, "")}</a>`).join("")}</nav>
       ${parts}<section class="review-card"><div><p class="eyebrow">Personal word bank</p><h2>Words you looked up</h2></div><div id="reviewList">${reviewHtml(reviewed)}</div></section>`;
   }
@@ -152,7 +156,7 @@
     // Bigger text on every FCE screen (FCE reading tests, FCE listening tests, FCE board sections).
     document.documentElement.classList.toggle("fce-large", !!listening || (exam && exam.level === "FCE") || /^#fce-/.test(location.hash));
     app.focus({preventScroll:true});
-    const section = !listening && !exam && /^#(fce-listening|fce-reading|pet-reading)$/.test(location.hash) ? document.querySelector(location.hash) : null;
+    const section = !listening && !exam && /^#(fce-listening|pet-listening|ket-listening|fce-reading|pet-reading)$/.test(location.hash) ? document.querySelector(location.hash) : null;
     if (section) section.scrollIntoView({block:"start"});
   }
   addEventListener("hashchange", render);

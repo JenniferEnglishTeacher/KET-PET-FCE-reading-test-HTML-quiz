@@ -1,0 +1,1171 @@
+{
+ "LEVEL": "KET",
+ "TEST_NO": 8,
+ "VIDEO_ID": "GftulGNcRm0",
+ "SOURCE_NOTE": "Collins A2 Key Practice Test 8 (video: KET PET Mr Mol). Questions were read from the video's question screens; the audio script was transcribed from the video's English captions and edited. Part and question timings link to the first playing.",
+ "PARTS": [
+  {
+   "title": "Part 1: Multiple choice (pictures)",
+   "mode": "choice",
+   "bounds": [
+    21,
+    395
+   ],
+   "instr": "For each question, choose the correct answer.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "How long will they park for?",
+     "img": "assets/listening/ket8-q1.jpg",
+     "opts": {
+      "A": "1 hour",
+      "B": "1 hour 30 minutes",
+      "C": "2 hours"
+     },
+     "ans": "A",
+     "t": 31,
+     "ev": "I'll be finished in half an hour, then another half an hour for the other things. We'll be back in an hour.",
+     "why": "The woman wants to pay for two hours, but the man explains they only need half an hour + half an hour = one hour."
+    },
+    {
+     "n": 2,
+     "q": "What else will they have in their picnic?",
+     "img": "assets/listening/ket8-q2.jpg",
+     "opts": {
+      "A": "fruit",
+      "B": "sandwiches",
+      "C": "cake"
+     },
+     "ans": "B",
+     "t": 105,
+     "ev": "Sandwiches will fill me up. If I just have fruit, I'll be hungry later. – All right.",
+     "why": "They had cake yesterday, and fruit alone will leave her hungry, so they agree on sandwiches."
+    },
+    {
+     "n": 3,
+     "q": "What will they take to hospital for Jemima?",
+     "img": "assets/listening/ket8-q3.jpg",
+     "opts": {
+      "A": "flowers",
+      "B": "chocolates",
+      "C": "a book"
+     },
+     "ans": "A",
+     "t": 180,
+     "ev": "Let's go with your first idea. They'll look pretty in her room.",
+     "why": "The first idea was flowers. A book is no good because she has her own, and she can't eat much, so not chocolates."
+    },
+    {
+     "n": 4,
+     "q": "Where does Alex live?",
+     "img": "assets/listening/ket8-q4.jpg",
+     "opts": {
+      "A": "on the corner, south of Fore Street and west of High Street",
+      "B": "north of Fore Street, west of High Street",
+      "C": "south of Fore Street, east of High Street, near the Post Office"
+     },
+     "ans": "B",
+     "t": 244,
+     "ev": "Take the first turning on your left. My house is on the right-hand side of the road.",
+     "why": "Go up High Street past the post office, turn left into Fore Street, and the house is on the right – the north side of Fore Street (map B). 'Turn right' is the woman's mistake."
+    },
+    {
+     "n": 5,
+     "q": "How much will Nicola pay for her hotel room?",
+     "img": "assets/listening/ket8-q5.jpg",
+     "opts": {
+      "A": "£350",
+      "B": "£315",
+      "C": "£279"
+     },
+     "ans": "B",
+     "t": 310,
+     "ev": "I'll take the one with the queen-size bed, please.",
+     "why": "The queen-size room costs £315. £350 is 'rather expensive', and she asks about £279 but does not choose it."
+    }
+   ],
+   "notes": [
+    "All three prices or times are usually mentioned. Wait for the final decision (Q1 'We'll be back in an hour', Q5 'I'll take the one with the queen-size bed').",
+    "Listen for reasons that rule options out: cake 'yesterday', a book 'she'll have her own', chocolates 'she can't eat much'.",
+    "Q3 'your first idea' points back to the first thing suggested – flowers. Remember the order of ideas in a conversation."
+   ],
+   "script": [
+    [
+     "Question 1",
+     "第一題",
+     [
+      [
+       "Woman: Parking costs £1 for 30 minutes. Shall we pay for two hours?",
+       "女：停車每 30 分鐘 1 英鎊。我們付兩小時好嗎？"
+      ],
+      [
+       "Man: Let's say an hour.",
+       "男：付一小時就好。"
+      ],
+      [
+       "Woman: We're getting you a suit. That takes a long time. We need two hours at least.",
+       "女：我們要幫你買西裝，那很花時間。至少需要兩小時。"
+      ],
+      [
+       "Man: I'll be finished in half an hour, then another half an hour for the other things. We'll be back in an hour.",
+       "男：我半小時就會買好，其他東西再花半小時。我們一小時就會回來。"
+      ],
+      [
+       "Woman: OK.",
+       "女：好吧。"
+      ]
+     ]
+    ],
+    [
+     "Question 2",
+     "第二題",
+     [
+      [
+       "Man: Right. So, chicken and potato salad. What else should we take on our picnic?",
+       "男：好，那麼有雞肉和馬鈴薯沙拉。野餐還要帶什麼？"
+      ],
+      [
+       "Woman: Fruit? Sandwiches?",
+       "女：水果？三明治？"
+      ],
+      [
+       "Man: We always have fruit. What about something nice like cake?",
+       "男：我們每次都帶水果。帶點好吃的，像蛋糕怎麼樣？"
+      ],
+      [
+       "Woman: Cake? We had cake yesterday. I can't eat more cake.",
+       "女：蛋糕？我們昨天才吃過蛋糕。我吃不下更多蛋糕了。"
+      ],
+      [
+       "Man: OK, OK.",
+       "男：好啦好啦。"
+      ],
+      [
+       "Woman: Sandwiches will fill me up. If I just have fruit, I'll be hungry later.",
+       "女：三明治能讓我吃飽。如果只吃水果，我等一下就會餓。"
+      ],
+      [
+       "Man: All right.",
+       "男：好吧。"
+      ]
+     ]
+    ],
+    [
+     "Question 3",
+     "第三題",
+     [
+      [
+       "Woman: We must take something when we visit Jemima in hospital. People usually take flowers.",
+       "女：我們去醫院探望潔米瑪時一定要帶點東西。大家通常會帶花。"
+      ],
+      [
+       "Man: They're boring. Why not get her a book? Then she could do some reading.",
+       "男：花太無聊了。何不買本書給她？這樣她就可以看看書。"
+      ],
+      [
+       "Woman: But she'll have her own book. What about some chocolates?",
+       "女：可是她會有自己的書。那巧克力呢？"
+      ],
+      [
+       "Man: I don't think she can eat much. Let's go with your first idea. They'll look pretty in her room.",
+       "男：我想她吃不了多少東西。就照妳的第一個主意吧。花放在她房間裡會很漂亮。"
+      ]
+     ]
+    ],
+    [
+     "Question 4",
+     "第四題",
+     [
+      [
+       "Woman: How do we get to your house, Alex?",
+       "女：艾力克斯，我們要怎麼去你家？"
+      ],
+      [
+       "Alex: Go up the High Street, past the post office. Take the first turning on your left. My house is on the right-hand side of the road. You can't miss it.",
+       "艾力克斯：沿著高街往上走，經過郵局。在第一個路口左轉。我家在馬路的右手邊。你不會錯過的。"
+      ],
+      [
+       "Woman: I get my left and right mixed up. Turn right after the post office?",
+       "女：我常搞混左右。過了郵局右轉嗎？"
+      ],
+      [
+       "Alex: Left after the post office, then cross the road to get to my house.",
+       "艾力克斯：過了郵局左轉，然後過馬路就到我家了。"
+      ]
+     ]
+    ],
+    [
+     "Question 5",
+     "第五題",
+     [
+      [
+       "Nicola: Can I book a room for two for Friday and Saturday night, please?",
+       "妮可拉：請問我可以訂週五和週六晚上的雙人房嗎？"
+      ],
+      [
+       "Receptionist: We have one with a king-size bed for £350.",
+       "櫃檯人員：我們有一間特大號床的房間，350 英鎊。"
+      ],
+      [
+       "Nicola: That's rather expensive.",
+       "妮可拉：那有點貴。"
+      ],
+      [
+       "Receptionist: Or with a queen-size bed for £315, or a room with two single beds for £279.",
+       "櫃檯人員：或是大號雙人床的房間 315 英鎊，或是有兩張單人床的房間 279 英鎊。"
+      ],
+      [
+       "Nicola: Two single beds for £279?",
+       "妮可拉：兩張單人床 279 英鎊？"
+      ],
+      [
+       "Receptionist: Yes.",
+       "櫃檯人員：是的。"
+      ],
+      [
+       "Nicola: I'll take the one with the queen-size bed, please.",
+       "妮可拉：我要大號雙人床的那間，謝謝。"
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "title": "Part 2: Gap fill",
+   "mode": "text",
+   "bounds": [
+    395,
+    638
+   ],
+   "heading": "Coach trip to London",
+   "instr": "For each question, write the correct answer in the gap. Write one word or a number or a date or a time. You will hear a speaker giving information at the start of a coach trip to London.",
+   "questions": [
+    {
+     "n": 6,
+     "pre": "Free time in London: from 10.15 a.m. until",
+     "post": "p.m.",
+     "ans": [
+      "4.55",
+      "4:55",
+      "455",
+      "4.55 p.m.",
+      "4:55 p.m.",
+      "five to five"
+     ],
+     "key": "4.55",
+     "t": 446,
+     "ev": "You will have from 10.15 until five to five to look around the city."
+    },
+    {
+     "n": 7,
+     "pre": "Discount:",
+     "post": "% at Kings and Queens Shopping Centre",
+     "ans": [
+      "15",
+      "fifteen"
+     ],
+     "key": "15",
+     "t": 469,
+     "ev": "You can get a 15% discount in the shops there. I know it's not as good as the 20% we got last year…"
+    },
+    {
+     "n": 8,
+     "pre": "To get a discount, show your coach",
+     "post": "",
+     "ans": [
+      "ticket",
+      "tickets"
+     ],
+     "key": "ticket",
+     "t": 486,
+     "ev": "The staff there just need to see your coach ticket and they'll give you your discount."
+    },
+    {
+     "n": 9,
+     "pre": "Please look after your purses and",
+     "post": "",
+     "ans": [
+      "wallets",
+      "wallet"
+     ],
+     "key": "wallets",
+     "t": 496,
+     "ev": "Please be careful with your wallets and purses."
+    },
+    {
+     "n": 10,
+     "pre": "Michaela's personal mobile phone number: 0777",
+     "post": "",
+     "ans": [
+      "5819236",
+      "581 9236",
+      "5819 236",
+      "581 92 36",
+      "58 19 236"
+     ],
+     "key": "5819236",
+     "t": 507,
+     "ev": "If you have any problems, my mobile number is 07775 819236."
+    }
+   ],
+   "notes": [
+    "'Five to five' is a time: write it as 4.55. Times and numbers are often said in words, so change them into figures.",
+    "Q7: two numbers are heard (15% and 20%). 20% was LAST year – the answer is this year's discount, 15.",
+    "Q10: the paper already gives 0777, so write only the rest of the number. Phone numbers are repeated – use the second time to check."
+   ],
+   "script": [
+    [
+     "Coach trip to London",
+     "倫敦巴士之旅",
+     [
+      [
+       "Michaela: Good morning, everyone. My name's Michaela, and I'm going to give you some information about our trip today. It takes two hours to get to London, so that means that you will have from 10.15 until five to five to look around the city. We have to leave at that time, as the traffic gets very bad after five o'clock.",
+       "米凱拉：大家早安。我叫米凱拉，我要跟大家說明今天行程的一些資訊。到倫敦要兩個小時，所以你們從 10 點 15 分到 4 點 55 分可以在市區逛逛。我們必須在那個時間離開，因為五點以後交通會變得非常糟糕。"
+      ],
+      [
+       "Michaela: I know some of you want to go shopping, and the new Kings and Queens Shopping Centre on Bristol Street is now open. You can get a 15% discount in the shops there. I know it's not as good as the 20% we got last year, but I think you'll agree it's better than nothing. The staff there just need to see your coach ticket and they'll give you your discount.",
+       "米凱拉：我知道有些人想去購物，布里斯托街上新的「國王與王后購物中心」現在開幕了。你們在那裡的商店可以享有 85 折（15% 折扣）。我知道這不如去年的 20% 折扣好，但我想大家會同意總比沒有好。那裡的店員只要看你們的巴士車票，就會給你們折扣。"
+      ],
+      [
+       "Michaela: Please be careful with your wallets and purses. The streets and shops are crowded on Saturdays, and that's a chance for pickpockets to steal things. If you have any problems, my mobile number is 07775 819236. That's 07775 819236.",
+       "米凱拉：請小心保管你們的皮夾和錢包。星期六街上和商店裡人很多，扒手就有機會偷東西。如果有任何問題，我的手機號碼是 07775 819236。再說一次，07775 819236。"
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "title": "Part 3: Multiple choice",
+   "mode": "choice",
+   "bounds": [
+    638,
+    840
+   ],
+   "instr": "For each question, choose the correct answer. You will hear Vivien and Tom talking about their meals last night.",
+   "questions": [
+    {
+     "n": 11,
+     "q": "The table in Vivien's restaurant was",
+     "opts": {
+      "A": "too big.",
+      "B": "too small.",
+      "C": "too round."
+     },
+     "ans": "B",
+     "t": 684,
+     "ev": "We couldn't get round the table. We'd booked for six people, but eight came.",
+     "why": "Eight people at a table for six = the table was too small."
+    },
+    {
+     "n": 12,
+     "q": "Vivien's restaurant",
+     "opts": {
+      "A": "had special food for people like Monica.",
+      "B": "had a lot of dishes on the menu.",
+      "C": "didn't have vegetarian dishes."
+     },
+     "ans": "C",
+     "t": 697,
+     "ev": "They didn't have anything for Monica to eat. … She's a vegetarian.",
+     "why": "Nothing for a vegetarian to eat = no vegetarian dishes."
+    },
+    {
+     "n": 13,
+     "q": "At Vivien's restaurant, Mark",
+     "opts": {
+      "A": "changed his order.",
+      "B": "ordered chicken.",
+      "C": "had steak."
+     },
+     "ans": "C",
+     "t": 705,
+     "ev": "He ordered steak, but they brought him chicken, so he sent it back. And then he had to wait again for his steak.",
+     "why": "He got his steak in the end. He didn't change his order (A) – the restaurant made a mistake – and he didn't order chicken (B)."
+    },
+    {
+     "n": 14,
+     "q": "At Tom's restaurant,",
+     "opts": {
+      "A": "the dessert was the best part of the meal.",
+      "B": "everything was delicious, but not the dessert.",
+      "C": "the food was delicious, but the dessert wasn't as good as the rest of the meal."
+     },
+     "ans": "A",
+     "t": 718,
+     "ev": "The food was delicious, especially the dessert.",
+     "why": "'Especially the dessert' = the dessert was the best part."
+    },
+    {
+     "n": 15,
+     "q": "Tom",
+     "opts": {
+      "A": "paid too much for his meal.",
+      "B": "paid less than the full price for his meal.",
+      "C": "fixed the problem with the bill after half an hour."
+     },
+     "ans": "B",
+     "t": 732,
+     "ev": "In the end, they gave us a discount because of all the problems with the bill.",
+     "why": "A discount = he paid less than the full price. The restaurant fixed the bill, not Tom (C)."
+    }
+   ],
+   "notes": [
+    "Questions follow the order of the conversation: table → Monica → Mark → Tom's food → the bill.",
+    "Q13 is a trap: chicken is mentioned, but Mark ordered steak and got steak in the end.",
+    "Learn useful paraphrases: 'a discount' = paid less than the full price; 'especially the dessert' = the best part."
+   ],
+   "script": [
+    [
+     "Vivien and Tom talk about their meals",
+     "薇薇安和湯姆聊他們的晚餐",
+     [
+      [
+       "Vivien: Hi, Tom.",
+       "薇薇安：嗨，湯姆。"
+      ],
+      [
+       "Tom: Hi, Vivien. How was your meal last night?",
+       "湯姆：嗨，薇薇安。妳昨晚那頓飯吃得怎麼樣？"
+      ],
+      [
+       "Vivien: Actually, it didn't go too well. Firstly, we couldn't get round the table. We'd booked for six people, but eight came.",
+       "薇薇安：其實不太順利。首先，我們沒辦法都坐進那張桌子。我們訂了六個人的位子，結果來了八個人。"
+      ],
+      [
+       "Tom: Oh dear.",
+       "湯姆：哎呀。"
+      ],
+      [
+       "Vivien: Then they didn't have anything for Monica to eat.",
+       "薇薇安：然後他們沒有任何莫妮卡能吃的東西。"
+      ],
+      [
+       "Tom: She doesn't eat meat or fish, does she?",
+       "湯姆：她不吃肉也不吃魚，對吧？"
+      ],
+      [
+       "Vivien: That's right. She's a vegetarian. She wasn't happy. Then they brought Mark the wrong dish. He ordered steak, but they brought him chicken, so he sent it back. And then he had to wait again for his steak. What about your meal?",
+       "薇薇安：沒錯。她吃素。她很不開心。接著他們給馬克上錯菜。他點的是牛排，他們卻端來雞肉，所以他退了回去。然後他又得再等他的牛排。你那頓飯呢？"
+      ],
+      [
+       "Tom: The food was delicious, especially the dessert. Everything was perfect until the bill arrived.",
+       "湯姆：食物很好吃，尤其是甜點。一切都很完美，直到帳單送來。"
+      ],
+      [
+       "Vivien: Was it expensive?",
+       "薇薇安：很貴嗎？"
+      ],
+      [
+       "Tom: Well, it was quite expensive, but we knew that from before. The problem was they gave us the bill for a different table. It took half an hour for them to fix the problem. In the end, they gave us a discount because of all the problems with the bill.",
+       "湯姆：嗯，是蠻貴的，但我們之前就知道了。問題是他們給了我們另一桌的帳單。他們花了半小時才把問題處理好。最後，因為帳單出了這麼多問題，他們給了我們折扣。"
+      ],
+      [
+       "Vivien: Well, that's something at least.",
+       "薇薇安：嗯，至少還有點補償。"
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "title": "Part 4: Multiple choice",
+   "mode": "choice",
+   "bounds": [
+    840,
+    1170
+   ],
+   "instr": "For each question, choose the correct answer.",
+   "questions": [
+    {
+     "n": 16,
+     "stem": "You will hear two friends talking.",
+     "q": "Why can't the man play football this afternoon?",
+     "opts": {
+      "A": "He has a bad foot.",
+      "B": "He has to work.",
+      "C": "He has to go to the dentist."
+     },
+     "ans": "C",
+     "t": 848,
+     "ev": "I've got really bad toothache, so I'm going to see the dentist about that.",
+     "why": "His foot is 'fine now' and his boss said he could leave work early, so A and B are wrong."
+    },
+    {
+     "n": 17,
+     "stem": "You will hear a man talking.",
+     "q": "What animal did he see at the zoo?",
+     "opts": {
+      "A": "an elephant",
+      "B": "a bear",
+      "C": "a tiger"
+     },
+     "ans": "C",
+     "t": 921,
+     "ev": "That golden fur with the black stripes is fantastic.",
+     "why": "Golden fur with black stripes, big teeth and yellow eyes = a tiger."
+    },
+    {
+     "n": 18,
+     "stem": "You will hear two friends talking.",
+     "q": "Where have they been?",
+     "opts": {
+      "A": "to the library",
+      "B": "shopping",
+      "C": "to the cinema"
+     },
+     "ans": "A",
+     "t": 988,
+     "ev": "Maybe we can find them online. – Maybe. But I hate reading on a screen all the time.",
+     "why": "They wanted things to READ (not on a screen), and they will try 'the big one in the city centre' tomorrow = a bigger library."
+    },
+    {
+     "n": 19,
+     "stem": "You will hear a woman talking.",
+     "q": "Where does her friend live?",
+     "opts": {
+      "A": "in a city",
+      "B": "in a village",
+      "C": "by the sea"
+     },
+     "ans": "A",
+     "t": 1046,
+     "ev": "You wouldn't know that you were in the middle of a city.",
+     "why": "Her street only FEELS like a village; they travelled to the seaside on Saturday, so she doesn't live by the sea."
+    },
+    {
+     "n": 20,
+     "stem": "You will hear two friends talking about cooking dinner.",
+     "q": "What will the man do?",
+     "opts": {
+      "A": "wash the vegetables",
+      "B": "cut the vegetables",
+      "C": "cook the vegetables"
+     },
+     "ans": "B",
+     "t": 1110,
+     "ev": "Well, I'm not cutting them this time. – Okay, I'll do that. You do the rest.",
+     "why": "'I'll do that' = he will cut the vegetables; she will do the rest."
+    }
+   ],
+   "notes": [
+    "Many wrong options are mentioned but rejected: his foot is 'fine now' (Q16); the seaside was a day trip (Q19).",
+    "Q17 and Q18 never say the answer word. Use clues: stripes + golden fur = tiger; reading + 'the big one in the city centre' = library.",
+    "Watch for 'that' and 'it' (Q20 'I'll do that'). Find what the word refers to: cutting the vegetables."
+   ],
+   "script": [
+    [
+     "Question 16",
+     "第 16 題",
+     [
+      [
+       "Woman: So, are you playing football this afternoon?",
+       "女：那你今天下午要踢足球嗎？"
+      ],
+      [
+       "Man: I can't.",
+       "男：我不行。"
+      ],
+      [
+       "Woman: Don't tell me. It's your foot again, isn't it?",
+       "女：別跟我說，又是你的腳，對吧？"
+      ],
+      [
+       "Man: It's true I had problems with my foot, but it's fine now. And my boss said I could leave work early to play. The trouble is I've got really bad toothache, so I'm going to see the dentist about that.",
+       "男：我的腳以前確實有問題，但現在沒事了。而且我老闆說我可以提早下班去踢球。問題是我牙痛得很厲害，所以我要去看牙醫。"
+      ]
+     ]
+    ],
+    [
+     "Question 17",
+     "第 17 題",
+     [
+      [
+       "Man: It was just so beautiful. I watched it while it was eating. Those big teeth! I wouldn't like to be near it if it was hungry. That golden fur with the black stripes is fantastic. It must be really difficult to see it in the forest. And those yellow eyes – just beautiful.",
+       "男：牠真是太美了。我看著牠吃東西。那些大牙齒！如果牠餓了，我可不想靠近牠。那身帶黑色條紋的金色皮毛真是太棒了。在森林裡一定很難看到牠。還有那雙黃色的眼睛——真美。"
+      ]
+     ]
+    ],
+    [
+     "Question 18",
+     "第 18 題",
+     [
+      [
+       "Woman: I can't believe it. They didn't have anything we wanted.",
+       "女：真不敢相信。他們沒有任何我們要的東西。"
+      ],
+      [
+       "Man: I know. I was sure they'd have some of the things on our list. Maybe we can find them online.",
+       "男：我知道。我本來確定他們會有我們清單上的一些東西。也許我們可以在網路上找到。"
+      ],
+      [
+       "Woman: Maybe. But I hate reading on a screen all the time.",
+       "女：也許吧。可是我討厭一直在螢幕上閱讀。"
+      ],
+      [
+       "Man: Me too. Let's try the big one in the city centre tomorrow.",
+       "男：我也是。我們明天去市中心那間大的試試看吧。"
+      ]
+     ]
+    ],
+    [
+     "Question 19",
+     "第 19 題",
+     [
+      [
+       "Woman: I had a lovely time with Anika. She's got a lovely place. You wouldn't know that you were in the middle of a city. It's so quiet. Her street has a village feel to it – everyone knows everyone. Then we went off to the seaside on Saturday. It took a while to get there, but it was great fun.",
+       "女：我和安妮卡度過了很愉快的時光。她的住處很棒。你不會知道自己身在城市中心。那裡好安靜。她住的街道有種村莊的感覺——大家都互相認識。然後我們星期六去了海邊。花了一段時間才到，但非常好玩。"
+      ]
+     ]
+    ],
+    [
+     "Question 20",
+     "第 20 題",
+     [
+      [
+       "Woman: You have to help me.",
+       "女：你得幫我。"
+      ],
+      [
+       "Man: I always do.",
+       "男：我每次都有幫啊。"
+      ],
+      [
+       "Woman: Not just the easy things. The hard work is washing and cutting the vegetables. Cooking them is easy.",
+       "女：不只是簡單的事。辛苦的是洗菜和切菜。煮菜很簡單。"
+      ],
+      [
+       "Man: But I'm good at cooking.",
+       "男：可是我很會煮啊。"
+      ],
+      [
+       "Woman: Well, I'm not cutting them this time.",
+       "女：嗯，這次我不切菜。"
+      ],
+      [
+       "Man: OK, I'll do that. You do the rest.",
+       "男：好，我來切。其他的妳做。"
+      ],
+      [
+       "Woman: Fine.",
+       "女：好。"
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "title": "Part 5: Matching",
+   "mode": "choice",
+   "bounds": [
+    1170,
+    1392
+   ],
+   "instr": "For each question, choose the correct answer. You will hear two people talking about their families. What activities do their children like? (Example: George – D)",
+   "shared": {
+    "A": "playing board games",
+    "B": "going to the cinema",
+    "C": "visiting art exhibitions",
+    "D": "reading",
+    "E": "going to the theatre",
+    "F": "playing video games",
+    "G": "dancing",
+    "H": "playing the electric guitar"
+   },
+   "questions": [
+    {
+     "n": 21,
+     "q": "Henry",
+     "ans": "F",
+     "t": 1218,
+     "ev": "Henry spends all his time in front of a computer screen.",
+     "why": "All his time in front of a computer screen = playing video games."
+    },
+    {
+     "n": 22,
+     "q": "Edward",
+     "ans": "A",
+     "t": 1228,
+     "ev": "He's on the school chess team now. … he loves games like chess.",
+     "why": "Chess is a board game."
+    },
+    {
+     "n": 23,
+     "q": "Annabel",
+     "ans": "H",
+     "t": 1248,
+     "ev": "She's the musician of the family. She plays in a band with some friends. They make a terrible noise.",
+     "why": "A musician who plays in a loud band = playing the electric guitar."
+    },
+    {
+     "n": 24,
+     "q": "Sophie",
+     "ans": "C",
+     "t": 1260,
+     "ev": "Sophie is the one who loves painting. … She loves going to see shows with the very modern stuff.",
+     "why": "She loves painting and going to see modern art = art exhibitions. She is NOT the dancer."
+    },
+    {
+     "n": 25,
+     "q": "Ellie",
+     "ans": "G",
+     "t": 1272,
+     "ev": "Ellie is the one who's always practising in her bedroom. I can hear her jumping around.",
+     "why": "'Is she the dancer?' – the answer is Ellie, not Sophie. She practises and jumps around = dancing."
+    }
+   ],
+   "notes": [
+    "The example (George – D reading) cannot be used again.",
+    "Names are often mixed up on purpose: 'You're getting Ellie and Sophie mixed up.' Check which person each description belongs to.",
+    "The activity word is often not said: computer screen = video games; chess = board games; a band = electric guitar."
+   ],
+   "script": [
+    [
+     "Two parents talk about their children",
+     "兩位家長聊他們的孩子",
+     [
+      [
+       "Man: So, what kind of things do your children like doing?",
+       "男：那妳的孩子喜歡做哪些事？"
+      ],
+      [
+       "Woman: George loves books. He reads anything.",
+       "女：喬治很愛書。他什麼都讀。"
+      ],
+      [
+       "Man: Oh, I wish Henry did. Henry spends all his time in front of a computer screen. I keep telling him to go outside, but he doesn't listen.",
+       "男：噢，真希望亨利也這樣。亨利整天都待在電腦螢幕前。我一直叫他出去外面，但他都不聽。"
+      ],
+      [
+       "Woman: Edward was like that, but he's changed. He's on the school chess team now.",
+       "女：愛德華以前也是那樣，但他變了。他現在是學校西洋棋隊的成員。"
+      ],
+      [
+       "Man: Oh, that's great.",
+       "男：噢，那很棒。"
+      ],
+      [
+       "Woman: Yes, he loves games like chess, but he doesn't do much exercise. And Annabel – she's the musician of the family. She plays in a band with some friends. They make a terrible noise. Luckily, they don't practise at our house.",
+       "女：是啊，他很愛西洋棋這類的遊戲，但他不太運動。還有安娜貝爾——她是家裡的音樂家。她和幾個朋友一起組樂團。他們吵得要命。幸好他們不在我們家練習。"
+      ],
+      [
+       "Man: She sounds very different to my Sophie.",
+       "男：她聽起來跟我家蘇菲很不一樣。"
+      ],
+      [
+       "Woman: Is she the dancer?",
+       "女：她是那個跳舞的嗎？"
+      ],
+      [
+       "Man: You're getting Ellie and Sophie mixed up. Sophie is the one who loves painting.",
+       "男：妳把艾莉和蘇菲搞混了。蘇菲是愛畫畫的那個。"
+      ],
+      [
+       "Woman: Ah.",
+       "女：啊。"
+      ],
+      [
+       "Man: She loves going to see shows with the very modern stuff, and she draws quite well herself. Ellie is the one who's always practising in her bedroom. I can hear her jumping around, and she sometimes bumps into the furniture.",
+       "男：她很喜歡去看很現代的作品展覽，而且她自己也畫得很好。艾莉是那個總在臥室裡練習的。我聽得到她跳來跳去，有時候還會撞到家具。"
+      ],
+      [
+       "Woman: We can't get any of them to do things with us.",
+       "女：我們沒辦法讓他們任何一個跟我們一起做事。"
+      ],
+      [
+       "Man: Same here. Not even Henry.",
+       "男：我也是。連亨利都不肯。"
+      ]
+     ]
+    ]
+   ]
+  }
+ ],
+ "VOCAB": [
+  [
+   "park",
+   "v.",
+   "to leave a car somewhere for a time",
+   "停車",
+   "We couldn't find anywhere to _____ near the shops.",
+   "我們在商店附近找不到地方停車。"
+  ],
+  [
+   "suit",
+   "n.",
+   "a jacket and trousers made of the same cloth",
+   "西裝；套裝",
+   "He wore a dark _____ to the wedding.",
+   "他穿了一套深色西裝去參加婚禮。"
+  ],
+  [
+   "at least",
+   "phr.",
+   "not less than",
+   "至少",
+   "The trip takes _____ two hours.",
+   "這趟旅程至少要兩個小時。"
+  ],
+  [
+   "picnic",
+   "n.",
+   "a meal you eat outside, e.g. in a park",
+   "野餐",
+   "Let's have a _____ by the river.",
+   "我們在河邊野餐吧。"
+  ],
+  [
+   "fill up",
+   "phr. v.",
+   "to make someone feel full",
+   "使吃飽",
+   "A bowl of rice will _____ you _____.",
+   "一碗飯就能讓你吃飽。"
+  ],
+  [
+   "hungry",
+   "adj.",
+   "wanting to eat",
+   "飢餓的",
+   "I didn't have breakfast, so I'm very _____.",
+   "我沒吃早餐，所以很餓。"
+  ],
+  [
+   "hospital",
+   "n.",
+   "a place where sick people are looked after",
+   "醫院",
+   "My grandmother is in _____ with a bad leg.",
+   "我奶奶因為腿傷住院了。"
+  ],
+  [
+   "boring",
+   "adj.",
+   "not interesting",
+   "無聊的",
+   "The film was so _____ that I fell asleep.",
+   "那部電影無聊到我睡著了。"
+  ],
+  [
+   "pretty",
+   "adj.",
+   "nice to look at",
+   "漂亮的",
+   "The garden looks _____ in spring.",
+   "這座花園在春天看起來很漂亮。"
+  ],
+  [
+   "turning",
+   "n.",
+   "a place where a road goes off another road",
+   "轉彎處；岔路",
+   "Take the second _____ on the right.",
+   "在右邊第二個路口轉彎。"
+  ],
+  [
+   "mix up",
+   "phr. v.",
+   "to think one thing or person is another",
+   "搞混",
+   "I always _____ the twins _____.",
+   "我總是把那對雙胞胎搞混。"
+  ],
+  [
+   "cross",
+   "v.",
+   "to go from one side to the other",
+   "穿越；過（馬路）",
+   "Be careful when you _____ the road.",
+   "過馬路時要小心。"
+  ],
+  [
+   "book",
+   "v.",
+   "to arrange to have a room, seat, etc. in the future",
+   "預訂",
+   "I'd like to _____ a table for four, please.",
+   "我想預訂一張四人桌，謝謝。"
+  ],
+  [
+   "expensive",
+   "adj.",
+   "costing a lot of money",
+   "昂貴的",
+   "This phone is too _____ for me.",
+   "這支手機對我來說太貴了。"
+  ],
+  [
+   "single",
+   "adj.",
+   "for one person",
+   "單人的",
+   "The room has two _____ beds.",
+   "這個房間有兩張單人床。"
+  ],
+  [
+   "coach",
+   "n.",
+   "a comfortable bus for long journeys",
+   "長途巴士；遊覽車",
+   "We went to London by _____.",
+   "我們搭遊覽車去倫敦。"
+  ],
+  [
+   "journey",
+   "n.",
+   "travelling from one place to another",
+   "旅程",
+   "The _____ to school takes twenty minutes.",
+   "上學的路程要二十分鐘。"
+  ],
+  [
+   "traffic",
+   "n.",
+   "the cars, buses, etc. on a road",
+   "交通；車流",
+   "There's always a lot of _____ at five o'clock.",
+   "五點時總是有很多車。"
+  ],
+  [
+   "discount",
+   "n.",
+   "an amount taken off the usual price",
+   "折扣",
+   "Students get a 10% _____ at the cinema.",
+   "學生在電影院可享九折優惠。"
+  ],
+  [
+   "staff",
+   "n.",
+   "the people who work in a place",
+   "員工",
+   "The _____ in this shop are very friendly.",
+   "這家店的員工非常友善。"
+  ],
+  [
+   "wallet",
+   "n.",
+   "a small flat case for money and cards",
+   "皮夾",
+   "He keeps his bus card in his _____.",
+   "他把公車卡放在皮夾裡。"
+  ],
+  [
+   "purse",
+   "n.",
+   "a small bag for money",
+   "錢包",
+   "She took some coins out of her _____.",
+   "她從錢包裡拿出一些硬幣。"
+  ],
+  [
+   "crowded",
+   "adj.",
+   "full of people",
+   "擁擠的",
+   "The train was very _____ this morning.",
+   "今天早上的火車非常擁擠。"
+  ],
+  [
+   "steal",
+   "v.",
+   "to take something that is not yours",
+   "偷",
+   "Someone tried to _____ my bike.",
+   "有人想偷我的腳踏車。"
+  ],
+  [
+   "vegetarian",
+   "n.",
+   "a person who does not eat meat or fish",
+   "素食者",
+   "My sister is a _____, so she eats a lot of beans.",
+   "我姊姊吃素，所以她吃很多豆子。"
+  ],
+  [
+   "dish",
+   "n.",
+   "food cooked in a particular way",
+   "一道菜",
+   "Pizza is my favourite _____.",
+   "披薩是我最喜歡的一道菜。"
+  ],
+  [
+   "send back",
+   "phr. v.",
+   "to return something because it is wrong",
+   "退回",
+   "The soup was cold, so I _____ it _____.",
+   "湯是冷的，所以我把它退回去。"
+  ],
+  [
+   "delicious",
+   "adj.",
+   "tasting very good",
+   "美味的",
+   "Your cake is _____!",
+   "你的蛋糕好好吃！"
+  ],
+  [
+   "dessert",
+   "n.",
+   "sweet food at the end of a meal",
+   "甜點",
+   "We had ice cream for _____.",
+   "我們的甜點是冰淇淋。"
+  ],
+  [
+   "bill",
+   "n.",
+   "a piece of paper that shows how much to pay",
+   "帳單",
+   "Can we have the _____, please?",
+   "請給我們帳單好嗎？"
+  ],
+  [
+   "toothache",
+   "n.",
+   "a pain in a tooth",
+   "牙痛",
+   "I've got _____, so I can't eat sweets.",
+   "我牙痛，所以不能吃糖。"
+  ],
+  [
+   "dentist",
+   "n.",
+   "a doctor who looks after teeth",
+   "牙醫",
+   "I go to the _____ twice a year.",
+   "我一年看兩次牙醫。"
+  ],
+  [
+   "stripe",
+   "n.",
+   "a long thin line of colour",
+   "條紋",
+   "A zebra has black and white _____.",
+   "斑馬有黑白相間的條紋。"
+  ],
+  [
+   "online",
+   "adv.",
+   "on the internet",
+   "在網路上",
+   "I bought these shoes _____.",
+   "這雙鞋是我在網路上買的。"
+  ],
+  [
+   "quiet",
+   "adj.",
+   "with very little noise",
+   "安靜的",
+   "The library is a _____ place to study.",
+   "圖書館是個安靜的讀書地方。"
+  ],
+  [
+   "seaside",
+   "n.",
+   "a place by the sea for holidays",
+   "海邊",
+   "We spent the weekend at the _____.",
+   "我們在海邊度過了週末。"
+  ],
+  [
+   "chess",
+   "n.",
+   "a board game for two players",
+   "西洋棋",
+   "My brother taught me to play _____.",
+   "我哥哥教我下西洋棋。"
+  ],
+  [
+   "band",
+   "n.",
+   "a group of musicians",
+   "樂團",
+   "He plays the drums in a _____.",
+   "他在一個樂團裡打鼓。"
+  ],
+  [
+   "practise",
+   "v.",
+   "to do something many times to get better",
+   "練習",
+   "She _____ the piano every day.",
+   "她每天練鋼琴。"
+  ],
+  [
+   "furniture",
+   "n.",
+   "tables, chairs, beds, etc.",
+   "家具",
+   "We bought some new _____ for the living room.",
+   "我們為客廳買了一些新家具。"
+  ]
+ ],
+ "EXTRA_GLOSS": {
+  "chocolates": [
+   "n.",
+   "巧克力（盒裝）"
+  ],
+  "receptionist": [
+   "n.",
+   "櫃檯人員"
+  ],
+  "pickpocket": [
+   "n.",
+   "扒手"
+  ],
+  "steak": [
+   "n.",
+   "牛排"
+  ],
+  "fur": [
+   "n.",
+   "毛皮"
+  ],
+  "zoo": [
+   "n.",
+   "動物園"
+  ],
+  "village": [
+   "n.",
+   "村莊"
+  ],
+  "exhibition": [
+   "n.",
+   "展覽"
+  ],
+  "theatre": [
+   "n.",
+   "劇院"
+  ],
+  "guitar": [
+   "n.",
+   "吉他"
+  ],
+  "cinema": [
+   "n.",
+   "電影院"
+  ],
+  "library": [
+   "n.",
+   "圖書館"
+  ],
+  "vegetables": [
+   "n.",
+   "蔬菜"
+  ],
+  "musician": [
+   "n.",
+   "音樂家"
+  ],
+  "painting": [
+   "n.",
+   "繪畫"
+  ],
+  "noise": [
+   "n.",
+   "噪音"
+  ]
+ }
+}
