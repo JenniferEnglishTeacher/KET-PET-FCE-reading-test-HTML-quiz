@@ -49,4 +49,4 @@ keep listening tests in descending number order so the board lists them ascendin
 commit and push to `main`.
 
 ## 6. Deliver
-Save the docx to `C:\Users\Jennifer\Documents\FCE reading tests turn into HTML website\FCE Listening docx\`.
+Save the docx to `D:\英語教學資源和師訓\FCE\KET PET FCE listening\` (all KET, PET and FCE listening docx go here, e.g. `KET_Listening_No._N.docx`, `PET_Listening_No._N.docx`, `FCE_Listening_No._NN.docx`). Never overwrite an existing file.

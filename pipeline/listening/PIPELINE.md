@@ -57,5 +57,4 @@ level in descending test-number order (the board then lists them ascending). Upd
 Check the page in Playwright (no console errors, images load, Play-from-question links, notes reveal). Commit and push.
 
 ## Deliver
-Save the docx to `C:\Users\Jennifer\Documents\FCE reading tests turn into HTML website\FCE Listening docx\`
-(the connected folder; KET/PET files sit beside the FCE ones, named `KET_Listening_No._N.docx` / `PET_Listening_No._N.docx`).
+Save the docx to `D:\英語教學資源和師訓\FCE\KET PET FCE listening\` (all KET, PET and FCE listening docx go here, e.g. `KET_Listening_No._N.docx`, `PET_Listening_No._N.docx`, `FCE_Listening_No._NN.docx`). Never overwrite an existing file.
