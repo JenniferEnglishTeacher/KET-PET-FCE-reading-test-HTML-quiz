@@ -7,7 +7,7 @@ Interactive Cambridge reading practice board with:
 - Cambridge English First for Schools 3, Tests 1-4 (Reading Parts 5-7)
 - A2 Key (KET) Listening Tests 4-8 (Parts 1-5, Questions 1-25)
 - B1 Preliminary (PET) for Schools Listening Tests 13-17 (Parts 1-4, Questions 1-25)
-- B2 First (FCE) Listening Tests 52-67 (Parts 1-4, Questions 1-30)
+- B2 First (FCE) Listening Tests 51-67 (Parts 1-4, Questions 1-30)
 - Embedded original listening video with part and question time links
 - Question-aligned answer evidence and study notes
 - Original source-page scans beside interactive answer controls
